@@ -13,7 +13,7 @@ const getApiUrl = () => {
   }
   
   // Otherwise, use production backend
-  return 'https://product-conflicts-backend.onrender.com/api';
+  return 'https://product-conflicts-app.onrender.com/api';
 };
 
 const API_BASE_URL = getApiUrl();
