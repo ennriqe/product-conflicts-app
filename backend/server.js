@@ -261,6 +261,142 @@ app.delete('/api/products/:productId', authenticateToken, async (req, res) => {
 });
 
 
+// Export resolved conflicts to Excel
+app.get('/api/export-excel', authenticateToken, async (req, res) => {
+  try {
+    // Get all products with their conflicts and resolutions
+    const productsQuery = `
+      SELECT 
+        p.id as product_id,
+        p.item_number,
+        p.description,
+        p.category,
+        c.id as conflict_id,
+        c.conflict_type,
+        c.reason,
+        c.quality_line_value,
+        c.attribute_value,
+        r.resolved_value,
+        r.comment,
+        r.resolved_by,
+        r.resolved_at
+      FROM products p
+      LEFT JOIN conflicts c ON p.id = c.product_id
+      LEFT JOIN resolutions r ON c.id = r.conflict_id
+      ORDER BY p.item_number, c.id
+    `;
+    
+    const result = await pool.query(productsQuery);
+    const data = result.rows;
+    
+    // Group data by product
+    const productsMap = new Map();
+    
+    data.forEach(row => {
+      const productId = row.product_id;
+      
+      if (!productsMap.has(productId)) {
+        productsMap.set(productId, {
+          item_number: row.item_number,
+          description: row.description,
+          category: row.category,
+          conflicts: []
+        });
+      }
+      
+      if (row.conflict_id) {
+        productsMap.get(productId).conflicts.push({
+          conflict_type: row.conflict_type,
+          reason: row.reason,
+          quality_line_value: row.quality_line_value,
+          attribute_value: row.attribute_value,
+          resolved_value: row.resolved_value,
+          comment: row.comment,
+          resolved_by: row.resolved_by,
+          resolved_at: row.resolved_at
+        });
+      }
+    });
+    
+    // Convert to Excel format
+    const excelData = [];
+    
+    // Add header row
+    excelData.push([
+      'Item Number',
+      'Product Description',
+      'Category',
+      'Conflict Type',
+      'Reason',
+      'Quality Line Value',
+      'Attribute Value',
+      'Resolved Value',
+      'Comment',
+      'Resolved By',
+      'Resolved At'
+    ]);
+    
+    // Add data rows
+    productsMap.forEach(product => {
+      if (product.conflicts.length === 0) {
+        // Product with no conflicts
+        excelData.push([
+          product.item_number,
+          product.description,
+          product.category,
+          'No Conflicts',
+          '',
+          '',
+          '',
+          '',
+          '',
+          '',
+          ''
+        ]);
+      } else {
+        // Product with conflicts
+        product.conflicts.forEach(conflict => {
+          excelData.push([
+            product.item_number,
+            product.description,
+            product.category,
+            conflict.conflict_type,
+            conflict.reason,
+            conflict.quality_line_value,
+            conflict.attribute_value,
+            conflict.resolved_value || 'Unresolved',
+            conflict.comment || '',
+            conflict.resolved_by || '',
+            conflict.resolved_at || ''
+          ]);
+        });
+      }
+    });
+    
+    // Create Excel workbook
+    const XLSX = require('xlsx');
+    const worksheet = XLSX.utils.aoa_to_sheet(excelData);
+    const workbook = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(workbook, worksheet, 'Resolved Conflicts');
+    
+    // Generate Excel buffer
+    const excelBuffer = XLSX.write(workbook, { type: 'buffer', bookType: 'xlsx' });
+    
+    // Set response headers for file download
+    const filename = `product-conflicts-export-${new Date().toISOString().split('T')[0]}.xlsx`;
+    res.setHeader('Content-Type', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet');
+    res.setHeader('Content-Disposition', `attachment; filename="${filename}"`);
+    res.setHeader('Content-Length', excelBuffer.length);
+    
+    // Send the Excel file
+    res.send(excelBuffer);
+    
+  } catch (error) {
+    console.error('Error exporting Excel:', error);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
 // Health check
 app.get('/api/health', (req, res) => {
   res.json({ status: 'OK', timestamp: new Date().toISOString() });
