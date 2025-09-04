@@ -279,7 +279,7 @@ app.get('/api/export-excel', authenticateToken, async (req, res) => {
         c.reason,
         c.quality_line_value,
         c.attribute_value,
-        r.resolved_value,
+        r.selected_value as resolved_value,
         r.comment,
         r.resolved_by,
         r.resolved_at
