@@ -1,9 +1,26 @@
 import axios from 'axios';
 
-const API_BASE_URL = process.env.REACT_APP_API_URL || 
-  (window.location.hostname === 'product-conflicts-frontend.onrender.com' 
-    ? 'https://product-conflicts-backend.onrender.com/api' 
-    : 'http://localhost:5000/api');
+// Determine API URL based on environment
+const getApiUrl = () => {
+  // If environment variable is set, use it
+  if (process.env.REACT_APP_API_URL) {
+    return process.env.REACT_APP_API_URL;
+  }
+  
+  // If running on localhost, use local backend
+  if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+    return 'http://localhost:5000/api';
+  }
+  
+  // Otherwise, use production backend
+  return 'https://product-conflicts-backend.onrender.com/api';
+};
+
+const API_BASE_URL = getApiUrl();
+
+// Debug logging
+console.log('🌐 API Base URL:', API_BASE_URL);
+console.log('📍 Current hostname:', window.location.hostname);
 
 const api = axios.create({
   baseURL: API_BASE_URL,
