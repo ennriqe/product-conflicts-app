@@ -293,6 +293,16 @@ app.get('/api/health', (req, res) => {
   res.json({ status: 'OK', timestamp: new Date().toISOString() });
 });
 
+// Root endpoint for debugging
+app.get('/', (req, res) => {
+  res.json({ 
+    message: 'Product Conflicts Backend API', 
+    status: 'running',
+    timestamp: new Date().toISOString(),
+    endpoints: ['/api/health', '/api/login', '/api/responsible-persons', '/api/products/:email']
+  });
+});
+
 // Initialize database and start server
 initializeDatabase().then(() => {
   app.listen(PORT, () => {
