@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Package, RefreshCw, CheckCircle, AlertTriangle, AlertCircle, BarChart3, Target } from 'lucide-react';
+import { Package, RefreshCw, CheckCircle, AlertTriangle, AlertCircle, BarChart3, Target, Download } from 'lucide-react';
 import ProductCard from './ProductCard';
 import { productsAPI } from '../services/api';
 
@@ -48,8 +48,39 @@ const ProductList = ({ selectedPerson, onBack }) => {
       return prevProducts.map(product => ({
         ...product,
         conflicts: product.conflicts.filter(conflict => conflict.id !== conflictId)
-      }));
+      }))
     });
+  };
+
+  const handleExportExcel = async () => {
+    try {
+      const response = await productsAPI.exportExcel();
+      
+      // Create blob and download
+      const blob = new Blob([response.data], { 
+        type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' 
+      });
+      
+      const url = window.URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = url;
+      
+      // Get filename from response headers or use default
+      const contentDisposition = response.headers['content-disposition'];
+      const filename = contentDisposition 
+        ? contentDisposition.split('filename=')[1]?.replace(/"/g, '')
+        : `product-conflicts-export-${new Date().toISOString().split('T')[0]}.xlsx`;
+      
+      link.download = filename;
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      window.URL.revokeObjectURL(url);
+      
+    } catch (error) {
+      console.error('Error exporting Excel:', error);
+      alert('Failed to export Excel file. Please try again.');
+    }
   };
 
   if (loading) {
@@ -137,6 +168,20 @@ const ProductList = ({ selectedPerson, onBack }) => {
         </div>
         
         <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap' }}>
+          <button 
+            className="btn" 
+            onClick={handleExportExcel}
+            style={{ 
+              backgroundColor: '#27ae60', 
+              color: 'white',
+              display: 'flex',
+              alignItems: 'center',
+              gap: '8px'
+            }}
+          >
+            <Download size={16} />
+            Export Excel
+          </button>
           <button className="btn" onClick={onBack}>
             Back to Person Selection
           </button>

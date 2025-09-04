@@ -65,6 +65,7 @@ export const productsAPI = {
       resolvedBy,
     }),
   deleteConflict: (conflictId) => api.delete(`/conflicts/${conflictId}`),
+  exportExcel: () => api.get('/export-excel', { responseType: 'blob' }),
 };
 
 export default api;
