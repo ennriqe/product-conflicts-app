@@ -64,6 +64,7 @@ export const productsAPI = {
       comment,
       resolvedBy,
     }),
+  deleteConflict: (conflictId) => api.delete(`/conflicts/${conflictId}`),
 };
 
 export default api;

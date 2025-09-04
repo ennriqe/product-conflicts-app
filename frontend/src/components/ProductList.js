@@ -28,11 +28,28 @@ const ProductList = ({ selectedPerson, onBack }) => {
   };
 
 
-  const handleConflictResolved = () => {
-    // Small delay to allow the UI to update smoothly
-    setTimeout(() => {
-      fetchProducts(); // Refresh the product list
-    }, 100);
+  const handleConflictResolved = (conflictId) => {
+    // Update local state instead of full refresh to maintain scroll position and expanded state
+    setProducts(prevProducts => {
+      return prevProducts.map(product => ({
+        ...product,
+        conflicts: product.conflicts.map(conflict => 
+          conflict.id === conflictId 
+            ? { ...conflict, resolved_value: 'resolved', resolved_at: new Date().toISOString() }
+            : conflict
+        )
+      }));
+    });
+  };
+
+  const handleConflictDeleted = (conflictId) => {
+    // Remove the conflict from local state
+    setProducts(prevProducts => {
+      return prevProducts.map(product => ({
+        ...product,
+        conflicts: product.conflicts.filter(conflict => conflict.id !== conflictId)
+      }));
+    });
   };
 
   if (loading) {
@@ -282,6 +299,7 @@ const ProductList = ({ selectedPerson, onBack }) => {
                     product={product}
                     resolvedBy={selectedPerson.responsible_person_name}
                     onConflictResolved={handleConflictResolved}
+                    onConflictDeleted={handleConflictDeleted}
                   />
                 ))
               )}

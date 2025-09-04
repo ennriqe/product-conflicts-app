@@ -3,7 +3,7 @@ import { Package, AlertTriangle, CheckCircle, Clock, ChevronDown, ChevronRight, 
 import ConflictResolver from './ConflictResolver';
 import { productsAPI } from '../services/api';
 
-const ProductCard = ({ product, resolvedBy, onConflictResolved }) => {
+const ProductCard = ({ product, resolvedBy, onConflictResolved, onConflictDeleted }) => {
   const [isResolving, setIsResolving] = useState(false);
   const [isExpanded, setIsExpanded] = useState(false);
 
@@ -12,7 +12,7 @@ const ProductCard = ({ product, resolvedBy, onConflictResolved }) => {
     try {
       await productsAPI.resolveConflict(conflictId, selectedValue, comment, resolvedBy);
       // Update the local state instead of triggering a full refresh
-      onConflictResolved();
+      onConflictResolved(conflictId);
     } catch (error) {
       console.error('Error resolving conflict:', error);
     } finally {
@@ -24,9 +24,10 @@ const ProductCard = ({ product, resolvedBy, onConflictResolved }) => {
     if (window.confirm('Are you sure you want to delete this conflict? This action cannot be undone.')) {
       setIsResolving(true);
       try {
-        // For now, we'll mark it as resolved with a special "deleted" value
-        await productsAPI.resolveConflict(conflictId, 'deleted', 'Conflict marked as non-conflict and deleted', resolvedBy);
-        onConflictResolved();
+        // Delete the conflict from the backend
+        await productsAPI.deleteConflict(conflictId);
+        // Remove from local state
+        onConflictDeleted(conflictId);
       } catch (error) {
         console.error('Error deleting conflict:', error);
       } finally {
@@ -68,6 +69,16 @@ const ProductCard = ({ product, resolvedBy, onConflictResolved }) => {
             {isExpanded ? <ChevronDown size={20} /> : <ChevronRight size={20} />}
             <Package size={20} />
             Product #{product.item_number}
+            {product.description && (
+              <span style={{ 
+                fontSize: '14px', 
+                color: '#666', 
+                fontWeight: 'normal',
+                marginLeft: '8px'
+              }}>
+                - {product.description}
+              </span>
+            )}
           </div>
           <div className="product-category">{product.category}</div>
         </div>
