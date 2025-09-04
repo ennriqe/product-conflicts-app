@@ -28,12 +28,19 @@ async function initializeDatabase() {
         id SERIAL PRIMARY KEY,
         item_number VARCHAR(50) UNIQUE NOT NULL,
         category VARCHAR(100),
+        description TEXT,
         overall_reason TEXT,
         overall_equal BOOLEAN,
         responsible_person_name VARCHAR(100),
         responsible_person_email VARCHAR(100),
         created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
       )
+    `);
+
+    // Add description column if it doesn't exist (for existing databases)
+    await pool.query(`
+      ALTER TABLE products 
+      ADD COLUMN IF NOT EXISTS description TEXT
     `);
 
     // Create conflicts table
@@ -183,6 +190,28 @@ app.post('/api/resolve-conflict', authenticateToken, async (req, res) => {
     res.json({ message: 'Conflict resolved successfully' });
   } catch (error) {
     console.error('Error resolving conflict:', error);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
+// Update a product
+app.put('/api/products/:productId', authenticateToken, async (req, res) => {
+  try {
+    const { productId } = req.params;
+    const { description } = req.body;
+    
+    const result = await pool.query(
+      'UPDATE products SET description = $1 WHERE id = $2 RETURNING *',
+      [description, productId]
+    );
+    
+    if (result.rowCount === 0) {
+      return res.status(404).json({ error: 'Product not found' });
+    }
+    
+    res.json(result.rows[0]);
+  } catch (error) {
+    console.error('Error updating product:', error);
     res.status(500).json({ error: 'Internal server error' });
   }
 });
