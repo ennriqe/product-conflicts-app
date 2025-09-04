@@ -238,6 +238,28 @@ app.delete('/api/conflicts/:conflictId', authenticateToken, async (req, res) => 
   }
 });
 
+// Delete a product
+app.delete('/api/products/:productId', authenticateToken, async (req, res) => {
+  try {
+    const { productId } = req.params;
+    
+    // Delete all conflicts for this product first
+    await pool.query('DELETE FROM conflicts WHERE product_id = $1', [productId]);
+    
+    // Delete the product
+    const result = await pool.query('DELETE FROM products WHERE id = $1', [productId]);
+    
+    if (result.rowCount === 0) {
+      return res.status(404).json({ error: 'Product not found' });
+    }
+    
+    res.json({ message: 'Product deleted successfully' });
+  } catch (error) {
+    console.error('Error deleting product:', error);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
 
 // Health check
 app.get('/api/health', (req, res) => {
