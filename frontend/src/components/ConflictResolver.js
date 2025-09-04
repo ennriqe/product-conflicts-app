@@ -12,6 +12,7 @@ const ConflictResolver = ({ conflict, onResolve, onDelete, resolvedBy }) => {
     setIsResolving(true);
     try {
       await onResolve(conflict.id, selectedValue, comment, resolvedBy);
+      // Don't clear the form, just mark as resolved
       setSelectedValue('');
       setComment('');
     } catch (error) {

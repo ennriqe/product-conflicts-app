@@ -11,6 +11,7 @@ const ProductCard = ({ product, resolvedBy, onConflictResolved }) => {
     setIsResolving(true);
     try {
       await productsAPI.resolveConflict(conflictId, selectedValue, comment, resolvedBy);
+      // Update the local state instead of triggering a full refresh
       onConflictResolved();
     } catch (error) {
       console.error('Error resolving conflict:', error);

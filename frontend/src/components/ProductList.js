@@ -47,7 +47,10 @@ const ProductList = ({ selectedPerson, onBack }) => {
   };
 
   const handleConflictResolved = () => {
-    fetchProducts(); // Refresh the product list
+    // Small delay to allow the UI to update smoothly
+    setTimeout(() => {
+      fetchProducts(); // Refresh the product list
+    }, 100);
   };
 
   if (loading) {
