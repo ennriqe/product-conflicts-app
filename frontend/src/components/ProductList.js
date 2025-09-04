@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Package, RefreshCw, Upload, FileSpreadsheet, Filter, CheckCircle } from 'lucide-react';
+import { Package, RefreshCw, CheckCircle, AlertTriangle, BarChart3, Target } from 'lucide-react';
 import ProductCard from './ProductCard';
 import { productsAPI } from '../services/api';
 
@@ -7,9 +7,6 @@ const ProductList = ({ selectedPerson, onBack }) => {
   const [products, setProducts] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
-  const [showUpload, setShowUpload] = useState(false);
-  const [uploadFile, setUploadFile] = useState(null);
-  const [uploading, setUploading] = useState(false);
   const [activeTab, setActiveTab] = useState('with-conflicts');
 
   useEffect(() => {
@@ -30,22 +27,6 @@ const ProductList = ({ selectedPerson, onBack }) => {
     }
   };
 
-  const handleFileUpload = async (e) => {
-    e.preventDefault();
-    if (!uploadFile) return;
-
-    setUploading(true);
-    try {
-      await productsAPI.uploadExcel(uploadFile);
-      setShowUpload(false);
-      setUploadFile(null);
-      fetchProducts(); // Refresh the product list
-    } catch (err) {
-      setError('Failed to upload Excel file');
-    } finally {
-      setUploading(false);
-    }
-  };
 
   const handleConflictResolved = () => {
     // Small delay to allow the UI to update smoothly
@@ -112,6 +93,10 @@ const ProductList = ({ selectedPerson, onBack }) => {
   const unresolvedConflicts = productsWithConflicts.reduce((sum, product) => 
     sum + product.conflicts.filter(conflict => !conflict.resolved_value).length, 0
   );
+  const resolvedConflicts = totalConflicts - unresolvedConflicts;
+  const productsResolved = productsWithConflicts.filter(product => 
+    product.conflicts.every(conflict => conflict.resolved_value)
+  ).length;
 
   return (
     <div>
@@ -128,71 +113,99 @@ const ProductList = ({ selectedPerson, onBack }) => {
             <Package size={24} style={{ marginRight: '8px', verticalAlign: 'middle' }} />
             Products for {selectedPerson.responsible_person_name}
           </h2>
-          <p style={{ color: 'white', opacity: 0.9 }}>
-            {productsWithConflicts.length} products with conflicts • {productsWithoutConflicts.length} products without conflicts • {unresolvedConflicts} unresolved conflicts
-          </p>
         </div>
         
         <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap' }}>
-          <button 
-            className="btn btn-secondary" 
-            onClick={() => setShowUpload(!showUpload)}
-          >
-            <Upload size={16} style={{ marginRight: '8px' }} />
-            Upload Excel
-          </button>
           <button className="btn" onClick={onBack}>
             Back to Person Selection
           </button>
         </div>
       </div>
 
-      {showUpload && (
-        <div className="card" style={{ marginBottom: '20px' }}>
-          <h3 style={{ marginBottom: '16px', display: 'flex', alignItems: 'center' }}>
-            <FileSpreadsheet size={20} style={{ marginRight: '8px' }} />
-            Upload Excel File
-          </h3>
-          <form onSubmit={handleFileUpload}>
-            <div className="form-group">
-              <input
-                type="file"
-                accept=".xlsx,.xls"
-                onChange={(e) => setUploadFile(e.target.files[0])}
-                className="form-input"
-                required
-              />
-            </div>
-            <div style={{ display: 'flex', gap: '12px' }}>
-              <button 
-                type="submit" 
-                className="btn btn-success"
-                disabled={!uploadFile || uploading}
-              >
-                {uploading ? 'Uploading...' : 'Upload'}
-              </button>
-              <button 
-                type="button" 
-                className="btn btn-secondary"
-                onClick={() => setShowUpload(false)}
-              >
-                Cancel
-              </button>
-            </div>
-          </form>
+      {/* Stats Cards */}
+      <div style={{ 
+        display: 'grid', 
+        gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', 
+        gap: '20px', 
+        marginBottom: '30px' 
+      }}>
+        <div style={{
+          background: 'linear-gradient(135deg, #dc3545, #c82333)',
+          color: 'white',
+          padding: '24px',
+          borderRadius: '12px',
+          textAlign: 'center',
+          boxShadow: '0 4px 12px rgba(220, 53, 69, 0.3)'
+        }}>
+          <AlertTriangle size={32} style={{ marginBottom: '12px' }} />
+          <div style={{ fontSize: '28px', fontWeight: 'bold', marginBottom: '4px' }}>
+            {productsWithConflicts.length}
+          </div>
+          <div style={{ fontSize: '14px', opacity: 0.9 }}>
+            Items with Conflicts
+          </div>
         </div>
-      )}
+
+        <div style={{
+          background: 'linear-gradient(135deg, #ffc107, #e0a800)',
+          color: 'white',
+          padding: '24px',
+          borderRadius: '12px',
+          textAlign: 'center',
+          boxShadow: '0 4px 12px rgba(255, 193, 7, 0.3)'
+        }}>
+          <BarChart3 size={32} style={{ marginBottom: '12px' }} />
+          <div style={{ fontSize: '28px', fontWeight: 'bold', marginBottom: '4px' }}>
+            {totalConflicts}
+          </div>
+          <div style={{ fontSize: '14px', opacity: 0.9 }}>
+            Total Conflicts
+          </div>
+        </div>
+
+        <div style={{
+          background: 'linear-gradient(135deg, #28a745, #1e7e34)',
+          color: 'white',
+          padding: '24px',
+          borderRadius: '12px',
+          textAlign: 'center',
+          boxShadow: '0 4px 12px rgba(40, 167, 69, 0.3)'
+        }}>
+          <CheckCircle size={32} style={{ marginBottom: '12px' }} />
+          <div style={{ fontSize: '28px', fontWeight: 'bold', marginBottom: '4px' }}>
+            {resolvedConflicts}
+          </div>
+          <div style={{ fontSize: '14px', opacity: 0.9 }}>
+            Resolved Conflicts
+          </div>
+        </div>
+
+        <div style={{
+          background: 'linear-gradient(135deg, #007bff, #0056b3)',
+          color: 'white',
+          padding: '24px',
+          borderRadius: '12px',
+          textAlign: 'center',
+          boxShadow: '0 4px 12px rgba(0, 123, 255, 0.3)'
+        }}>
+          <Target size={32} style={{ marginBottom: '12px' }} />
+          <div style={{ fontSize: '28px', fontWeight: 'bold', marginBottom: '4px' }}>
+            {productsResolved}
+          </div>
+          <div style={{ fontSize: '14px', opacity: 0.9 }}>
+            Products Resolved
+          </div>
+        </div>
+      </div>
+
 
       {products.length === 0 ? (
         <div className="card" style={{ textAlign: 'center', padding: '40px' }}>
           <Package size={48} style={{ marginBottom: '16px', color: '#666' }} />
           <h3 style={{ marginBottom: '8px', color: '#333' }}>No Products Found</h3>
-          <p style={{ color: '#666', marginBottom: '20px' }}>
+          <p style={{ color: '#666' }}>
             No products are assigned to {selectedPerson.responsible_person_name}
           </p>
-          <button className="btn" onClick={() => setShowUpload(true)}>
-            Upload Excel File
-          </button>
         </div>
       ) : (
         <div>

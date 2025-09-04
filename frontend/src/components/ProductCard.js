@@ -94,12 +94,6 @@ const ProductCard = ({ product, resolvedBy, onConflictResolved }) => {
 
       {isExpanded && (
         <>
-          {product.overall_reason && (
-            <div className="product-reason">
-              <strong>Overall Issue:</strong> {product.overall_reason}
-            </div>
-          )}
-
           {realConflicts.length === 0 ? (
             <div style={{ 
               textAlign: 'center', 

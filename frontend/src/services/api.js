@@ -64,15 +64,6 @@ export const productsAPI = {
       comment,
       resolvedBy,
     }),
-  uploadExcel: (file) => {
-    const formData = new FormData();
-    formData.append('file', file);
-    return api.post('/upload-excel', formData, {
-      headers: {
-        'Content-Type': 'multipart/form-data',
-      },
-    });
-  },
 };
 
 export default api;

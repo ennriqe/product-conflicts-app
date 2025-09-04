@@ -3,10 +3,6 @@ const cors = require('cors');
 const { Pool } = require('pg');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
-const multer = require('multer');
-const XLSX = require('xlsx');
-const fs = require('fs');
-const path = require('path');
 require('dotenv').config();
 
 const app = express();
@@ -213,102 +209,6 @@ app.delete('/api/conflicts/:conflictId', authenticateToken, async (req, res) => 
   }
 });
 
-// Upload and process Excel file
-app.post('/api/upload-excel', authenticateToken, multer({ dest: 'uploads/' }).single('file'), async (req, res) => {
-  try {
-    if (!req.file) {
-      return res.status(400).json({ error: 'No file uploaded' });
-    }
-
-    // Read Excel file
-    const workbook = XLSX.readFile(req.file.path);
-    const sheetName = workbook.SheetNames[0];
-    const worksheet = workbook.Sheets[sheetName];
-    const data = XLSX.utils.sheet_to_json(worksheet);
-
-    // Clear existing data
-    await pool.query('DELETE FROM conflicts');
-    await pool.query('DELETE FROM products');
-
-    // Process each row
-    for (const row of data) {
-      if (!row.item_number) continue;
-
-      // Insert product
-      const productResult = await pool.query(`
-        INSERT INTO products (item_number, category, overall_reason, overall_equal, responsible_person_name, responsible_person_email)
-        VALUES ($1, $2, $3, $4, $5, $6)
-        RETURNING id
-      `, [
-        row.item_number,
-        row.category,
-        row.overall_reason,
-        row.overall_equal === 'Yes',
-        row.Name,
-        row.Email
-      ]);
-
-      const productId = productResult.rows[0].id;
-
-      // Process conflicts for each attribute
-      const conflictTypes = [
-        'Color/Scent/Flavor or any form of variant/assortis',
-        'Size',
-        'Capacity',
-        'Weight',
-        'Material',
-        'Light Color',
-        'Modes/Settings',
-        'Content',
-        'Specifications',
-        'Description',
-        'Packaging',
-        'Printing',
-        'Battery',
-        'Power',
-        'Input',
-        'Output',
-        'Voltage',
-        'Charging Time',
-        'Use Time',
-        'Cable/Connector',
-        'Waterproof Rating',
-        'Compatibility',
-        'Temperature/Heating',
-        'Solar Specs'
-      ];
-
-      for (const conflictType of conflictTypes) {
-        const qualityLineKey = `${conflictType} (quality_lines)`;
-        const attributeKey = `${conflictType} (attributes)`;
-        const equalKey = `${conflictType} equal`;
-        const reasonKey = `${conflictType} reason`;
-
-        if (row[qualityLineKey] || row[attributeKey]) {
-          await pool.query(`
-            INSERT INTO conflicts (product_id, conflict_type, quality_line_value, attribute_value, reason, is_equal)
-            VALUES ($1, $2, $3, $4, $5, $6)
-          `, [
-            productId,
-            conflictType,
-            row[qualityLineKey] || null,
-            row[attributeKey] || null,
-            row[reasonKey] || null,
-            row[equalKey] === 'Yes'
-          ]);
-        }
-      }
-    }
-
-    // Clean up uploaded file
-    fs.unlinkSync(req.file.path);
-
-    res.json({ message: 'Excel file processed successfully', count: data.length });
-  } catch (error) {
-    console.error('Error processing Excel file:', error);
-    res.status(500).json({ error: 'Internal server error' });
-  }
-});
 
 // Health check
 app.get('/api/health', (req, res) => {
