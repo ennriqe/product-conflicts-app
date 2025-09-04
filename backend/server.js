@@ -410,6 +410,40 @@ app.get('/api/export-excel', authenticateToken, async (req, res) => {
   }
 });
 
+// Test export endpoint
+app.get('/api/test-export', authenticateToken, async (req, res) => {
+  try {
+    console.log('Testing export...');
+    
+    // Simple test data
+    const testData = [
+      ['Item Number', 'Product Description', 'Category', 'Conflict Type', 'Status'],
+      ['123', 'Test Product', 'TEST', 'Size', 'Unresolved'],
+      ['456', 'Another Product', 'TEST', 'Weight', 'Resolved']
+    ];
+    
+    console.log('Creating test Excel...');
+    const worksheet = XLSX.utils.aoa_to_sheet(testData);
+    const workbook = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(workbook, worksheet, 'Test Export');
+    
+    console.log('Generating buffer...');
+    const excelBuffer = XLSX.write(workbook, { type: 'buffer', bookType: 'xlsx' });
+    
+    console.log(`Buffer size: ${excelBuffer.length} bytes`);
+    
+    res.setHeader('Content-Type', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet');
+    res.setHeader('Content-Disposition', 'attachment; filename="test-export.xlsx"');
+    res.setHeader('Content-Length', excelBuffer.length);
+    
+    res.send(excelBuffer);
+    
+  } catch (error) {
+    console.error('Test export error:', error);
+    res.status(500).json({ error: 'Test export failed', details: error.message });
+  }
+});
+
 // Health check
 app.get('/api/health', (req, res) => {
   res.json({ status: 'OK', timestamp: new Date().toISOString() });
