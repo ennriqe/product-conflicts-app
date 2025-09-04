@@ -79,7 +79,11 @@ const ProductList = ({ selectedPerson, onBack }) => {
       conflicts: product.conflicts.filter(isRealConflict)
     }))
     .filter(product => product.conflicts.length > 0)
-    .sort((a, b) => b.conflicts.length - a.conflicts.length);
+    .sort((a, b) => {
+      const aUnresolved = a.conflicts.filter(conflict => !conflict.resolved_value).length;
+      const bUnresolved = b.conflicts.filter(conflict => !conflict.resolved_value).length;
+      return bUnresolved - aUnresolved;
+    });
 
   const productsWithoutConflicts = products
     .map(product => ({
@@ -130,12 +134,12 @@ const ProductList = ({ selectedPerson, onBack }) => {
         marginBottom: '30px' 
       }}>
         <div style={{
-          background: 'linear-gradient(135deg, #dc3545, #c82333)',
+          background: 'linear-gradient(135deg, #e74c3c, #c0392b)',
           color: 'white',
           padding: '24px',
           borderRadius: '12px',
           textAlign: 'center',
-          boxShadow: '0 4px 12px rgba(220, 53, 69, 0.3)'
+          boxShadow: '0 4px 12px rgba(231, 76, 60, 0.2)'
         }}>
           <AlertTriangle size={32} style={{ marginBottom: '12px' }} />
           <div style={{ fontSize: '28px', fontWeight: 'bold', marginBottom: '4px' }}>
@@ -147,29 +151,29 @@ const ProductList = ({ selectedPerson, onBack }) => {
         </div>
 
         <div style={{
-          background: 'linear-gradient(135deg, #ffc107, #e0a800)',
+          background: 'linear-gradient(135deg, #f39c12, #e67e22)',
           color: 'white',
           padding: '24px',
           borderRadius: '12px',
           textAlign: 'center',
-          boxShadow: '0 4px 12px rgba(255, 193, 7, 0.3)'
+          boxShadow: '0 4px 12px rgba(243, 156, 18, 0.2)'
         }}>
           <BarChart3 size={32} style={{ marginBottom: '12px' }} />
           <div style={{ fontSize: '28px', fontWeight: 'bold', marginBottom: '4px' }}>
-            {totalConflicts}
+            {unresolvedConflicts}
           </div>
           <div style={{ fontSize: '14px', opacity: 0.9 }}>
-            Total Conflicts
+            Unresolved Conflicts
           </div>
         </div>
 
         <div style={{
-          background: 'linear-gradient(135deg, #28a745, #1e7e34)',
+          background: 'linear-gradient(135deg, #27ae60, #229954)',
           color: 'white',
           padding: '24px',
           borderRadius: '12px',
           textAlign: 'center',
-          boxShadow: '0 4px 12px rgba(40, 167, 69, 0.3)'
+          boxShadow: '0 4px 12px rgba(39, 174, 96, 0.2)'
         }}>
           <CheckCircle size={32} style={{ marginBottom: '12px' }} />
           <div style={{ fontSize: '28px', fontWeight: 'bold', marginBottom: '4px' }}>
@@ -181,12 +185,12 @@ const ProductList = ({ selectedPerson, onBack }) => {
         </div>
 
         <div style={{
-          background: 'linear-gradient(135deg, #007bff, #0056b3)',
+          background: 'linear-gradient(135deg, #3498db, #2980b9)',
           color: 'white',
           padding: '24px',
           borderRadius: '12px',
           textAlign: 'center',
-          boxShadow: '0 4px 12px rgba(0, 123, 255, 0.3)'
+          boxShadow: '0 4px 12px rgba(52, 152, 219, 0.2)'
         }}>
           <Target size={32} style={{ marginBottom: '12px' }} />
           <div style={{ fontSize: '28px', fontWeight: 'bold', marginBottom: '4px' }}>
