@@ -7,7 +7,7 @@ const DATABASE_URL = process.env.DATABASE_URL || 'postgresql://product_conflicts
 
 const pool = new Pool({
   connectionString: DATABASE_URL,
-  ssl: { rejectUnauthorized: false }
+  ssl: process.env.NODE_ENV === 'production' ? { rejectUnauthorized: false } : false
 });
 
 async function setupDatabase() {

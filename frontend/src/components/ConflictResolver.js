@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { CheckCircle, AlertCircle, MessageSquare } from 'lucide-react';
+import { CheckCircle, AlertCircle, MessageSquare, Trash2 } from 'lucide-react';
 
-const ConflictResolver = ({ conflict, onResolve, resolvedBy }) => {
+const ConflictResolver = ({ conflict, onResolve, onDelete, resolvedBy }) => {
   const [selectedValue, setSelectedValue] = useState('');
   const [comment, setComment] = useState('');
   const [isResolving, setIsResolving] = useState(false);
@@ -26,24 +26,59 @@ const ConflictResolver = ({ conflict, onResolve, resolvedBy }) => {
   return (
     <div className={`conflict-item ${isResolved ? 'resolved' : ''}`}>
       <div className="conflict-header">
-        <div className="conflict-type">
-          {isResolved ? (
-            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#28a745' }}>
-              <CheckCircle size={20} />
-              {conflict.conflict_type} (Resolved)
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', width: '100%' }}>
+          <div style={{ flex: 1 }}>
+            <div className="conflict-type" style={{ fontSize: '18px', fontWeight: '600', marginBottom: '8px' }}>
+              {isResolved ? (
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#28a745' }}>
+                  <CheckCircle size={20} />
+                  {conflict.conflict_type} (Resolved)
+                </div>
+              ) : (
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#dc3545' }}>
+                  <AlertCircle size={20} />
+                  {conflict.conflict_type}
+                </div>
+              )}
             </div>
-          ) : (
-            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#dc3545' }}>
-              <AlertCircle size={20} />
-              {conflict.conflict_type}
-            </div>
+            {conflict.reason && (
+              <div style={{ 
+                fontSize: '16px', 
+                color: '#333', 
+                lineHeight: '1.4',
+                marginBottom: '16px',
+                padding: '12px',
+                background: '#f8f9fa',
+                borderRadius: '6px',
+                border: '1px solid #e9ecef'
+              }}>
+                {conflict.reason}
+              </div>
+            )}
+          </div>
+          {!isResolved && onDelete && (
+            <button
+              onClick={() => onDelete(conflict.id)}
+              style={{
+                background: '#dc3545',
+                color: 'white',
+                border: 'none',
+                borderRadius: '6px',
+                padding: '8px 12px',
+                cursor: 'pointer',
+                display: 'flex',
+                alignItems: 'center',
+                gap: '6px',
+                fontSize: '14px',
+                marginLeft: '16px'
+              }}
+              title="Delete this conflict (mark as non-conflict)"
+            >
+              <Trash2 size={16} />
+              Delete
+            </button>
           )}
         </div>
-        {conflict.reason && (
-          <div style={{ fontSize: '14px', color: '#666', fontStyle: 'italic' }}>
-            {conflict.reason}
-          </div>
-        )}
       </div>
 
       {!isResolved ? (
