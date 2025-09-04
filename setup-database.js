@@ -1,7 +1,8 @@
 const { Pool } = require('pg');
 const XLSX = require('xlsx');
+require('dotenv').config({ path: '.env.local' });
 
-// You need to replace 'YOUR_DATABASE_PASSWORD' with the actual password from Render dashboard
+// Load database URL from environment variable
 const DATABASE_URL = process.env.DATABASE_URL || 'postgresql://product_conflicts_db_user:YOUR_DATABASE_PASSWORD@dpg-d2ssre95pdvs738vdm0g-a.oregon-postgres.render.com:5432/product_conflicts_db?sslmode=require';
 
 const pool = new Pool({
