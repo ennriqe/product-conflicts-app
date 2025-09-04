@@ -265,6 +265,8 @@ app.delete('/api/products/:productId', authenticateToken, async (req, res) => {
 // Export resolved conflicts to Excel
 app.get('/api/export-excel', authenticateToken, async (req, res) => {
   try {
+    console.log('Starting Excel export...');
+    
     // Get all products with their conflicts and resolutions
     const productsQuery = `
       SELECT 
@@ -287,8 +289,10 @@ app.get('/api/export-excel', authenticateToken, async (req, res) => {
       ORDER BY p.item_number, c.id
     `;
     
+    console.log('Executing database query...');
     const result = await pool.query(productsQuery);
     const data = result.rows;
+    console.log(`Found ${data.length} rows from database`);
     
     // Group data by product
     const productsMap = new Map();
@@ -318,6 +322,8 @@ app.get('/api/export-excel', authenticateToken, async (req, res) => {
         });
       }
     });
+    
+    console.log(`Grouped into ${productsMap.size} products`);
     
     // Convert to Excel format
     const excelData = [];
@@ -374,13 +380,19 @@ app.get('/api/export-excel', authenticateToken, async (req, res) => {
       }
     });
     
+    console.log(`Created ${excelData.length} rows for Excel`);
+    
     // Create Excel workbook
+    console.log('Creating Excel workbook...');
     const worksheet = XLSX.utils.aoa_to_sheet(excelData);
     const workbook = XLSX.utils.book_new();
     XLSX.utils.book_append_sheet(workbook, worksheet, 'Resolved Conflicts');
     
     // Generate Excel buffer
+    console.log('Generating Excel buffer...');
     const excelBuffer = XLSX.write(workbook, { type: 'buffer', bookType: 'xlsx' });
+    
+    console.log(`Excel buffer size: ${excelBuffer.length} bytes`);
     
     // Set response headers for file download
     const filename = `product-conflicts-export-${new Date().toISOString().split('T')[0]}.xlsx`;
@@ -388,12 +400,13 @@ app.get('/api/export-excel', authenticateToken, async (req, res) => {
     res.setHeader('Content-Disposition', `attachment; filename="${filename}"`);
     res.setHeader('Content-Length', excelBuffer.length);
     
+    console.log('Sending Excel file...');
     // Send the Excel file
     res.send(excelBuffer);
     
   } catch (error) {
     console.error('Error exporting Excel:', error);
-    res.status(500).json({ error: 'Internal server error' });
+    res.status(500).json({ error: 'Internal server error', details: error.message });
   }
 });
 
