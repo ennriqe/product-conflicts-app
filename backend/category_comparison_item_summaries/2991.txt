@@ -1,0 +1,17 @@
+Key Differences
+• Content
+  - Quality Lines: manual (4 languages)
+  - Attributes: None
+  - Reason: Quality Lines lists a multilingual manual, but Attributes provide no content data.
+• Packaging
+  - Quality Lines: CMYK color box
+  - Attributes: None
+  - Reason: Packaging detail present in Quality Lines but absent in Attributes.
+• Printing
+  - Quality Lines: 1-color manual printing
+  - Attributes: None
+  - Reason: Printing information missing in Attributes.
+• Input
+  - Quality Lines: 110–240 V/50–60 Hz
+  - Attributes: None
+  - Reason: Electrical input data present in Quality Lines but absent from Attributes.

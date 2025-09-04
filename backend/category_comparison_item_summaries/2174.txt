@@ -1,0 +1,21 @@
+Key Differences
+• Content
+  - Quality Lines: 1 handle, 2 brush heads, EU charge base, EU plug, 1 travel case
+  - Attributes: None
+  - Reason: Content present in quality lines but missing in attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Anti-slip handle; display with light frequency & battery indicator
+  - Reason: Specifications present in attributes but absent in quality lines.
+• Packaging
+  - Quality Lines: Colour box
+  - Attributes: None
+  - Reason: Packaging information missing in attributes.
+• Charging Time
+  - Quality Lines: >12 h
+  - Attributes: 4–6 h
+  - Reason: Numerical conflict: >12 h vs 4–6 h.
+• Use Time
+  - Quality Lines: Approx. 18 days
+  - Attributes: None
+  - Reason: Use time present in quality lines but missing in attributes.

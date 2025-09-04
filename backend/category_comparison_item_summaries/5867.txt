@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone Blue 2128 C, Pantone Black C
+  - Reason: Color information appears only in Attributes.
+• Specifications
+  - Quality Lines: Sponge shape: Egg
+  - Attributes: None
+  - Reason: Specification appears only in Quality Lines.
+• Packaging
+  - Quality Lines: Carton box with PET window
+  - Attributes: Color box with PET window and PET inner tray
+  - Reason: Both mention a box with PET window, but Attributes adds inner tray and specifies "color box" vs "carton box".

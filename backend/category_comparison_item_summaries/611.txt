@@ -1,0 +1,13 @@
+Key Differences
+• Content
+  - Quality Lines: None
+  - Attributes: 1 handle, 25 blades
+  - Reason: Information present only in attributes.
+• Specifications
+  - Quality Lines: 3 blades, lubrication strip with Vitamin E and Aloe Vera
+  - Attributes: None
+  - Reason: Information present only in quality lines.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK plus 2 Pantone colors
+  - Reason: Printing details present only in attributes.

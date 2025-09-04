@@ -1,0 +1,13 @@
+Key Differences
+• Size
+  - Quality Lines: None
+  - Attributes: 76×25 mm
+  - Reason: Size provided in attributes but absent in quality lines.
+• Weight
+  - Quality Lines: None
+  - Attributes: 29 g
+  - Reason: Weight appears only in attributes.
+• Content
+  - Quality Lines: None
+  - Attributes: 20 pcs (19×56 mm, design 1+2), 20 pcs (19×72 mm, design 1+2)
+  - Reason: Content details exist only in attributes.

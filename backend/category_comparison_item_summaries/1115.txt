@@ -1,0 +1,13 @@
+Key Differences
+• Specifications
+  - Quality Lines: None
+  - Attributes: Outer ring comprises 12 tufts, Tufts of the outer ring leans clockwise, Noise level max 75 dB at 10 cm distance, Tuft angle ≤12°
+  - Reason: Attributes supply technical specs absent in QL.
+• Printing
+  - Quality Lines: 4 Pantone colors on backing card
+  - Attributes: None
+  - Reason: Printing information present in QL but missing in Attributes.
+• Compatibility
+  - Quality Lines: Oral-B X active 2572787
+  - Attributes: (Almost) all Oral-B electric toothbrushes
+  - Reason: QL specifies one model; Attributes claim broad compatibility—conflict.

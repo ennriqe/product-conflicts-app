@@ -1,0 +1,29 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Color: customization
+  - Attributes: Zwart
+  - Reason: Different stated colours – ‘customization’ vs ‘black’.
+• Size
+  - Quality Lines: 8×8 cm
+  - Attributes: 28.5×10 cm
+  - Reason: Conflicting dimensions.
+• Weight
+  - Quality Lines: 167 g
+  - Attributes: 160 g
+  - Reason: Numeric weight conflict (167 g vs 160 g).
+• Modes/Settings
+  - Quality Lines: 2 speed levels
+  - Attributes: None
+  - Reason: Modes present in quality lines but absent in attributes.
+• Packaging
+  - Quality Lines: Window colourbox with closing sticker
+  - Attributes: None
+  - Reason: Packaging details only in quality lines.
+• Printing
+  - Quality Lines: CMYK
+  - Attributes: None
+  - Reason: Printing info only in quality lines.
+• Battery
+  - Quality Lines: None
+  - Attributes: 3×AAA (not included)
+  - Reason: Battery requirement only in attributes.

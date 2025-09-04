@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: None
+  - Attributes: Ingredients: Glyceryl Rosinate, Naphthenic oils, Ethylene/VA Copolymer, Paraffin, Stearic acid, CI77891, CI45410, Parfum, Geraniol, Linalool
+  - Reason: Specifications/ingredients list is present in Attributes but completely absent in Quality Lines.

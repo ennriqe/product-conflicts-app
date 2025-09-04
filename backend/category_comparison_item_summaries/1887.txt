@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: 544C, 9121C, 2577C (assorted)
+  - Attributes: 263C purple, 472C salmon, 544C light blue
+  - Reason: Pantone codes do not match (only 544C overlaps; others differ).
+• Content
+  - Quality Lines: Silicone rubber pads
+  - Attributes: None
+  - Reason: Content listed in Quality Lines but missing in Attributes.
+• Specifications
+  - Quality Lines: Handle dipped in rubber, Certificate: BSCI
+  - Attributes: None
+  - Reason: Non-certification portion ('Handle dipped in rubber') absent from Attributes.
+• Packaging
+  - Quality Lines: PP bag + EAN flag stickers
+  - Attributes: None
+  - Reason: Packaging details missing in Attributes.

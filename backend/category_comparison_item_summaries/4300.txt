@@ -1,0 +1,17 @@
+Key Differences
+• Size
+  - Quality Lines: None
+  - Attributes: 16×13.4×8.5cm
+  - Reason: Size present in attributes but missing in quality lines.
+• Weight
+  - Quality Lines: None
+  - Attributes: 560g
+  - Reason: Weight present in attributes but missing in quality lines.
+• Material
+  - Quality Lines: None
+  - Attributes: ABS
+  - Reason: Material present in attributes but missing in quality lines.
+• Output
+  - Quality Lines: 8.4V/1A
+  - Attributes: None
+  - Reason: Output value present only in quality lines.

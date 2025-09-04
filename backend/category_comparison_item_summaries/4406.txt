@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pink, White
+  - Reason: Variants given in Attributes but completely absent in Quality Lines
+• Weight
+  - Quality Lines: 16.5 g
+  - Attributes: Device 14 g, cap 2.5 g, attachment 1 g, brush 0.5 g
+  - Reason: Numeric values do not match (16.5 g vs component weights totalling 18 g/14 g for device)
+• Content
+  - Quality Lines: None
+  - Attributes: Device, cap, attachment, cleaning brush
+  - Reason: Contents listed only in Attributes, absent in Quality Lines
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK + 1 metal Pantone; booklet manual 1-color printing
+  - Reason: Printing details provided only in Attributes

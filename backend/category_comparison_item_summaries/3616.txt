@@ -1,0 +1,25 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Blue
+  - Attributes: None
+  - Reason: Color is provided in Quality Lines but missing in Attributes.
+• Content
+  - Quality Lines: None
+  - Attributes: USB-C cable (50 cm)
+  - Reason: Content listed in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: Type-C port
+  - Attributes: None
+  - Reason: Specification present in Quality Lines but absent in Attributes.
+• Packaging
+  - Quality Lines: Color box with close sticker without PET tray
+  - Attributes: None
+  - Reason: Packaging details supplied in Quality Lines but missing in Attributes.
+• Printing
+  - Quality Lines: CMYK with 2 pantone colors, spot varnish
+  - Attributes: None
+  - Reason: Printing information present in Quality Lines only.
+• Battery
+  - Quality Lines: None
+  - Attributes: Lithium-ion 18650 rechargeable, 0.7 V 1200 mAh
+  - Reason: Battery data present in Attributes but absent in Quality Lines.

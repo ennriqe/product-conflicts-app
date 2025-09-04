@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: None
+  - Attributes: Medical Device Class I
+  - Reason: Missing in quality lines but present in attributes.

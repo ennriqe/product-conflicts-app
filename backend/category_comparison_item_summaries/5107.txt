@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Lila
+  - Attributes: None
+  - Reason: Color given in Quality Lines is missing in Attributes.
+• Content
+  - Quality Lines: None
+  - Attributes: Manual (glossy white paper 80g, CMYK full color, 17 languages)
+  - Reason: Content present in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: High-speed brushless motor 102000 rpm, Motor life 800–1000 h, Airflow speed 70 m/s, Auto motor reverse cleaning (hold ON/OFF > 3 s), Magnetic nozzle, Magnetic detachable filter, 200 million negative ions function, Noise <79 dB
+  - Attributes: High-speed brushless motor 102000rpm, motor life 800-1000h, airflow speed 70m/s, magnetic nozzle, magnetic detachable filter, 200 million negative ions function, noise <79dB
+  - Reason: Attributes omit the 'Auto motor reverse cleaning' feature present in Quality Lines.

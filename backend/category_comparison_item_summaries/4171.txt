@@ -1,0 +1,9 @@
+Key Differences
+• Weight
+  - Quality Lines: None
+  - Attributes: incl. packaging 67g
+  - Reason: Attribute value present but refers to packaging weight, whereas QL has no weight; therefore data do not align.
+• Printing
+  - Quality Lines: CMYK, 1 Pantone color
+  - Attributes: CMYK printing + 2 Pantones
+  - Reason: Pantone count conflicts (1 vs. 2).

@@ -1,0 +1,5 @@
+Key Differences
+• Weight
+  - Quality Lines: Net 92 g
+  - Attributes: None
+  - Reason: Weight provided in Quality Lines but missing in Attributes.

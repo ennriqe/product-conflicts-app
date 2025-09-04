@@ -1,0 +1,9 @@
+Key Differences
+• Size
+  - Quality Lines: 19 cm (length)
+  - Attributes: None
+  - Reason: Size is provided in Quality Lines but missing from Attributes.
+• Weight
+  - Quality Lines: 11 g
+  - Attributes: None
+  - Reason: Weight is provided in Quality Lines but missing from Attributes.

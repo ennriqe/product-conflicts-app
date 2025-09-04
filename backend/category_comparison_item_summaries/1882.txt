@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Pantone 544C, Pantone 9121C, Pantone 2577C
+  - Attributes: 263C purple, 472C salmon, 544C light blue
+  - Reason: The sets of Pantone colors do not match; only 544C is common.
+• Printing
+  - Quality Lines: Custom print
+  - Attributes: None
+  - Reason: Printing information missing in Attributes.

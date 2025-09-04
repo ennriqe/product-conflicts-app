@@ -1,0 +1,9 @@
+Key Differences
+• Specifications
+  - Quality Lines: High vibration frequency up to 38,000 strokes/min, 30-second interval time guide, Wireless inductive charging, Brush head options: Sensitive Clean, Daily Clean, Deeply Clean
+  - Attributes: 38,000 strokes/min (magnetic motor); LED display
+  - Reason: Each side contains information not present on the other (e.g., LED display only in Attributes, wireless charging and brush-head options only in Quality Lines).
+• Battery
+  - Quality Lines: None
+  - Attributes: 800 mAh rechargeable Li-ion battery (20.854 g)
+  - Reason: Battery information exists only in Attributes.

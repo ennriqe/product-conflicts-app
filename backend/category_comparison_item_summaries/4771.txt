@@ -1,0 +1,13 @@
+Key Differences
+• Material
+  - Quality Lines: PP, TPE, Nylon 610, Brass
+  - Attributes: PP, TPE, Nylon 610
+  - Reason: Brass listed in Quality Lines but missing in Attributes
+• Specifications
+  - Quality Lines: Anchor: Brass, end rounding
+  - Attributes: None
+  - Reason: Specifications present in Quality Lines but missing in Attributes
+• Printing
+  - Quality Lines: None
+  - Attributes: Heat transfer printing (handle)
+  - Reason: Printing info present in Attributes but missing in Quality Lines

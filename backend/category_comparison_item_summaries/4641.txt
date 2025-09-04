@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Milky white
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Size
+  - Quality Lines: None
+  - Attributes: Cup Dia 6.5×8.4 cm, Toothbrush 14.5×2.5×1.5 cm
+  - Reason: Size data present in Attributes but not in Quality Lines.
+• Weight
+  - Quality Lines: None
+  - Attributes: 48g
+  - Reason: Weight given only in Attributes.
+• Content
+  - Quality Lines: None
+  - Attributes: Toothbrush, suction cap, cup
+  - Reason: Content list exists only in Attributes.
+• Battery
+  - Quality Lines: Alkaline battery, non-replaceable (0.6 g)
+  - Attributes: 2× AG3 batteries included (non-replaceable)
+  - Reason: Battery chemistry and quantity differ (Alkaline vs 2× AG3).

@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Assorti (4 colours with matching bristles)
+  - Reason: Quality Lines has no colour information while Attributes lists four assorted colours.
+• Weight
+  - Quality Lines: None
+  - Attributes: 15 g
+  - Reason: Weight value present in Attributes but missing in Quality Lines.
+• Content
+  - Quality Lines: Batteries
+  - Attributes: None
+  - Reason: Content listed in Quality Lines but missing in Attributes (flagged as missing per rules).
+• Specifications
+  - Quality Lines: Suction cup; Soft end-rounded bristles; Small head; Ergonomic handle; Great for small hands
+  - Attributes: IC, PCB, LED, Batteries, Tufting height 10 mm
+  - Reason: Lists describe different specification details; no clear overlap.

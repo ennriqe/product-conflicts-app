@@ -1,0 +1,25 @@
+Key Differences
+• Size
+  - Quality Lines: None
+  - Attributes: 14.5×2.5×1.5 cm (toothbrush)
+  - Reason: Size is supplied in Attributes but missing in Quality Lines.
+• Weight
+  - Quality Lines: None
+  - Attributes: 48 g
+  - Reason: Product weight is present in Attributes but absent from Quality Lines.
+• Content
+  - Quality Lines: Toothbrush, non-replaceable alkaline battery
+  - Attributes: None
+  - Reason: Content is present in Quality Lines but missing in Attributes (flagged as missing; does not affect overall equality per rules).
+• Specifications
+  - Quality Lines: End rounded bristles, 2 components
+  - Attributes: Bristles diameter ø0.15 mm, 22 tuftings (6 colored and 16 white; height 10 mm), Cup size ø6.5×8.4 cm
+  - Reason: Different technical details are provided; the two texts are not equivalent.
+• Printing
+  - Quality Lines: None
+  - Attributes: 2 Pantone colors per print
+  - Reason: Printing details exist only in Attributes.
+• Battery
+  - Quality Lines: 1 × non-replaceable alkaline battery 0.6 g (included)
+  - Attributes: 2× AG3 batteries included (non-replaceable)
+  - Reason: Conflicting number and type of batteries (1 alkaline vs 2 AG3).

@@ -1,0 +1,61 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: V34
+  - Reason: Value present in attributes but missing in quality lines.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Ingredients: INCI list according to PIF
+  - Reason: Specifications present in attributes but missing in quality lines.
+• Printing
+  - Quality Lines: None
+  - Attributes: None
+  - Reason: 
+• Battery
+  - Quality Lines: None
+  - Attributes: None
+  - Reason: 
+• Power
+  - Quality Lines: None
+  - Attributes: None
+  - Reason: 
+• Input
+  - Quality Lines: None
+  - Attributes: None
+  - Reason: 
+• Output
+  - Quality Lines: None
+  - Attributes: None
+  - Reason: 
+• Voltage
+  - Quality Lines: None
+  - Attributes: None
+  - Reason: 
+• Charging Time
+  - Quality Lines: None
+  - Attributes: None
+  - Reason: 
+• Use Time
+  - Quality Lines: None
+  - Attributes: None
+  - Reason: 
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: None
+  - Reason: 
+• Waterproof Rating
+  - Quality Lines: None
+  - Attributes: None
+  - Reason: 
+• Compatibility
+  - Quality Lines: None
+  - Attributes: None
+  - Reason: 
+• Temperature/Heating
+  - Quality Lines: None
+  - Attributes: None
+  - Reason: 
+• Solar Specs
+  - Quality Lines: None
+  - Attributes: None
+  - Reason: 

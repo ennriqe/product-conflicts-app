@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: set A Pantone 2071C Lilac, set B Pantone 332C Mint
+  - Reason: Value present in Attributes but absent in Quality Lines.
+• Specifications
+  - Quality Lines: None
+  - Attributes: new mold for silicone holder
+  - Reason: Information present only in Attributes.

@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Nail buffer Pantone 4122 C, 3568 C, 2715 C, 1895 C, 7668 C; Manicure product Pantone 264 C, 1895 C; Pedicure Pantone 1896 C, White
+  - Reason: Attribute lists specific colours while Quality Lines give none – information missing in QL.
+• Size
+  - Quality Lines: Manicure set: 12×9×2 cm, Pedicure set: 13×12×1.5 cm
+  - Attributes: Manicure/Pedicure set 12×9.5×2 cm; Nail file 9×2×0.35 cm; Nail clipper 6.8×1.4×1.5 cm; Cuticle pusher 10.5×0.6 cm; Nail brush 6.8×3.6×1.4 cm; 6-step nail file 9.2×2.1×1.6 cm; Toe spreader 11×5×0.8 cm; Foot file 12.9×3.5×0.33 cm
+  - Reason: Numerical conflict (9 cm vs 9.5 cm width) and additional/different item dimensions in Attributes.
+• Weight
+  - Quality Lines: Manicure set: 46 g, Pedicure set: 47 g
+  - Attributes: Manicure/Pedicure set 48 g; Nail file 2.7 g; Nail clipper 21 g; Cuticle pusher 2.1 g; Nail brush 7.1 g; 6-step nail file 5 g; Toe spreader 3.6 g; Foot file 11 g
+  - Reason: Manicure/Pedicure set weight differs (46–47 g vs 48 g) and Attributes list additional item weights.
+• Content
+  - Quality Lines: 6× manicure set, 6× pedicure set
+  - Attributes: Manicure or Pedicure set (5 pcs) plus storage zip bag
+  - Reason: Different quantities and composition of items.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK
+  - Reason: Printing method given only in Attributes.

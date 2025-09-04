@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Color: 544C, 9121C, 2577C
+  - Attributes: 263C purple, 472C salmon, 544C light blue
+  - Reason: The two lists of Pantone colours differ; only 544C matches, the rest are different.
+• Weight
+  - Quality Lines: None
+  - Attributes: 9.5g
+  - Reason: Weight is provided in Attributes but missing in Quality Lines.
+• Content
+  - Quality Lines: Plastic cap for scissor point
+  - Attributes: None
+  - Reason: Content is listed only in Quality Lines and missing in Attributes.
+• Packaging
+  - Quality Lines: Plastic cap for scissor point; EAN code sticker
+  - Attributes: EAN flag sticker
+  - Reason: Quality Lines mention an additional plastic cap and different wording for the EAN label.

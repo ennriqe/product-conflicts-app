@@ -1,0 +1,9 @@
+Key Differences
+• Material
+  - Quality Lines: Handle: 40% wheat straw + 60% PP + TPR, Bristle: TPR
+  - Attributes: 40% wheat straw, 60% PP
+  - Reason: QL includes TPR for handle and bristles, which is missing in attributes.
+• Content
+  - Quality Lines: None
+  - Attributes: 2-pack tongue scraper
+  - Reason: Content information present only in attributes.

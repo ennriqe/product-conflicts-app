@@ -1,0 +1,13 @@
+Key Differences
+• Size
+  - Quality Lines: 13×2.3cm
+  - Attributes: 13×2×1.9 cm
+  - Reason: Numeric dimensions differ (2.3 cm vs 2 cm and 1.9 cm).
+• Weight
+  - Quality Lines: 30g
+  - Attributes: 22 g
+  - Reason: Numeric weight conflict (30 g vs 22 g).
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK
+  - Reason: Printing information present only in Attributes.

@@ -1,0 +1,9 @@
+Key Differences
+• Content
+  - Quality Lines: None
+  - Attributes: 12 pcs (A RECTANGLED: 2 blue, 2 brown; B OVAL: 2 blue, 2 brown; C SQUARE: 2 blue, 2 brown)
+  - Reason: Attributes list piece count and color/shape breakdown, while Quality Lines have no content info.
+• Specifications
+  - Quality Lines: Shapes: A (rectangled), B (oval), C (square)
+  - Attributes: None
+  - Reason: Shape specification present only in Quality Lines.

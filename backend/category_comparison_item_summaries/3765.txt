@@ -1,0 +1,9 @@
+Key Differences
+• Packaging
+  - Quality Lines: Full-color PET window box with euro hanglock
+  - Attributes: Color box mat + PET inner tray + euro hang lock (350 gsm cardboard)
+  - Reason: Different package construction/details.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK
+  - Reason: Printing information only in Attributes.

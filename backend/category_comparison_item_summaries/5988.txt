@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone 9285 C, silver elements
+  - Reason: Color details are present in Attributes but completely absent in Quality Lines.
+• Weight
+  - Quality Lines: 34 g
+  - Attributes: 35 g (without battery)
+  - Reason: Numerical conflict: 34 g vs 35 g.
+• Battery
+  - Quality Lines: 200 mAh (3.7 V, non-removable)
+  - Attributes: Not removable, 180 mAh, 3.7 V, 1.5 Wh (2.99 g)
+  - Reason: Battery capacity differs: 200 mAh vs 180 mAh.
+• Input
+  - Quality Lines: None
+  - Attributes: Type A: 0.5–1 A, AC100–240 V, 50/60 Hz
+  - Reason: Input specification appears only in Attributes.
+• Output
+  - Quality Lines: None
+  - Attributes: Type C: 0.5–1 A, AC100–240 V, 50/60 Hz
+  - Reason: Output specification appears only in Attributes.

@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Pantone 544C, Pantone 9121C, Pantone 2577C
+  - Attributes: Purple (Pantone 263C), Salmon (Pantone 169C), Light blue (Pantone 544C)
+  - Reason: The two lists contain different Pantone references; only 544C is common, others conflict.
+• Packaging
+  - Quality Lines: Plastic bag + EAN code sticker
+  - Attributes: None
+  - Reason: Packaging information missing in Attributes.

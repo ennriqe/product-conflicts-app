@@ -1,0 +1,9 @@
+Key Differences
+• Size
+  - Quality Lines: Dia7×H18.2 cm (tube)
+  - Attributes: Powder brush: 16.7×1.8 cm, Foundation brush: 16×1.9 cm, Eyebrow brush: 17×0.7 cm, Eye shadow brush A: 16.2×1 cm, Eye shadow brush B: 16×0.7 cm, Eyeliner brush B: 15.6×0.7 cm, Lip brush: 15.6×0.7 cm
+  - Reason: Quality lines give tube size while attributes list individual brush sizes; the data do not match.
+• Content
+  - Quality Lines: None
+  - Attributes: Powder brush, Foundation brush, Eyebrow brush, Eye shadow brush A, Eye shadow brush B, Eyeliner brush B, Lip brush, tube box
+  - Reason: Attributes provide a list of included items while quality lines are missing this field.

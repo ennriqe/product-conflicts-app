@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Color: White; Flavor: None (no mint)
+  - Attributes: Color: White
+  - Reason: Color matches, but Flavor information (None/no mint) is missing in Attributes.
+• Material
+  - Quality Lines: Handle - HIPS (PH88), Floss 400D, Zip bag - PET + PE
+  - Attributes: Handle - HIPS (PH88), Floss - 400D/80T UHMWPE
+  - Reason: Handle material matches, but Floss description differs (400D vs 400D/80T UHMWPE) and Quality Lines include packaging materials not listed in Attributes.

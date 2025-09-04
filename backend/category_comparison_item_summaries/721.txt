@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Color: Blue (BL317), Green (GN409), White (WT61); Variant: Precision Clean, Sensitive
+  - Attributes: Wit
+  - Reason: Attributes list only white whereas quality lines list blue, green and white plus variants; information does not match.
+• Material
+  - Quality Lines: Dupont Herox 610 (0.15mm) bristles
+  - Attributes: None
+  - Reason: Material specified in quality lines but missing in attributes.
+• Specifications
+  - Quality Lines: Oscillating head; end rounded bristles
+  - Attributes: Bristles: Eindafgerond, Not compatible with Vitality Sonic, CrossAction Power, Sonic Complete, Pulsonic
+  - Reason: Both mention end-rounded bristles, but each contains additional information not present in the other; therefore not fully matching.
+• Packaging
+  - Quality Lines: PVC blister
+  - Attributes: None
+  - Reason: Packaging detail present in quality lines but missing in attributes.

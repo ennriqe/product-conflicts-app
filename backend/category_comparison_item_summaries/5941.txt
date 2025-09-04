@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Milk & Honey
+  - Attributes: None
+  - Reason: Variant “Milk & Honey” is present in Quality Lines but missing in Attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Ingredients (Sodium Palmate, Sodium Palm Kernelate, Sodium Chloride, Glycerin, Water, Parfum (Fragrance), Palm Acid, Mel (Honey) Extract, Tetrasodium EDTA, Tetrasodium Etidronate), Custom logo (logo AVEO pressed in the soap)
+  - Reason: Detailed specifications appear only in Attributes, none in Quality Lines.

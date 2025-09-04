@@ -1,0 +1,5 @@
+Key Differences
+• Content
+  - Quality Lines: Cleaning brush
+  - Attributes: None
+  - Reason: Present in Quality Lines but missing in Attributes.

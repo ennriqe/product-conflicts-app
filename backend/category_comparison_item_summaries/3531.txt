@@ -1,0 +1,17 @@
+Key Differences
+• Size
+  - Quality Lines: 105×72×32 mm
+  - Attributes: 105×67×40 mm
+  - Reason: Dimensions numerically conflict
+• Weight
+  - Quality Lines: 73 g
+  - Attributes: 68 g
+  - Reason: Weight values conflict
+• Packaging
+  - Quality Lines: PET color box (transparent PET inner tray)
+  - Attributes: Color box with PE plastic protection bag (mat white cardboard 350 gsm)
+  - Reason: Different materials/inner protection details
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK printing, 1 Pantone color
+  - Reason: Printing info present only in Attributes

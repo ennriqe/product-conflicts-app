@@ -1,0 +1,9 @@
+Key Differences
+• Weight
+  - Quality Lines: None
+  - Attributes: Angled nail clipper 12 g, Regular nail clipper 10 g, Scissors 8 g, Tweezers 6 g, Nail cleaner 3 g, Nail file 3 g
+  - Reason: Weight values present in attributes but absent in quality lines.
+• Content
+  - Quality Lines: 2× nail clipper, 1× scissor, 1× nail cleaner, 1× tweezer, 1× nail file
+  - Attributes: 1× Case; 1× Angled nail clipper; 1× Regular nail clipper; 1× Scissors; 1× Nail cleaner; 1× Tweezers; 1× Nail file
+  - Reason: Attributes include a case not mentioned in quality lines, otherwise counts match.

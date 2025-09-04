@@ -1,0 +1,9 @@
+Key Differences
+• Light Color
+  - Quality Lines: Daylight, Red
+  - Attributes: None
+  - Reason: Light colors Daylight/Red listed in Quality Lines are missing in Attributes.
+• Power
+  - Quality Lines: 54W (Red Light Therapy Bulb)
+  - Attributes: None
+  - Reason: Power specification 54W appears only in Quality Lines.

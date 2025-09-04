@@ -1,0 +1,5 @@
+Key Differences
+• Size
+  - Quality Lines: 12 cm (Make Up Brush), 12.8 × 7.5 × 1.5 cm (Box Closed), 6.5 × 5.5 cm (Big Puff), 5.5 cm (Round Puff)
+  - Attributes: 12 cm (Make Up Brush), 6.5 × 5.5 cm (Big Puff), 5.5 cm (Round Puff)
+  - Reason: Quality Lines includes the box (packaging) dimensions under Size, while Attributes omits them; extra value makes the two lists not identical.

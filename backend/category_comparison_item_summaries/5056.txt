@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: Bristles 0.18mm
+  - Attributes: None
+  - Reason: Present in Quality Lines but missing in Attributes.

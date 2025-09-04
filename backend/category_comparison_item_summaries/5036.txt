@@ -1,0 +1,9 @@
+Key Differences
+• Size
+  - Quality Lines: None
+  - Attributes: all bristles are same length
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Content
+  - Quality Lines: 4 pcs toothbrush heads
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes (does not fail overall per rule).

@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Glamour (LC183), Yeux de Biche, Naturel
+  - Reason: Variants present in Attributes but missing in Quality Lines.
+• Size
+  - Quality Lines: None
+  - Attributes: Mirror Dia7.3×H1.7 cm; Tweezer L10.6 cm
+  - Reason: Size details provided only in Attributes.
+• Capacity
+  - Quality Lines: None
+  - Attributes: Magnetic liner 2.5 ml
+  - Reason: Capacity listed in Attributes but absent in Quality Lines.
+• Weight
+  - Quality Lines: None
+  - Attributes: Eyeliner ≈12 g; Mirror with lashes 44 g; Tweezer 13 g
+  - Reason: Weight information present only in Attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Eyeliner expiration after opening: 6 months
+  - Reason: Specification provided only in Attributes.

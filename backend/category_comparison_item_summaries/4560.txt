@@ -1,0 +1,5 @@
+Key Differences
+• Use Time
+  - Quality Lines: 30min
+  - Attributes: 40 min
+  - Reason: Numerical mismatch (30 vs 40).

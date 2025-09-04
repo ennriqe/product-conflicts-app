@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Assorted
+  - Reason: Attribute gives “Assorted” while Quality Lines has no value.
+• Weight
+  - Quality Lines: None
+  - Attributes: 20 g
+  - Reason: Attributes lists 20 g, QL missing.
+• Content
+  - Quality Lines: Batteries
+  - Attributes: None
+  - Reason: Present in QL, missing in Attributes (allowed to not fail overall).
+• Specifications
+  - Quality Lines: Soft small head; suction cup for hygiene; ergonomic handle; suitable for small hands
+  - Attributes: IC,PCB,LED,Batteries
+  - Reason: Different specification lists with no clear overlap.
+• Packaging
+  - Quality Lines: Single blister with eurohole
+  - Attributes: None
+  - Reason: Packaging details present in QL but absent in Attributes.

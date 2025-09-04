@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Assorted
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes.
+• Weight
+  - Quality Lines: Net M 113 g, Net L 149 g
+  - Attributes: None
+  - Reason: Weight values present in Quality Lines but missing in Attributes.

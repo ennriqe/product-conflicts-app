@@ -1,0 +1,25 @@
+Key Differences
+• Size
+  - Quality Lines: 270×270×21 mm
+  - Attributes: 270×270×18mm
+  - Reason: Thickness differs numerically (21 mm vs 18 mm).
+• Weight
+  - Quality Lines: None
+  - Attributes: 0.1kg
+  - Reason: Weight present in attributes but missing in quality lines.
+• Content
+  - Quality Lines: None
+  - Attributes: Manual (printed in color), Measurement tape 1m (in cm, with paper wrapper)
+  - Reason: Content details supplied only in attributes.
+• Specifications
+  - Quality Lines: Analyses: Fat Rate, Hydration, Muscle, Bone, Visceral Fat, kcal, BMI; Weight graduation: 0.1 kg / 0.2 lb; LCD screen size: 72×26 mm; Save weight history (weekly, monthly, yearly); Auto-on; Overload indication; Low-battery indication; Works with Bluetooth
+  - Attributes: Analyzes fat rate, hydration, muscle, bone, visceral fat, kcal, BMI; saves weight history (weekly, monthly, yearly); auto-on; overload/low-battery indication; LCD screen 74×28mm with backlight; works with Bluetooth iOS & Android app
+  - Reason: Mostly same functions, but LCD size differs (72×26 mm vs 74×28 mm) and weight-graduation data appears only in quality lines.
+• Packaging
+  - Quality Lines: None
+  - Attributes: Silvergear color box, transparent round closing sticker
+  - Reason: Packaging information supplied only in attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: Silver foil logo (2 Pantone colors), varnish printing on product front
+  - Reason: Printing information supplied only in attributes.

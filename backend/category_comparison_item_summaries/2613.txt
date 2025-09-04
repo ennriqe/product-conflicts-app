@@ -1,0 +1,29 @@
+Key Differences
+• Size
+  - Quality Lines: 24×18.5×25 cm
+  - Attributes: 31 × 22,5 × 28,5 cm
+  - Reason: Dimensional values conflict.
+• Material
+  - Quality Lines: PP
+  - Attributes: None
+  - Reason: Material stated in Quality Lines but missing in Attributes.
+• Content
+  - Quality Lines: DC adapter, AC adapter
+  - Attributes: None
+  - Reason: Contents provided in Quality Lines but absent in Attributes.
+• Packaging
+  - Quality Lines: Full color box with closing sticker
+  - Attributes: None
+  - Reason: Packaging info present in Quality Lines but missing in Attributes.
+• Input
+  - Quality Lines: AC 220-240V, DC 12V
+  - Attributes: 220–240V (AC)
+  - Reason: Quality Lines lists both AC and DC; Attributes only AC, so information differs.
+• Output
+  - Quality Lines: None
+  - Attributes: 12V (DC)
+  - Reason: Output voltage present in Attributes but missing in Quality Lines.
+• Temperature/Heating
+  - Quality Lines: Cools down to 5°-20° below temperature, Warms up to 65°C on internal thermostat
+  - Attributes: None
+  - Reason: Temperature performance provided in Quality Lines but missing in Attributes.

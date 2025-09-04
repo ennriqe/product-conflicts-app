@@ -1,0 +1,5 @@
+Key Differences
+• Content
+  - Quality Lines: None
+  - Attributes: case, bronzer brush, higlighter brush, blender brush, foundation brush, eyeshadow brush, eyebrow brush, presicion brush, mascara brusher, powder brush, powder sponge
+  - Reason: Present in Attributes but missing in Quality Lines.

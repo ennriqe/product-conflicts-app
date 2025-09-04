@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Color: White
+  - Reason: Color information present in Attributes but missing in Quality Lines.
+• Size
+  - Quality Lines: None
+  - Attributes: 13.4×6.5×2.6cm
+  - Reason: Size provided in Attributes but absent in Quality Lines.
+• Weight
+  - Quality Lines: None
+  - Attributes: 46g
+  - Reason: Weight specified in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: With LED, travel size
+  - Attributes: LED display (yes), Noise level: 50dB
+  - Reason: Quality Lines mention 'travel size' which is absent in Attributes; Attributes add noise level.
+• Packaging
+  - Quality Lines: CMYK color box with euro hand lock
+  - Attributes: None
+  - Reason: Packaging detail present only in Quality Lines.

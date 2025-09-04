@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Black
+  - Attributes: None
+  - Reason: Color given as Black in Quality Lines but missing in Attributes.
+• Weight
+  - Quality Lines: None
+  - Attributes: 536
+  - Reason: Weight present only in Attributes.
+• Light Color
+  - Quality Lines: Red
+  - Attributes: None
+  - Reason: Light color specified in Quality Lines but missing in Attributes.
+• Input
+  - Quality Lines: None
+  - Attributes: AC 100-240V
+  - Reason: Input voltage present only in Attributes.

@@ -1,0 +1,17 @@
+Key Differences
+• Size
+  - Quality Lines: 30×42×208mm
+  - Attributes: 37×30.3×211.2mm
+  - Reason: Dimensions numerically conflict
+• Specifications
+  - Quality Lines: Speed 6000rpm, Noise level 75dB
+  - Attributes: Oscillating angle 50°–60°, rotation speed 5000rpm ±10%, noise level 75dB (measured at 30cm at highest speed)
+  - Reason: Rotation speed 6000 rpm vs 5000 rpm ± 10 % conflict
+• Packaging
+  - Quality Lines: None
+  - Attributes: Color box with Euro hole, rating label, manual
+  - Reason: Packaging information missing in quality lines
+• Battery
+  - Quality Lines: 2×AAA LR6 1.5V (not included)
+  - Attributes: 2 × AA LR6 1.5V (not included)
+  - Reason: AAA versus AA batteries are different types

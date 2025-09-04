@@ -1,0 +1,41 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Black
+  - Reason: Color is provided in Attributes but missing in Quality Lines.
+• Size
+  - Quality Lines: 17×5×24 cm
+  - Attributes: 17 × 6.3 × 24.5 cm
+  - Reason: Numeric dimensions differ (5 cm vs 6.3 cm, 24 cm vs 24.5 cm).
+• Weight
+  - Quality Lines: 1.1 kg
+  - Attributes: 890 g
+  - Reason: 1.1 kg (1100 g) conflicts with 890 g.
+• Modes/Settings
+  - Quality Lines: None
+  - Attributes: 30 levels, motor speed 1600-3200 rpm
+  - Reason: Modes information present in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: Type-C port (no adapter included)
+  - Attributes: Noise level <55dB, rated load current 100-240V 50-60Hz
+  - Reason: Different specification details; QL info about Type-C port not found in Attributes' specification field.
+• Packaging
+  - Quality Lines: Brown box with black drawing on front and EAN code + symbols on backside
+  - Attributes: None
+  - Reason: Packaging details present in Quality Lines but missing in Attributes.
+• Power
+  - Quality Lines: None
+  - Attributes: 20W
+  - Reason: Power rating provided in Attributes but missing in Quality Lines.
+• Input
+  - Quality Lines: None
+  - Attributes: 5V/2A max.
+  - Reason: Input spec present in Attributes but missing in Quality Lines.
+• Charging Time
+  - Quality Lines: None
+  - Attributes: 3h
+  - Reason: Charging time present in Attributes but missing in Quality Lines.
+• Use Time
+  - Quality Lines: None
+  - Attributes: 5.2h at level 1, 2-3h at level 30
+  - Reason: Use-time info present in Attributes but missing in Quality Lines.

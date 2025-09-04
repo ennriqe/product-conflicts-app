@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Wit
+  - Reason: Value present in Attributes ("Wit" = white) but missing in Quality Lines.
+• Material
+  - Quality Lines: None
+  - Attributes: ABS
+  - Reason: Material is stated only in Attributes.
+• Content
+  - Quality Lines: Standard tip (A5930), Tongue scrap tip (A5906), Pocket tip (A5918), Orthodontic tip (A5903)
+  - Attributes: None
+  - Reason: Detailed content given in Quality Lines but missing in Attributes.
+• Packaging
+  - Quality Lines: white carton box bottom, barcode sticker
+  - Attributes: None
+  - Reason: Packaging details appear only in Quality Lines.
+• Compatibility
+  - Quality Lines: None
+  - Attributes: Elektrische waterflosser
+  - Reason: Compatibility information only present in Attributes.

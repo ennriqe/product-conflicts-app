@@ -1,0 +1,25 @@
+Key Differences
+• Size
+  - Quality Lines: None
+  - Attributes: 13×3.5 cm
+  - Reason: Size given only in Attributes.
+• Weight
+  - Quality Lines: None
+  - Attributes: Net 250 g, Gross 320 g
+  - Reason: Weight provided only in Attributes.
+• Material
+  - Quality Lines: None
+  - Attributes: ABS, PC, TPR
+  - Reason: Material listed only in Attributes.
+• Content
+  - Quality Lines: 1x device, 1x bowl with collar, 8x holders for different size brushes, 1x holder stand, 2x spindles
+  - Attributes: 1× bowl with collar, 8× holders for different brushes, 1× holder stand, 2× spindles, 1× device, paper manual
+  - Reason: Same items but Attributes add a paper manual – not identical.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Manual languages: EN, NL, FR, DE, DK, NO, SE, FI, ES, PT, IT
+  - Reason: Specifications info present only in Attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK + 1 Pantone + spot varnish; 1-color logo printing on device; silver text silk printing (rating label)
+  - Reason: Printing details only in Attributes.

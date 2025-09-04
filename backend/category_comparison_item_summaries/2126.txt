@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Wit
+  - Reason: Color is provided in Attributes (Wit/White) but is absent in Quality Lines.
+• Modes/Settings
+  - Quality Lines: Automatic measurement, memory 2×192 sets
+  - Attributes: None
+  - Reason: Modes/Settings are specified in Quality Lines but absent in Attributes.

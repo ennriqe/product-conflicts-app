@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Paw Patrol, LOL
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Size
+  - Quality Lines: None
+  - Attributes: 100 ml
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Capacity
+  - Quality Lines: 100 ml
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes.
+• Packaging
+  - Quality Lines: Colorbox with cut out in the corner; pump locked; closing sticker on colorbox; sticker/label for all information on bottle; inner mixed 12 pcs (3 licensing × 4 pcs or 2 licensing × 6 pcs)
+  - Attributes: Colorbox with corner cut-out, pump locked, closing sticker on colorbox, information sticker/label on bottle
+  - Reason: Quality Lines contains additional packaging details not present in Attributes.

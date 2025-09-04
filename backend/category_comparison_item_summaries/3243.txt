@@ -1,0 +1,13 @@
+Key Differences
+• Material
+  - Quality Lines: Tempered glass, HIPS plastic
+  - Attributes: Tempered glass
+  - Reason: Quality Lines mentions an additional material (HIPS plastic) not present in Attributes.
+• Modes/Settings
+  - Quality Lines: Auto on/off
+  - Attributes: None
+  - Reason: Modes present in Quality Lines but missing from Attributes.
+• Specifications
+  - Quality Lines: Thickness: 6 mm, Unit: KG, LCD display, Low battery indicator
+  - Attributes: None
+  - Reason: Specifications provided in Quality Lines are completely absent in Attributes.

@@ -1,0 +1,9 @@
+Key Differences
+• Specifications
+  - Quality Lines: Bristle diameter 0.15 mm; end rounding bristles
+  - Attributes: None
+  - Reason: Specifications provided in Quality Lines but missing in Attributes.
+• Compatibility
+  - Quality Lines: Oral-B
+  - Attributes: None
+  - Reason: Compatibility stated in Quality Lines but absent in Attributes.

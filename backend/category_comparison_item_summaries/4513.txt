@@ -1,0 +1,17 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: None
+  - Attributes: Automatic power off, Memory for last measurement, Beep alarm (when peak temperature is reached)
+  - Reason: Information present in Attributes but missing in Quality Lines.
+• Content
+  - Quality Lines: LR41 battery (included), storage case, manual
+  - Attributes: storage case, manual
+  - Reason: Battery is listed in Quality Lines but missing in Attributes.
+• Specifications
+  - Quality Lines: Rigid tip; measuring range 32℃–42.9℃ (89.6℉–109.2℉); ±0.1℃ (0.2℉) accuracy; fast response; beep alarm when peak temperature is reached; memory for last measurement; automatic power off
+  - Attributes: Rigid tip, ±0.1 °C (0.2 °F) accuracy, fast response
+  - Reason: Attributes contain only a subset (range, alarm, memory, auto-off missing), so information differs.
+• Printing
+  - Quality Lines: None
+  - Attributes: Silvergear logo on product (one color)
+  - Reason: Printing information present only in Attributes.

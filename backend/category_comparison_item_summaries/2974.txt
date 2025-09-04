@@ -1,0 +1,9 @@
+Key Differences
+• Material
+  - Quality Lines: Tempered glass (6 mm)
+  - Attributes: Plastic, Glass
+  - Reason: Attributes add plastic and do not specify tempered glass; information differs.
+• Specifications
+  - Quality Lines: LCD size: 74×28mm, capacity: 180kg, division: 0.05kg, high-precision strain gauge sensor system, low-power indication, over-load indication, auto on/auto off
+  - Attributes: None
+  - Reason: Specifications present in Quality Lines but missing in Attributes.

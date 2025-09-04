@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone 4267C, Pantone 9285C, Pantone Black, Pantone 9460C, Pantone 9284C
+  - Reason: Color variants present in Attributes but absent in Quality Lines.
+• Capacity
+  - Quality Lines: None
+  - Attributes: 103 ml
+  - Reason: Capacity provided in Attributes but missing in Quality Lines.
+• Weight
+  - Quality Lines: 39g
+  - Attributes: 41 g
+  - Reason: Numerical conflict between 39 g and 41 g.

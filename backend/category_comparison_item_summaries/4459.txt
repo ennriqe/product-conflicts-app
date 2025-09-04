@@ -1,0 +1,5 @@
+Key Differences
+• Packaging
+  - Quality Lines: None
+  - Attributes: White box (240×112×265 mm)
+  - Reason: Packaging details are present in attributes but missing in quality lines.

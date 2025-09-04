@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Blue tuftings, Green tuftings
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes.
+• Material
+  - Quality Lines: Dupont Tynex 612 bristles
+  - Attributes: None
+  - Reason: Material stated in Quality Lines but missing in Attributes.

@@ -1,0 +1,21 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: Automatic power-off, Adjustable brightness
+  - Attributes: Adjustable brightness, Reminder
+  - Reason: Each list contains one setting missing on the other side
+• Content
+  - Quality Lines: None
+  - Attributes: Manual
+  - Reason: Content present only in Attributes
+• Specifications
+  - Quality Lines: LED display; SPO2 measurement range 35%–100% (resolution 1%, accuracy ±2% within 70%–100%); Pulse rate range 25–250 bpm (resolution 1 bpm, accuracy ±2 bpm); 8-second reading time; Reminder function
+  - Attributes: SPO2 measurement range 35%–100% (resolution 1%, accuracy ±2% 70%–100%, unspecified 35%–69%); Pulse rate measurement range 25–250 bpm (resolution 1 bpm, accuracy ±2 bpm); 8 s reading time
+  - Reason: Core ranges match, but Quality Lines adds LED display and Reminder function not mentioned in Attributes
+• Packaging
+  - Quality Lines: None
+  - Attributes: Silvergear green color box with round closing stickers, tray, rating label
+  - Reason: Packaging details present only in Attributes
+• Power
+  - Quality Lines: None
+  - Attributes: Automatic power-off
+  - Reason: Power feature provided only in Attributes

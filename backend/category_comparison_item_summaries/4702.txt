@@ -1,0 +1,9 @@
+Key Differences
+• Size
+  - Quality Lines: 19.0×1.4×0.6 cm
+  - Attributes: 17.6 cm (length)
+  - Reason: Different length (19.0 cm vs 17.6 cm) and QL includes width/height not present in attributes
+• Specifications
+  - Quality Lines: Bristle length 18 mm, Bristle retention force 18 N
+  - Attributes: Bristle retention force 18N
+  - Reason: Attributes omit the 18 mm bristle length present in QL

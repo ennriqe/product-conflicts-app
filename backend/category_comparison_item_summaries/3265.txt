@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Lilac (Pantone 9344 U), Baby Blue (Pantone 9460 U), Pink (Pantone 926 U), Mint Green (Pantone 9524 U), Pantone 9320 U
+  - Reason: Variants provided in Attributes but missing in Quality Lines.
+• Size
+  - Quality Lines: Dia 7.3×2.5 cm
+  - Attributes: 9×2.5 cm
+  - Reason: Numeric dimensions conflict (7.3 cm vs 9 cm).
+• Weight
+  - Quality Lines: 4 g
+  - Attributes: 5 g
+  - Reason: Numeric weight differs (4 g vs 5 g).
+• Specifications
+  - Quality Lines: None
+  - Attributes: Heart shape; one side soft, one side rough
+  - Reason: Specifications only provided in Attributes.
+• Printing
+  - Quality Lines: CMYK printing, 2 Pantone colors
+  - Attributes: None
+  - Reason: Printing details only in Quality Lines.

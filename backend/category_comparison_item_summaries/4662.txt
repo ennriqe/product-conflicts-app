@@ -1,0 +1,21 @@
+Key Differences
+• Size
+  - Quality Lines: 28×28×2.8 cm
+  - Attributes: 28 × 28 × 1,2 cm
+  - Reason: Length and width match but thickness conflicts (2.8 cm vs 1.2 cm).
+• Modes/Settings
+  - Quality Lines: None
+  - Attributes: Auto on/off function, Auto zero resetting
+  - Reason: Information present in Attributes but absent in Quality Lines under this field.
+• Content
+  - Quality Lines: None
+  - Attributes: Manual (booklet with 8 languages, 20 pages)
+  - Reason: Manual listed only in Attributes.
+• Specifications
+  - Quality Lines: Weight capacity 3–180 kg, LCD display 72×28 mm with backlight, Auto on/off, Auto zero resetting, Low-battery indication, Overload indication, Real steel plates on the glass
+  - Attributes: LCD display 72 × 28 mm with backlight, Real steel plates on the bamboo, Weight capacity 3–180 kg, Low-battery and overload indication
+  - Reason: Most specs match, but phrase "Real steel plates on the glass" vs "on the bamboo" conflicts.
+• Printing
+  - Quality Lines: None
+  - Attributes: 3 Pantone colors with spot varnish
+  - Reason: Printing details provided only in Attributes.

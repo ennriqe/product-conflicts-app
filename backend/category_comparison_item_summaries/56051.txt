@@ -1,0 +1,13 @@
+Key Differences
+• Size
+  - Quality Lines: 42×36×3.5 cm
+  - Attributes: 43×37.5×3.5 cm
+  - Reason: Different length-and-width dimensions (42×36 vs 43×37.5 cm).
+• Weight
+  - Quality Lines: 1050 g
+  - Attributes: 1120 g
+  - Reason: Different numeric weights (1050 g vs 1120 g).
+• Printing
+  - Quality Lines: None
+  - Attributes: Pantone color print
+  - Reason: Printing information present only in Attributes.

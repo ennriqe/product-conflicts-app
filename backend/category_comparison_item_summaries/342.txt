@@ -1,0 +1,5 @@
+Key Differences
+• Material
+  - Quality Lines: Polypropylene, TPR, Dupont Herox Filaments, brass
+  - Attributes: Polypropylene, TPR (handle), Dupont Herox (bristles)
+  - Reason: Both mention Polypropylene, TPR and Dupont Herox, but brass appears only in Quality Lines, so information is not identical.

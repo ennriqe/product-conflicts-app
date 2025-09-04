@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: White, Rose Gold (stainless steel)
+  - Reason: Variants listed in Attributes but totally absent in Quality Lines.
+• Content
+  - Quality Lines: None
+  - Attributes: plastic cleaning brush
+  - Reason: Item listed in Attributes but missing in Quality Lines.
+• Packaging
+  - Quality Lines: Polybag
+  - Attributes: PET window color box, PET inner tray with euro hanglock, matte cardboard 350 gsm, 3 transparent round stickers to close top and bottom, with NKD price label and distribution address NKD Croatia and Czech Republic
+  - Reason: Different packaging descriptions.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK, 1 foil color
+  - Reason: Printing details present in Attributes but missing in Quality Lines.
+• Battery
+  - Quality Lines: None
+  - Attributes: 1 × AAA (not included)
+  - Reason: Battery requirement appears only in Attributes.

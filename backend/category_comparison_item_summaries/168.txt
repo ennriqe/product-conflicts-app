@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone 219, 286, 2707
+  - Reason: Variant colors are listed in Attributes but absent in Quality Lines.
+• Capacity
+  - Quality Lines: 100 g
+  - Attributes: None
+  - Reason: Quality Lines specifies 100 g, Attributes give no capacity.
+• Content
+  - Quality Lines: None
+  - Attributes: Sodium Palmate, Aqua, Sodium Cocoate, Glycerin, Parfum, Sodium Chloride, EDTA, Stearic Acid, Palmitic Acid, Etidronic Acid, Citronellol, Coumarin, Alpha-Isomethyl Ionene, Cinnamyl Alcohol, CI 77947
+  - Reason: Ingredients list present only in Attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Accordance with the EEC-Cosmetics-Directive (76/768/EEC)
+  - Reason: Specification text appears only in Attributes.

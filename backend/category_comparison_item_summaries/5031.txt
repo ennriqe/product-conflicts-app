@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: WT101, GN703
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: Tufting colors: WT101, GN703
+  - Attributes: Filament diameter Ф0.12 mm
+  - Reason: Different specification details; no overlap.

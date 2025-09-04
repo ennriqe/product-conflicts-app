@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Blue (Pantone 9460 C)
+  - Reason: Attribute lists a specific color while Quality Lines provide none.
+• Content
+  - Quality Lines: None
+  - Attributes: Face Mask, Nasal Mask, Measuring cup, Bottom device
+  - Reason: Items listed in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: Frequency 60 Hz, Overcharge protection
+  - Attributes: Overcharge protection
+  - Reason: Quality Lines add frequency information that is absent in Attributes, so QL is not a subset.
+• Voltage
+  - Quality Lines: 220V
+  - Attributes: None
+  - Reason: Voltage given in Quality Lines but missing in the dedicated Attributes field.

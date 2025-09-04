@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone 219, 286, 2707
+  - Reason: Value present in attributes but missing in quality lines.
+• Specifications
+  - Quality Lines: Ingredients (INCI): Sodium Palmate, Aqua, Sodium Cocoate, Glycerin, Parfum, Sodium Chloride, EDTA, Stearic Acid, Palmitic Acid, Etidronic Acid, Citronellol, Coumarin, Alpha-Isomethyl Ionone, Cinnamyl Alcohol, CI 77891
+  - Attributes: Ingredient list: Sodium Palmate, Sodium Palm Kernelate, Aqua, Glycerin, Talc, Parfum, Paraffinum Liquidum, Sodium Chloride, Palm Acid, Palm Kernel Acid, Palm Kernel Acid, Tetrasodium Etidronate, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Linalool
+  - Reason: Ingredient lists differ; not a minor rephrasing.

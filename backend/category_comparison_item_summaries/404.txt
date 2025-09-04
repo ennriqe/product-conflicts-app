@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: 2 blades
+  - Attributes: None
+  - Reason: Specifications value found only in Quality Lines.

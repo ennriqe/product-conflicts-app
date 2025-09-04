@@ -1,0 +1,5 @@
+Key Differences
+• Weight
+  - Quality Lines: None
+  - Attributes: Tumbler 21 g, Soap dispenser 39 g, Toothbrush holder 27 g
+  - Reason: Weight is provided in attributes but completely absent in quality lines.

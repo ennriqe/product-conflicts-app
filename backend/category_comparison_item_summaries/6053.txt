@@ -1,0 +1,5 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Color: Green; Scent: Aloe
+  - Attributes: Color: Green
+  - Reason: Attributes list the color only; scent information (Aloe) is missing.

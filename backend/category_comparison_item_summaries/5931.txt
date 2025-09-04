@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: Battery wattage 1.85 W, dry use only, not waterproof, 3 indicator lights
+  - Attributes: 3 indicator lights (low speed, high speed, battery); dry use only; not waterproof
+  - Reason: Attributes miss the 1.85 W battery wattage that QL states in this field; hence fields are not identical.

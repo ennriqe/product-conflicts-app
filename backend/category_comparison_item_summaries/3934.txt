@@ -1,0 +1,5 @@
+Key Differences
+• Packaging
+  - Quality Lines: PET blister with non FSC card
+  - Attributes: PET blister, FSC backing card
+  - Reason: Conflict: Quality Lines specifies a non-FSC card, Attributes specifies an FSC backing card.

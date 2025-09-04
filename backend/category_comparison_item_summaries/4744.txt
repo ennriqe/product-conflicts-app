@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Holographic metallic, Silver
+  - Reason: Quality Lines has no color information while Attributes lists two colors.
+• Content
+  - Quality Lines: None
+  - Attributes: 1× plastic case with 4× blackhead/pimple removers
+  - Reason: Attributes specify set contents; Quality Lines has none.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK, 2 Pantone, 1× inlay paper CMYK printing
+  - Reason: Printing info only in Attributes.

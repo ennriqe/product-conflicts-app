@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Color: Red, Pink
+  - Attributes: Pink
+  - Reason: Quality Lines list two colors (Red, Pink) while Attributes mention only Pink; information is not the same.
+• Content
+  - Quality Lines: Manual (9 languages)
+  - Attributes: None
+  - Reason: Content present in Quality Lines but missing in Attributes.
+• Specifications
+  - Quality Lines: Each handle has unique print; backing card same for all colors
+  - Attributes: Handle has unique print corresponding to the color, Retention: 20N, End rounded bristles
+  - Reason: Only the statement about unique print overlaps; each side contains additional, unmatched details.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK full color
+  - Reason: Printing information missing in Quality Lines but present in Attributes.

@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone 9285 C, Pantone 4267 C, Pantone 9284 C
+  - Reason: Present in Attributes but absent in Quality Lines.
+• Weight
+  - Quality Lines: 100 g (total)
+  - Attributes: 115 g (total)
+  - Reason: Numerical conflict: 100 g vs 115 g.
+• Content
+  - Quality Lines: 3 pairs of shower scrub gloves
+  - Attributes: None
+  - Reason: Missing in Attributes (allowed, does not affect overall).
+• Specifications
+  - Quality Lines: None
+  - Attributes: Set of 3 pair
+  - Reason: Present in Attributes but absent in Quality Lines.

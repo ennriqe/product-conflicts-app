@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Violet
+  - Reason: Attributes specify the color (Violet) while Quality Lines give no information.
+• Content
+  - Quality Lines: None
+  - Attributes: 30ml violet color correct serum
+  - Reason: Content stated in Attributes but missing in Quality Lines.

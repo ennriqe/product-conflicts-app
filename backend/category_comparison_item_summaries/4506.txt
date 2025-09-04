@@ -1,0 +1,5 @@
+Key Differences
+• Content
+  - Quality Lines: 68× 4496, 51× 4497, 78× 4498, 65× 4499, 21× 4502, 14× 4503, 90× 4500, 72× 4501
+  - Attributes: 68x 4496, 51x 4497, 78x 4498, 65x 4499, 20x 4502, 15x 4503, 90x 4500, 72x 4501
+  - Reason: Numeric conflict: QL has 21 vs ATTR 20 for 4502 and 14 vs 15 for 4503; other entries match and formatting differences (× vs x) are acceptable.

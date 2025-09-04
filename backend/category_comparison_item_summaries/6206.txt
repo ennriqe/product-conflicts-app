@@ -1,0 +1,5 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Flavor: Mint
+  - Attributes: None
+  - Reason: Flavor (Mint) provided in Quality Lines but absent in Attributes.

@@ -1,0 +1,5 @@
+Key Differences
+• Input
+  - Quality Lines: AC 220–240V 50/60Hz
+  - Attributes: AC 220–240V 50/60H
+  - Reason: "Hz" (Hertz) is truncated to "H" in attributes; regarded as a mismatch.

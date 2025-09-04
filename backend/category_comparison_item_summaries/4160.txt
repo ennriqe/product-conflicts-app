@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Flavor: Peppermint
+  - Attributes: None
+  - Reason: Flavor present in Quality Lines but missing in Attributes.
+• Capacity
+  - Quality Lines: 290g
+  - Attributes: 125ml
+  - Reason: Numeric/unit conflict: 290 g versus 125 ml.

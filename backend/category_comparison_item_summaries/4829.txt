@@ -1,0 +1,9 @@
+Key Differences
+• Specifications
+  - Quality Lines: Filling: 73.2% water, 25% glycerin, 0.3% preservative, 1.5% sodium
+  - Attributes: None
+  - Reason: Specifications present in quality lines but completely missing in attributes.
+• Printing
+  - Quality Lines: Full-printed layout design on OPP bag
+  - Attributes: None
+  - Reason: Printing details present in quality lines but missing in attributes.

@@ -1,0 +1,33 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Grey, Light Gold
+  - Reason: Attribute lists colours but Quality Lines has none – data missing on one side.
+• Size
+  - Quality Lines: Handle 4×23 cm; Oval Brush 10/8×16 cm; Dryer 6×8 cm; Round Brush 5.5×14 cm; Curling Iron 3.2×16 cm; Gloves 21×11.5 cm; Storage Box 20×39×14 cm
+  - Attributes: Handle 4×23 cm, Oval Brush 10/8×17 cm, Hair Dryer 8×8 cm, Round Brush 5.5×15 cm, Curling Irons 3.2×18 cm, Anti-heat Gloves 21×12 cm, Traveling Storage Box 20×39×14 cm
+  - Reason: Several individual dimensions differ (e.g., Oval Brush 16 cm vs 17 cm, Dryer 6 cm vs 8 cm, etc.) so numerical conflict exists.
+• Weight
+  - Quality Lines: None
+  - Attributes: Handle 438 g, Oval Brush 170 g, Hair Dryer 123 g, Round Brush 40 g, Curling Iron 70 g, Anti-heat Gloves 30 g, Traveling Storage Box 786 g
+  - Reason: Weights present only in Attributes, missing in Quality Lines.
+• Content
+  - Quality Lines: English paper manual
+  - Attributes: Handle, Oval Brush, Hair Dryer, Round Brush, Left & Right Rotating Curling Iron, Anti-heat Gloves, Traveling Storage Box
+  - Reason: Lists differ completely (manual vs whole kit).
+• Power
+  - Quality Lines: 1400W; 1600W
+  - Attributes: 1400 W
+  - Reason: Quality Lines lists two power ratings (1400 W and 1600 W) while Attributes only lists 1400 W – numerical conflict.
+• Input
+  - Quality Lines: 100-120V/60Hz; 220-240V/60Hz
+  - Attributes: 220–240 V/50–60 Hz
+  - Reason: Quality Lines shows dual-voltage including 100–120 V, which is absent from Attributes.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: Power cord 2 m swivel
+  - Reason: Only Attributes contains cable information; missing on Quality Lines.
+• Temperature/Heating
+  - Quality Lines: None
+  - Attributes: Low 70 °C (+10 °C); High 90 °C (+10 °C, −5 °C)
+  - Reason: Temperature settings present only in Attributes.

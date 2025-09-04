@@ -1,0 +1,5 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Hot Pink (Pantone 17-1937 TCX), Orchid (Pantone 15-3214 TCX), Black Hole (Pantone 19-3913 TCX)
+  - Reason: Color information is provided in attributes but is missing in quality lines.

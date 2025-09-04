@@ -1,0 +1,9 @@
+Key Differences
+• Weight
+  - Quality Lines: None
+  - Attributes: 5.3 g
+  - Reason: Weight is specified in Attributes but missing in Quality Lines.
+• Material
+  - Quality Lines: None
+  - Attributes: Plastic (brush head, bottom cover), Nylon (tufting), Copper (metal)
+  - Reason: Material details appear only in Attributes.

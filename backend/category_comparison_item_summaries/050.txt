@@ -1,0 +1,21 @@
+Key Differences
+• Size
+  - Quality Lines: Roller 14 × 4.5 × 2.2 cm, Guasha 7 × 4.4 cm
+  - Attributes: Jade roller 14.5×5.5×2 cm, Heart shaped guasha 7×4×5 cm
+  - Reason: Numerical dimensions differ for both the roller and the guasha.
+• Weight
+  - Quality Lines: Guasha 24–26 g, Jade roller 60 g
+  - Attributes: Jade roller 65 g, Guasha 27.5 g
+  - Reason: Weight values conflict numerically for both pieces.
+• Content
+  - Quality Lines: Jade roller, Heart shaped guasha
+  - Attributes: None
+  - Reason: Content list exists in Quality Lines but is missing in Attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: 4 silicone rings to prevent peeping sound, No falling out of the parts, Consistent marble green jade color
+  - Reason: Only Attributes provides additional specification details.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK
+  - Reason: Printing information only supplied in Attributes.

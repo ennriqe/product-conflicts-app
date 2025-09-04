@@ -1,0 +1,5 @@
+Key Differences
+• Material
+  - Quality Lines: PP (tube), Bamboo (toothbrush)
+  - Attributes: PP tube
+  - Reason: Quality lines include Bamboo for toothbrush while attributes list only PP; information mismatch.

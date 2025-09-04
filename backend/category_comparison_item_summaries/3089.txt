@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Black, White
+  - Reason: Attributes list colors that are completely absent in Quality Lines.
+• Size
+  - Quality Lines: 10×8.8×9.6 cm
+  - Attributes: 93.4×88.9×85 mm
+  - Reason: Converted figures (100×88×96 mm vs 93.4×88.9×85 mm) do not match.
+• Material
+  - Quality Lines: None
+  - Attributes: ABS, PVC
+  - Reason: Material information present only in Attributes.

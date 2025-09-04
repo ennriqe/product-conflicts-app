@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: None
+  - Attributes: Noise level 66–68 dB, Power LED display
+  - Reason: Information present in Attributes but missing in Quality Lines.

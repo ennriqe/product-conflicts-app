@@ -1,0 +1,9 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: Low suction ≥200 mmHg, High suction ≥350 mmHg
+  - Attributes: None
+  - Reason: Information present in Quality Lines but missing in Attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Low suction ≥ 200 mmHg, High suction ≥ 350 mmHg, 125° easy grip, standalone base, easy to clean
+  - Reason: Information present only in Attributes.

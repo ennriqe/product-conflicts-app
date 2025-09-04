@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: White
+  - Reason: Quality Lines is missing while Attributes specifies the color "White".
+• Content
+  - Quality Lines: None
+  - Attributes: 1× handle, 2× brush heads, 1× induction EU charger base, 1× EU plug
+  - Reason: Attributes provides a full content list while Quality Lines is missing.
+• Printing
+  - Quality Lines: None
+  - Attributes: Hema logo on handle
+  - Reason: Printing information present only in Attributes.
+• Waterproof Rating
+  - Quality Lines: None
+  - Attributes: IPX7
+  - Reason: Waterproof rating information present only in Attributes.

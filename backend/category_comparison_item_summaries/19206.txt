@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Black
+  - Reason: Value present in Attributes (Black) but missing in Quality Lines.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK, 2 Pantone colors
+  - Reason: Present in Attributes but missing in Quality Lines.

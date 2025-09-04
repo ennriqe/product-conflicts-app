@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Assorted colours
+  - Reason: Variant colour information is present in Attributes but missing in Quality Lines.
+• Size
+  - Quality Lines: Handle 24mm (ergonomic)
+  - Attributes: 16.6×2.4×2.4 cm
+  - Reason: Numeric values describe different dimensions (handle width 24 mm vs full product dimensions 16.6 × 2.4 × 2.4 cm).
+• Weight
+  - Quality Lines: None
+  - Attributes: 20 g
+  - Reason: Weight is specified in Attributes but absent in Quality Lines.
+• Specifications
+  - Quality Lines: Soft end-rounded bristles; small head; suction cup for hygiene
+  - Attributes: Tufting height: 10 mm; components: IC, PCB, LED
+  - Reason: Each list provides different technical details; they are not equivalent.

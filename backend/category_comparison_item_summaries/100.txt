@@ -1,0 +1,13 @@
+Key Differences
+• Material
+  - Quality Lines: Handle: PP, Tip: TPE
+  - Attributes: None
+  - Reason: Material data exists in quality lines but is missing in attributes.
+• Content
+  - Quality Lines: 4 strips × 10 pieces, PP storage case
+  - Attributes: None
+  - Reason: Content is supplied in quality lines but missing in attributes (does not affect overall equality per rules).
+• Packaging
+  - Quality Lines: Blister PVC
+  - Attributes: None
+  - Reason: Packaging information exists in quality lines but is missing in attributes.

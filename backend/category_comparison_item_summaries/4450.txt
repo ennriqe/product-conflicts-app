@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Fragrance: Spa Wellness 55 MOD, Verbena, Bergamot
+  - Attributes: Color: Green, Fragrance: Verbena, Bergamot
+  - Reason: Different sets of variants: attributes add a color and quality lines add an extra fragrance (Spa Wellness 55 MOD); not subsets of each other.
+• Size
+  - Quality Lines: Dia 68mm
+  - Attributes: Dia 58 mm
+  - Reason: Numerical conflict (68 mm vs 58 mm).

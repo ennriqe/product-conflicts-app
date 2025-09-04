@@ -1,0 +1,17 @@
+Key Differences
+• Specifications
+  - Quality Lines: Sterilizing type: UV sterilizing, Control type: Inductive, Disinfection time: 8 minutes
+  - Attributes: Sterilizing type UV sterilizing; Control type Inductive; Built-in fan for drying toothbrush heads
+  - Reason: Each side contains unique details the other lacks (disinfection time vs built-in fan), so information is not identical.
+• Power
+  - Quality Lines: None
+  - Attributes: 8W
+  - Reason: Power value present in Attributes but missing in Quality Lines.
+• Input
+  - Quality Lines: None
+  - Attributes: 5V (Type-C)
+  - Reason: Input specification present in Attributes but missing in Quality Lines.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: Type-C
+  - Reason: Cable/Connector information present in Attributes but missing in Quality Lines.

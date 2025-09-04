@@ -1,0 +1,9 @@
+Key Differences
+• Material
+  - Quality Lines: Dupont nylon 610 bristles (0.18mm), brass anchored
+  - Attributes: Dupont nylon 610 (0.15 mm end rounded), brass anchored
+  - Reason: Same materials stated, but fiber diameter conflicts (0.18 mm vs 0.15 mm).
+• Content
+  - Quality Lines: Cap
+  - Attributes: None
+  - Reason: Content information present in Quality Lines but missing in Attributes.

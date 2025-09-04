@@ -1,0 +1,21 @@
+Key Differences
+• Weight
+  - Quality Lines: 950 gr (Gross)
+  - Attributes: 7 kg
+  - Reason: Numeric conflict: 0.95 kg vs 7 kg.
+• Content
+  - Quality Lines: 5 interchangeable attachments, CMYK paper manual
+  - Attributes: 5 interchangeable attachments
+  - Reason: ‘CMYK paper manual’ present in QL but missing in attributes.
+• Specifications
+  - Quality Lines: Negative ions output >billion, double air flow, low noise level, ergonomic design, lightweight
+  - Attributes: Negative ions output >billion, double air flow, low noise level
+  - Reason: QL contains extra items (ergonomic design, lightweight) that are not in this field of attributes.
+• Input
+  - Quality Lines: 100–120 V / 60 Hz
+  - Attributes: 100–120V/60Hz, 220–240V/60Hz
+  - Reason: Attributes include an additional 220–240 V range not present in QL.
+• Voltage
+  - Quality Lines: 220–240 V / 60 Hz (motor)
+  - Attributes: None
+  - Reason: Voltage data present in QL but missing in attributes.

@@ -1,0 +1,5 @@
+Key Differences
+• Material
+  - Quality Lines: PU, Textiles, Glue
+  - Attributes: PU, Textiles
+  - Reason: "Glue" is present in quality lines but not in attributes.

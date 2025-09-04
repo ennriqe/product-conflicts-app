@@ -1,0 +1,13 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: None
+  - Attributes: Child mode, Object mode, Forehead mode, Ear mode, Automatic switch between forehead & ear, Auto-shut off
+  - Reason: Detailed modes listed in attributes but missing from quality lines.
+• Specifications
+  - Quality Lines: None
+  - Attributes: 40 sets large memories; Magnetic probe cover
+  - Reason: Specifications provided only in attributes.
+• Packaging
+  - Quality Lines: Coated 1-side artpaper-400g; 15×4.5×4.5 cm; Thickness: 1-2 mm
+  - Attributes: 16×5×5 cm
+  - Reason: Different packaging dimensions and details.

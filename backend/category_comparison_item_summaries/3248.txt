@@ -1,0 +1,13 @@
+Key Differences
+• Material
+  - Quality Lines: Bamboo handle, Dupont spiral and charcoal bristle
+  - Attributes: None
+  - Reason: Material information present in Quality Lines but missing in Attributes.
+• Content
+  - Quality Lines: 2 pcs brush heads per kraft paper bag
+  - Attributes: None
+  - Reason: Content provided in Quality Lines but missing in Attributes.
+• Packaging
+  - Quality Lines: Box packaging; 2 pcs per kraft paper bag
+  - Attributes: None
+  - Reason: Packaging details present in Quality Lines but missing in Attributes.

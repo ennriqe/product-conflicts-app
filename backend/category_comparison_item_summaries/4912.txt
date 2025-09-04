@@ -1,0 +1,5 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone 2396 C, Pantone 318 C, Pantone 3375 C
+  - Reason: Value supplied in attributes but not in quality lines.

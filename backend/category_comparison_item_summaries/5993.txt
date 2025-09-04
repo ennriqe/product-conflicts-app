@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone 9284C
+  - Reason: Value present in attributes but missing in quality lines.
+• Content
+  - Quality Lines: 2 pumice stones
+  - Attributes: None
+  - Reason: Content specified only in quality lines.
+• Packaging
+  - Quality Lines: Trapped blister with hangtag
+  - Attributes: None
+  - Reason: Packaging details present only in quality lines.

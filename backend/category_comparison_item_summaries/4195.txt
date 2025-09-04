@@ -1,0 +1,33 @@
+Key Differences
+• Size
+  - Quality Lines: 4.7×14 cm
+  - Attributes: 14.5×13.5×5 cm
+  - Reason: Dimension sets are completely different.
+• Content
+  - Quality Lines: None
+  - Attributes: 4 replaceable massage heads, USB-C cable (80 cm), manual
+  - Reason: Content list appears only in attributes.
+• Packaging
+  - Quality Lines: corrugated color box, Black PET tray
+  - Attributes: FSC color box with pulp tray, 10-language manual booklet (20 pages, approx. 10×13 cm)
+  - Reason: Type of tray and extra booklet differ; not the same packaging description.
+• Battery
+  - Quality Lines: None
+  - Attributes: 1200 mAh lithium-ion (included)
+  - Reason: Battery specification only present in attributes.
+• Voltage
+  - Quality Lines: 7.4V
+  - Attributes: None
+  - Reason: Voltage is given only in quality lines.
+• Charging Time
+  - Quality Lines: None
+  - Attributes: 3–4 h
+  - Reason: Only attributes mention charging time.
+• Use Time
+  - Quality Lines: None
+  - Attributes: 1 h 50 min–3 h
+  - Reason: Operating time present only in attributes.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: USB-C (80 cm)
+  - Reason: Connector information appears only in attributes.

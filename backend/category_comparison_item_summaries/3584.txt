@@ -1,0 +1,17 @@
+Key Differences
+• Size
+  - Quality Lines: None
+  - Attributes: 19,3×5,9 cm
+  - Reason: Size is provided in Attributes but missing in Quality Lines.
+• Weight
+  - Quality Lines: None
+  - Attributes: 53 g
+  - Reason: Weight is present only in Attributes.
+• Material
+  - Quality Lines: None
+  - Attributes: ABS
+  - Reason: Material is present only in Attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK + 2 Pantone colors, spot varnish
+  - Reason: Printing details are present only in Attributes.

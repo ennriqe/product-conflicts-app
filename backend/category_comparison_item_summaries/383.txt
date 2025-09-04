@@ -1,0 +1,13 @@
+Key Differences
+• Material
+  - Quality Lines: DuPont 610 (bristles)
+  - Attributes: None
+  - Reason: Material is provided in Quality Lines but missing in Attributes.
+• Specifications
+  - Quality Lines: Tongue cleaner, special tip for better cleaning
+  - Attributes: Prijsfilter: €0,00 - €0,99
+  - Reason: The two entries describe completely different information, so they conflict.
+• Packaging
+  - Quality Lines: PET blister, SRP display box, FSC backing card
+  - Attributes: None
+  - Reason: Packaging information present in Quality Lines but missing in Attributes.

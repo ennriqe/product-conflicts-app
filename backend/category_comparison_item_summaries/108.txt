@@ -1,0 +1,21 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: Analyses: Fat Rate, Hydration, Muscle, Bone, Visceral Fat, kcal, BMI; Weight History Overview: Weekly, Monthly, Yearly; Weight Graduation: 0.1kg/0.2lb; Auto-on; Overload/Low Battery Indication
+  - Attributes: None
+  - Reason: Detailed modes are listed in quality lines but completely missing in attributes.
+• Content
+  - Quality Lines: None
+  - Attributes: Manual (printed in color)
+  - Reason: Attributes list a printed manual, quality lines give no content information.
+• Specifications
+  - Quality Lines: LCD screen size: 74×28mm; LCD with backlight; Works with Bluetooth; Free app: Fitdays
+  - Attributes: LCD screen 74×28 mm with backlight, maximum weight 180 kg, weight graduation 0.1 kg, auto-on, overload and low-battery indication, stores up to 24 user profiles
+  - Reason: Overlap on screen size/backlight, but each side contains unique specs the other lacks (Bluetooth/app vs max weight, graduation, user profiles).
+• Packaging
+  - Quality Lines: None
+  - Attributes: Silvergear color box with transparent round closing sticker
+  - Reason: Packaging details only present in attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: Silver foil printing (logo), varnish printing (front), 2 Pantone colors
+  - Reason: Printing information only present in attributes.

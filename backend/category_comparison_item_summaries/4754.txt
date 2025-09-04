@@ -1,0 +1,25 @@
+Key Differences
+• Weight
+  - Quality Lines: 37 g (excluding batteries)
+  - Attributes: 43 g (excluding battery)
+  - Reason: Numerical conflict: 37 g vs 43 g.
+• Material
+  - Quality Lines: None
+  - Attributes: ABS
+  - Reason: Material specified only in attributes.
+• Modes/Settings
+  - Quality Lines: Automatic power-off, Adjustable brightness, 8 seconds reading, Reminder
+  - Attributes: Adjustable brightness, Reminder, Automatic power-off
+  - Reason: Quality Lines contains extra item “8 seconds reading” that is not listed in attributes.
+• Content
+  - Quality Lines: Case
+  - Attributes: tray, manual
+  - Reason: Different listed contents.
+• Specifications
+  - Quality Lines: LED display, SPO2 measurement range 35%–100% (resolution 1%, accuracy ±2% at 70%–100%, unspecified 0%–69%), Pulse rate measurement range 25–250 bpm (resolution 1 bpm, accuracy ±2 bpm)
+  - Attributes: SPO2 measurement range 35%–100% (resolution 1%, accuracy ±2% at 70%–100%, unspecified at 35%–69%), Pulse rate measurement range 25–250 bpm (resolution 1 bpm, accuracy ±2 bpm), 8 seconds reading
+  - Reason: Each side includes information missing in the other (LED display vs 8-second reading).
+• Packaging
+  - Quality Lines: None
+  - Attributes: Silvergear green color box, rating label, round closing stickers
+  - Reason: Packaging details present only in attributes.

@@ -1,0 +1,37 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: White, Green (Pantone 3375C)
+  - Reason: Colors are supplied in Attributes but not mentioned in Quality Lines.
+• Weight
+  - Quality Lines: 480 g
+  - Attributes: 270 g (net), 360 g (gross)
+  - Reason: Numerical values conflict (480 g vs 270 g/360 g).
+• Material
+  - Quality Lines: ABS, silicone
+  - Attributes: ABS, PVC, stainless steel
+  - Reason: Different material lists (silicone vs PVC & stainless steel).
+• Modes/Settings
+  - Quality Lines: 2 massager gears
+  - Attributes: None
+  - Reason: Modes are given in Quality Lines but missing in Attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: 5 rotating steel balls, 6 wheels, noise level 70 dB
+  - Reason: Detailed specs appear only in Attributes.
+• Power
+  - Quality Lines: 4,5–9 W
+  - Attributes: 2–3.5 W
+  - Reason: Power range values conflict.
+• Input
+  - Quality Lines: 110–240V/50–60Hz
+  - Attributes: DC 5V/1A
+  - Reason: Different electrical input specifications.
+• Output
+  - Quality Lines: 12V/1A
+  - Attributes: None
+  - Reason: Output data present in Quality Lines but missing in Attributes.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: white USB-A cable attached, 200 cm
+  - Reason: Cable information is only provided in Attributes.

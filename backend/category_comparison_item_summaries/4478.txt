@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Black, clear band
+  - Reason: Information present in Attributes but absent from Quality Lines.
+• Weight
+  - Quality Lines: 0.015g (pair), glue 1.8g
+  - Attributes: 1 eyelash 11g, per pair 0.015g, glue bottle 1.8g
+  - Reason: Pair and glue weights match, but Attributes adds "1 eyelash 11g" which conflicts with the pair weight.
+• Content
+  - Quality Lines: None
+  - Attributes: False eyelash x1, white glue x1, private logo colorbox
+  - Reason: Content list given only in Attributes; absent in Quality Lines.

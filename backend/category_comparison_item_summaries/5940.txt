@@ -1,0 +1,5 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Scent: Fresh Cucumber
+  - Attributes: None
+  - Reason: Color/Scent present in Quality Lines but missing in Attributes.

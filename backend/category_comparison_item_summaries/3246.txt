@@ -1,0 +1,21 @@
+Key Differences
+• Size
+  - Quality Lines: 24.5cm (L) × 2.9cm (Dia)
+  - Attributes: 24,5 cm
+  - Reason: Length matches but diameter is missing in Attributes.
+• Material
+  - Quality Lines: Natural bamboo; PC; ABS
+  - Attributes: None
+  - Reason: Materials present in Quality Lines but missing in Attributes.
+• Specifications
+  - Quality Lines: Head size 8cm; Handle size 16.3cm; Sprindle head 2.2cm; Head weight 3.8g; Handle weight 112g
+  - Attributes: None
+  - Reason: Detailed specs present in Quality Lines but missing in Attributes.
+• Packaging
+  - Quality Lines: Box packaging
+  - Attributes: None
+  - Reason: Packaging information missing in Attributes.
+• Waterproof Rating
+  - Quality Lines: IPX7
+  - Attributes: None
+  - Reason: Waterproof rating present in Quality Lines but missing in Attributes.

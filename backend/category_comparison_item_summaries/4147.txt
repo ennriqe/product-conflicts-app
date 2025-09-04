@@ -1,0 +1,5 @@
+Key Differences
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK printing on the plastic bag
+  - Reason: Printing details are present in Attributes but missing in Quality Lines.

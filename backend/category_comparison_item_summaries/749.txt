@@ -1,0 +1,21 @@
+Key Differences
+• Capacity
+  - Quality Lines: 3 × 3 ml (teeth whitening gel)
+  - Attributes: None
+  - Reason: Present in Quality Lines, missing in Attributes.
+• Content
+  - Quality Lines: 5-bulb mini LED light, 3 × 3 ml teeth whitening syringe (0.01% peroxide), Hydrogen Peroxide (0.1%), 1 × mouth tray, shade guide, manual, mouth-tray storage case
+  - Attributes: None
+  - Reason: Present only in Quality Lines (flagged as missing in Attributes per special rule).
+• Specifications
+  - Quality Lines: None
+  - Attributes: Ingredients: Propylene Glycol, Glycerin, Aqua, Sodium Bicarbonate, Carbomer, Cellulose Gum, Triethanolamine, PVP, Menthol, Hydrogen Peroxide 0.01%, CI 77891, CI 77019
+  - Reason: Present only in Attributes.
+• Packaging
+  - Quality Lines: box packaging with open window
+  - Attributes: None
+  - Reason: Present only in Quality Lines.
+• Battery
+  - Quality Lines: None
+  - Attributes: 2× CR2032 lithium batteries (included)
+  - Reason: Present only in Attributes.

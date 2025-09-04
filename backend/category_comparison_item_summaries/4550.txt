@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Blue, Red, Orange, Green
+  - Attributes: Bristles white,purple (Pantone 266C), Handle blue (Pantone 292C)
+  - Reason: Different color details; sets of colors do not match.
+• Content
+  - Quality Lines: Manual (11 languages)
+  - Attributes: None
+  - Reason: Content present in Quality Lines but missing in Attributes (allowed difference; does not fail overall).
+• Specifications
+  - Quality Lines: None
+  - Attributes: Tufts retention 20N, Bristles end rounded
+  - Reason: Attributes contain data while Quality Lines do not.
+• Packaging
+  - Quality Lines: PET blister with backing card
+  - Attributes: PET blister
+  - Reason: Quality Lines specify additional backing card not mentioned in Attributes.

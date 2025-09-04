@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Assorted colours
+  - Reason: Attribute value present while Quality Lines is missing.
+• Size
+  - Quality Lines: 24 mm (handle)
+  - Attributes: 16.6×2.4×2.4 cm
+  - Reason: Numerically conflicting dimensions.
+• Weight
+  - Quality Lines: None
+  - Attributes: 15 g
+  - Reason: Weight given in attributes but missing in quality lines.
+• Content
+  - Quality Lines: Batteries
+  - Attributes: None
+  - Reason: Present in quality lines, missing in attributes (allowed, but marked as not equal).
+• Specifications
+  - Quality Lines: Small head, suction cup base, ergonomic handle
+  - Attributes: Tufting height 10 mm
+  - Reason: Different specification details.

@@ -1,0 +1,21 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: None
+  - Attributes: 3 heat settings, hot-cold wind cycling
+  - Reason: Settings listed in Attributes are missing from Quality-Lines.
+• Content
+  - Quality Lines: None
+  - Attributes: 5 interchangeable attachments, 1 glove
+  - Reason: Attributes provide accessory list that is not present in Quality-Lines.
+• Packaging
+  - Quality Lines: None
+  - Attributes: FSC color box
+  - Reason: Packaging type provided in Attributes but not in Quality-Lines.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: 1.6 m cable
+  - Reason: Cable length stated in Attributes but not in Quality-Lines.
+• Temperature/Heating
+  - Quality Lines: None
+  - Attributes: Range 55 °C–75 °C
+  - Reason: Temperature range provided in Attributes but missing from Quality-Lines.

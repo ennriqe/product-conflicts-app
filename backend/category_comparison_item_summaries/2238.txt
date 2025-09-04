@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Zwart
+  - Reason: Color value present in Attributes but missing in Quality Lines.
+• Modes/Settings
+  - Quality Lines: SPO2 indicator, PR indicator, PI indicator, multi-direction display, alarm function, auto turn on/off
+  - Attributes: None
+  - Reason: Detailed modes listed in Quality Lines but completely missing in Attributes.
+• Specifications
+  - Quality Lines: SPO2 measurement range 70–99% (accuracy ±2% 70–99%; resolution ±1%); pulse rate range 30–240 bpm (accuracy ±2 bpm or ±2%, resolution ±1%); low perfusion ≤0.4%; working current ≤30 mA
+  - Attributes: Heart rate range: 30–240 bpm; Accuracy: ±2 bpm or ±2%; Current: 30 mA
+  - Reason: Attributes contain only a subset of the Quality Lines information (missing SPO2 data, resolution and low-perfusion spec).

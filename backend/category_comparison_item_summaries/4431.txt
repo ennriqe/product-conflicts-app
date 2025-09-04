@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Crocodile print black glossy, Crocodile dark red glossy, Pearl gold/beige, Pearl pink
+  - Reason: Attributes list four colour variants while Quality Lines provide none.
+• Weight
+  - Quality Lines: None
+  - Attributes: Nail clipper 11.2 g, Nail clipper curved 14.7 g, Scissor 7.1 g, Nail cleaner 2.6 g, Nail file 2.7 g, Tweezer 6.2 g
+  - Reason: Detailed item weights are supplied in Attributes but absent in Quality Lines.

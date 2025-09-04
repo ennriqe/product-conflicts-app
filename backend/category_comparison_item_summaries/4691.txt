@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Dead Sea Salt
+  - Attributes: None
+  - Reason: Value provided in quality lines but absent in attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Ingredients: Sodium Palmate, Sodium Palm Kernelate, Aqua, Sodium Chloride, Palm acid, Glycerin, Parfum, Petrolatum, Dead Sea Salt, Polyquaternium-7, Tetrasodium EDTA, Tetrasodium Etidronate, Extra info (incl. embossing in the soap AVEO MED)
+  - Reason: Detailed ingredient list present in attributes while quality lines are empty.

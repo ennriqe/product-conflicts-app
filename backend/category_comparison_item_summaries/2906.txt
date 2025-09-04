@@ -1,0 +1,9 @@
+Key Differences
+• Packaging
+  - Quality Lines: Color box with PET window
+  - Attributes: None
+  - Reason: Packaging information missing in Attributes.
+• Printing
+  - Quality Lines: CMYK
+  - Attributes: None
+  - Reason: Printing information missing in Attributes.

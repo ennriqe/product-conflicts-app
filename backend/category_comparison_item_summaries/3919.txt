@@ -1,0 +1,9 @@
+Key Differences
+• Size
+  - Quality Lines: 240×80 mm
+  - Attributes: None
+  - Reason: Value exists in Quality Lines but is missing in Attributes.
+• Content
+  - Quality Lines: Toothbrush with 4 heads
+  - Attributes: None
+  - Reason: Content present in Quality Lines but missing in Attributes (per rule this does not affect overall).

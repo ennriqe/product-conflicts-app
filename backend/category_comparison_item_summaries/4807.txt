@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: Rectangular shape with rounded short sides; transparent strip; two paper backing pieces to protect adhesive
+  - Attributes: None
+  - Reason: Specifications text is supplied in Quality Lines but completely missing in Attributes.

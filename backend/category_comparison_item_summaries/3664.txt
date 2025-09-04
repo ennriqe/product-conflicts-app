@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: 4 colors
+  - Attributes: None
+  - Reason: Quality Lines lists 4 colors while Attributes gives no information.
+• Weight
+  - Quality Lines: None
+  - Attributes: 80 gram
+  - Reason: Weight value present in Attributes but missing in Quality Lines.
+• Printing
+  - Quality Lines: None
+  - Attributes: Double sided printing
+  - Reason: Printing information present in Attributes but missing in Quality Lines.

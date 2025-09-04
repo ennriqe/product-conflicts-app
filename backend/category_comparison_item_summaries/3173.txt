@@ -1,0 +1,9 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: None
+  - Attributes: 2-minute timer
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Packaging
+  - Quality Lines: Shrink + Paper Sleeve
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes.

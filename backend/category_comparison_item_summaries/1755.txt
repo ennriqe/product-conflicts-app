@@ -1,0 +1,53 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Black
+  - Reason: Color provided in Attributes but absent in Quality Lines.
+• Size
+  - Quality Lines: 17×6.9×22cm
+  - Attributes: 22 cm × 5 cm
+  - Reason: Dimensions numerically conflict.
+• Weight
+  - Quality Lines: 1084g
+  - Attributes: 1400 g
+  - Reason: Numerical values differ.
+• Light Color
+  - Quality Lines: None
+  - Attributes: Red (indicator)
+  - Reason: Present only in Attributes.
+• Modes/Settings
+  - Quality Lines: 6 speed levels (2200–3200RPM)
+  - Attributes: None
+  - Reason: Present only in Quality Lines.
+• Content
+  - Quality Lines: None
+  - Attributes: 4 interchangeable attachments, AC charger/adapter
+  - Reason: Content provided in Attributes but not in Quality Lines.
+• Specifications
+  - Quality Lines: Motor 46S-2, 3500±200RPM; European charging adaptor 8.4V/1A (86g)
+  - Attributes: None
+  - Reason: Specifications given only in Quality Lines.
+• Battery
+  - Quality Lines: 7.4V 2200mAh rechargeable battery
+  - Attributes: None
+  - Reason: Battery information present only in Quality Lines.
+• Input
+  - Quality Lines: 110–240V 50/60Hz
+  - Attributes: None
+  - Reason: Input spec present only in Quality Lines.
+• Output
+  - Quality Lines: 8.4V/1A
+  - Attributes: None
+  - Reason: Output spec present only in Quality Lines.
+• Charging Time
+  - Quality Lines: 1.5h
+  - Attributes: 180 minutes
+  - Reason: 90 min in Quality Lines vs 180 min in Attributes.
+• Use Time
+  - Quality Lines: 40min–1h
+  - Attributes: 2–4 h
+  - Reason: Operating time ranges do not match.
+• Cable/Connector
+  - Quality Lines: 149cm charging adaptor cable
+  - Attributes: None
+  - Reason: Cable information present only in Quality Lines.

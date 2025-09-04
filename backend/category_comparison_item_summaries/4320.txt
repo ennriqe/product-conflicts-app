@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Red (Pantone 184C), Blue (Pantone 310C)
+  - Reason: Information present in Attributes but missing in Quality Lines.
+• Size
+  - Quality Lines: L 195×20×3 mm, S 140×12×3 mm
+  - Attributes: Size S: 140×12×2.95 mm, Size L: 195×20×3 mm
+  - Reason: Numeric conflict: thickness for size S is 3 mm in QL vs. 2.95 mm in Attributes.
+• Content
+  - Quality Lines: None
+  - Attributes: 1× glass nail file (size S), 1× glass nail file (size L)
+  - Reason: Content list present in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: Double-sided corrosion, Strong file surface
+  - Attributes: None
+  - Reason: Information present in Quality Lines but absent in Attributes.

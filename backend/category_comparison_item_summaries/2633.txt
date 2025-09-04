@@ -1,0 +1,5 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: 3 height level adjustment
+  - Attributes: None
+  - Reason: Present in Quality Lines but missing in Attributes.

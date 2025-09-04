@@ -1,0 +1,13 @@
+Key Differences
+• Material
+  - Quality Lines: ABS (handle, front cover), PVC (button), PP (rinse cup)
+  - Attributes: Handle: ABS757, Front cover: ABS920, Button: PVC 45
+  - Reason: Both mention ABS for handle/front cover and PVC for button, but quality lines also list PP for the rinse cup which is missing in attributes.
+• Content
+  - Quality Lines: Toothbrush, rinse cup, 2×AG3 batteries
+  - Attributes: None
+  - Reason: Content list present in quality lines but completely missing in attributes.
+• Packaging
+  - Quality Lines: Stand-up PET blister with printed backing card (paper 400 gsm SS) and PET blister cover 0.35 mm
+  - Attributes: PET Blister + 350gsm backing card
+  - Reason: Both describe PET blister packaging but backing-card weight differs (400 gsm vs 350 gsm), creating a numeric conflict.

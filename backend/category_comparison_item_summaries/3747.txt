@@ -1,0 +1,5 @@
+Key Differences
+• Weight
+  - Quality Lines: None
+  - Attributes: Clippers: 17.4 g, Scissors: 8.4 g, Nail cleaner: 2.7 g, Nail cuticle: 2.6 g, Tweezer: 5 g, Earcleaner: 1 g; Complete set: 102 g
+  - Reason: Detailed weight values exist in attributes but are completely absent in quality lines.

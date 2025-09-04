@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Flavor: Cool Mint
+  - Attributes: None
+  - Reason: Quality Lines specifies a flavor (Cool Mint) whereas Attributes is missing this information.
+• Material
+  - Quality Lines: Mouthwash formula (WAC20231127-1), PET, PP
+  - Attributes: PET, PP
+  - Reason: Quality Lines also lists the mouthwash formula, which is not present in Attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Mouthwash formula WAC20231127-1, Ingredients: Water, Sorbitol, Cocamidopropyl Betaine, Propylene Glycol, Fragrance, Sodium Benzoate, Cetylpyridinium Chloride, Sodium Saccharin, Xylitol, Sodium Citrate, CI 42090, CI 15510
+  - Reason: Attributes contain detailed specifications while Quality Lines provide none.

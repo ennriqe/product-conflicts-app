@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Holographic metallic, Silver
+  - Reason: Value present in attributes but missing in quality lines.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Plastic box 20.2 × 9.8 cm
+  - Reason: Specifications provided in attributes but missing in quality lines.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK, 2 Pantone, 1× inlay paper CMYK printing
+  - Reason: Printing information present in attributes but missing in quality lines.

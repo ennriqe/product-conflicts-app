@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: White
+  - Attributes: None
+  - Reason: Color specified in Quality Lines but missing in Attributes.
+• Size
+  - Quality Lines: 17.5×7.5 cm
+  - Attributes: 6.5×13×2.5 cm
+  - Reason: Numerical dimensions differ.
+• Weight
+  - Quality Lines: 102 g
+  - Attributes: None
+  - Reason: Weight present in Quality Lines but missing in Attributes.
+• Packaging
+  - Quality Lines: Single blister with eurohole
+  - Attributes: None
+  - Reason: Packaging present in Quality Lines but missing in Attributes.
+• Battery
+  - Quality Lines: Not included
+  - Attributes: 2×AAA
+  - Reason: Quality Lines states no batteries included, Attributes specifies 2×AAA batteries — direct conflict.

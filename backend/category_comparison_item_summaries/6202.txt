@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: Sponge has a soft and a coarse side for scrub and massage, sponge has two handles
+  - Attributes: Washing label (1-color print), sponge has a soft and a coarse side, two handles
+  - Reason: Each source contains information the other lacks ("scrub and massage" vs "Washing label").

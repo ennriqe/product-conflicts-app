@@ -1,0 +1,9 @@
+Key Differences
+• Packaging
+  - Quality Lines: CMYK color box with PET window
+  - Attributes: None
+  - Reason: Information present in Quality Lines but missing in Attributes.
+• Printing
+  - Quality Lines: CMYK + 4 Pantone colors
+  - Attributes: None
+  - Reason: Information present in Quality Lines but missing in Attributes.

@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: Bristle diameter 0.18mm
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes.

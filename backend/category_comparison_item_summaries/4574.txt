@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: White, Red, Green, Blue, Yellow
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Content
+  - Quality Lines: 24 pcs toothbrush heads
+  - Attributes: None
+  - Reason: Present in Quality Lines but missing in Attributes (allowed difference; does not affect overall equality).
+• Specifications
+  - Quality Lines: None
+  - Attributes: Brush Head housing – ABS (White), ID ring – ABS (Red/Green/Blue/Yellow), Refill head disc – ABS (White), Drive – POM (White)
+  - Reason: Detailed specifications provided in Attributes but absent from Quality Lines.

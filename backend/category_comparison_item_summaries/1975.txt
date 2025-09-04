@@ -1,0 +1,21 @@
+Key Differences
+• Size
+  - Quality Lines: 16×2×2.3 cm
+  - Attributes: None
+  - Reason: Size provided in Quality Lines but missing in Attributes
+• Material
+  - Quality Lines: ABS, PC, TPE
+  - Attributes: ABS / PC / TPE / SS 304
+  - Reason: Attributes contains additional material (SS 304)
+• Modes/Settings
+  - Quality Lines: Lighting, Vibration & Lighting, Vibration, Power Off
+  - Attributes: Acoustic vibration (15000rpm)
+  - Reason: Different listed modes
+• Specifications
+  - Quality Lines: Frequency: 15000 rpm
+  - Attributes: Model: DW-6037
+  - Reason: Conflicting specification details
+• Packaging
+  - Quality Lines: Color box with transparent closing sticker
+  - Attributes: None
+  - Reason: Packaging info present only in Quality Lines

@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: 0521C, 544C, 3245, 263C, 2577C, 2623C, 224C
+  - Attributes: 169C, 544C, 9121C, 263C, 542C, 177C, 2562C
+  - Reason: Pantone color lists differ; only partial overlap.
+• Modes/Settings
+  - Quality Lines: 7 steps
+  - Attributes: None
+  - Reason: Present in QL but missing in Attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: White sides steps are numbered 1 to 7
+  - Reason: Present in Attributes but absent in QL.
+• Packaging
+  - Quality Lines: PET shrink, EAN sticker
+  - Attributes: None
+  - Reason: Packaging details only in QL.

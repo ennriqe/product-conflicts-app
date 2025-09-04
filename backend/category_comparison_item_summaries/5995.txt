@@ -1,0 +1,5 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone 9284 C, Pantone 9460 C, Pantone 4267 C, Pantone Black 3 C
+  - Reason: Colours listed in Attributes but missing in Quality Lines.

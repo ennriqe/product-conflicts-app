@@ -1,0 +1,21 @@
+Key Differences
+• Capacity
+  - Quality Lines: 30g
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes.
+• Weight
+  - Quality Lines: None
+  - Attributes: 30 g
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Material
+  - Quality Lines: 100% coconut shell powder
+  - Attributes: None
+  - Reason: Material listed in Quality Lines but absent in Attributes.
+• Packaging
+  - Quality Lines: PP can with 2 self-adhesive stickers (1 on top, 1 around the container)
+  - Attributes: PET can, PP lid
+  - Reason: Different packaging details provided.
+• Printing
+  - Quality Lines: Full color + 2 Pantone colors
+  - Attributes: None
+  - Reason: Printing info present in Quality Lines but missing in Attributes.

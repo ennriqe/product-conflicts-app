@@ -1,0 +1,9 @@
+Key Differences
+• Size
+  - Quality Lines: Length: 4,9cm, 6,5mm
+  - Attributes: None
+  - Reason: Size present in Quality Lines but completely absent in Attributes.
+• Content
+  - Quality Lines: 10 pieces (2*4 strips) with PP storage case
+  - Attributes: 2×40 pieces
+  - Reason: Different piece counts (10 vs 80) – numerical conflict.

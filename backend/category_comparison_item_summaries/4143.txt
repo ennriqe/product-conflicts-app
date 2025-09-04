@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Flavor: Mint
+  - Attributes: Mouthwash: Blue, Lid: White, Bottle: Transparent
+  - Reason: QL gives flavor (Mint) while Attributes list product colours; information is different and not equivalent.
+• Specifications
+  - Quality Lines: Formula: SZ20230602-1
+  - Attributes: Label located at front and back of the bottle
+  - Reason: Different specification details provided; they are not equivalent.
+• Packaging
+  - Quality Lines: Bottle (PET, transparent), Lid (PP, white), Label (Coated paper adhesive)
+  - Attributes: None
+  - Reason: Packaging info present in QL but missing in Attributes.

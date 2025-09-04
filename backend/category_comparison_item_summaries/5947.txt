@@ -1,0 +1,17 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: None
+  - Attributes: 2 speeds, 3 heat settings (green indicator, yellow indicator, red indicator), cool shot function
+  - Reason: Detailed modes/settings supplied in attributes but missing in quality lines.
+• Content
+  - Quality Lines: handle, wraps, brush, dryer head, curler
+  - Attributes: 5 interchangeable attachments and 1 glove
+  - Reason: Attributes mention an additional glove and describe items generically; therefore not identical.
+• Packaging
+  - Quality Lines: None
+  - Attributes: FSC color box
+  - Reason: Packaging information exists only in attributes.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: 1.8 m cable
+  - Reason: Cable length provided only in attributes.

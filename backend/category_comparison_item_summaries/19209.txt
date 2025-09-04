@@ -1,0 +1,29 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Grey
+  - Reason: Color specified in Attributes but missing in Quality Lines.
+• Weight
+  - Quality Lines: 444 g (trimmer device incl. battery)
+  - Attributes: Trimmer device 128 g (incl. battery), manual 80 g
+  - Reason: Numerical conflict (444 g vs 128 g for the device).
+• Packaging
+  - Quality Lines: PET window box with PET inner tray
+  - Attributes: Non visible corrugated carton (mat white 577 gsm, 1 layer corrugated) with PET inner tray, no PET window, no Euro hanglock
+  - Reason: Packaging construction differs (window box vs non-visible corrugated carton).
+• Printing
+  - Quality Lines: None
+  - Attributes: Packaging: CMYK + 1 Pantone + spot varnish + 877C silver foil, manual: CMYK, product: 1-color silk print (rating label)
+  - Reason: Printing details only present in Attributes.
+• Battery
+  - Quality Lines: None
+  - Attributes: Li-ion 14500, 600mA
+  - Reason: Battery information present only in Attributes.
+• Charging Time
+  - Quality Lines: None
+  - Attributes: 80–90 min
+  - Reason: Charging time missing in Quality Lines but present in Attributes.
+• Use Time
+  - Quality Lines: None
+  - Attributes: 120–130 min
+  - Reason: Use time missing in Quality Lines but present in Attributes.

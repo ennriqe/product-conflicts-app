@@ -1,0 +1,13 @@
+Key Differences
+• Light Color
+  - Quality Lines: None
+  - Attributes: Two-color LED indicator
+  - Reason: Information present in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: 2-colour LED indicator
+  - Attributes: Fast heating 180℃ in 2 min
+  - Reason: Different specification details.
+• Use Time
+  - Quality Lines: 35 min
+  - Attributes: 30 min
+  - Reason: Numerical conflict between 35 min and 30 min.

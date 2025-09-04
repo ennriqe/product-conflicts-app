@@ -1,0 +1,9 @@
+Key Differences
+• Size
+  - Quality Lines: None
+  - Attributes: 165×19mm
+  - Reason: Size present in Attributes but missing in Quality Lines.
+• Light Color
+  - Quality Lines: None
+  - Attributes: Blue
+  - Reason: Light Color present in Attributes but missing in Quality Lines.

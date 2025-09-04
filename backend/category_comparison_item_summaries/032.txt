@@ -1,0 +1,25 @@
+Key Differences
+• Size
+  - Quality Lines: 90×39×0.38 mm
+  - Attributes: None
+  - Reason: Size present in quality lines but missing in attributes.
+• Weight
+  - Quality Lines: Net per stencil: 1 g, With packaging: 10.6 g
+  - Attributes: None
+  - Reason: Weight present in quality lines but missing in attributes.
+• Material
+  - Quality Lines: EVA
+  - Attributes: None
+  - Reason: Material present in quality lines but missing in attributes.
+• Content
+  - Quality Lines: 4 pcs eyebrow stencils
+  - Attributes: None
+  - Reason: Content present in quality lines but missing in attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Best verkocht: Ja
+  - Reason: Specifications differ: quality lines empty, attributes contain 'Best verkocht: Ja'.
+• Packaging
+  - Quality Lines: FSC full color backing card with OPP bag (per set)
+  - Attributes: None
+  - Reason: Packaging present in quality lines but missing in attributes.

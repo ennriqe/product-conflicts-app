@@ -1,0 +1,29 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Wit
+  - Reason: Attribute lists color (Wit) while QL has none.
+• Size
+  - Quality Lines: 72×65×27 mm
+  - Attributes: 72×65×27 cm
+  - Reason: Same numbers but different units (mm vs cm) – numerical conflict.
+• Capacity
+  - Quality Lines: 150 mm / 1.5 m
+  - Attributes: None
+  - Reason: Capacity provided in QL but missing in Attributes.
+• Weight
+  - Quality Lines: 0.3 kg
+  - Attributes: 129 g
+  - Reason: Values conflict (300 g vs 129 g).
+• Packaging
+  - Quality Lines: giftbox
+  - Attributes: None
+  - Reason: Packaging specified in QL but missing in Attributes.
+• Battery
+  - Quality Lines: 3V CR2032 battery (not included)
+  - Attributes: None
+  - Reason: Battery info present in QL but missing in Attributes.
+• Voltage
+  - Quality Lines: 3V
+  - Attributes: None
+  - Reason: Voltage present in QL but missing in Attributes.

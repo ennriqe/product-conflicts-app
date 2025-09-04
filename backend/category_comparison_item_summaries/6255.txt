@@ -1,0 +1,5 @@
+Key Differences
+• Printing
+  - Quality Lines: CMYK
+  - Attributes: None
+  - Reason: Printing information (CMYK) is present in Quality Lines but absent in Attributes.

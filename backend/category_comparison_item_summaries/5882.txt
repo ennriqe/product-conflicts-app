@@ -1,0 +1,29 @@
+Key Differences
+• Weight
+  - Quality Lines: 400g
+  - Attributes: 469 gram
+  - Reason: Numerical conflict: 400 g ≠ 469 g.
+• Material
+  - Quality Lines: ABS, PP, copper (motor)
+  - Attributes: ABC/PP
+  - Reason: Materials listed differ (copper missing, ABS vs ABC).
+• Modes/Settings
+  - Quality Lines: None
+  - Attributes: Speed: 3200 r/min
+  - Reason: Value present in Attributes but missing in Quality Lines for this field.
+• Content
+  - Quality Lines: Massage gun, 4 replacement heads
+  - Attributes: 4 replacement heads; 0.5m USB-A/USB-C cable
+  - Reason: Partial overlap only; each side lists an item the other omits.
+• Specifications
+  - Quality Lines: Max speed 3200r/min
+  - Attributes: None
+  - Reason: Present in Quality Lines but missing in Attributes.
+• Packaging
+  - Quality Lines: Colorbox (corrugated fibreboard PAP 20); Sticker PET; Material tray PET
+  - Attributes: Colorbox (corrugated fibreboard PAP 20); sticker (PET); material tray (pulp/carton)
+  - Reason: Tray material differs (PET vs pulp/carton).
+• Input
+  - Quality Lines: 5V/2A
+  - Attributes: 5V/1A
+  - Reason: Amperage differs (2 A vs 1 A).

@@ -1,0 +1,17 @@
+Key Differences
+• Material
+  - Quality Lines: ABS, PC
+  - Attributes: ABS
+  - Reason: Quality lines list ABS and PC; attributes list only ABS (missing PC).
+• Content
+  - Quality Lines: Device, 5 heads, USB cable
+  - Attributes: Device, 4 additional suction heads, manual, USB cable
+  - Reason: Different number of heads and manual present only in attributes.
+• Input
+  - Quality Lines: None
+  - Attributes: 3.7 V
+  - Reason: Value present only in attributes.
+• Voltage
+  - Quality Lines: 3.7 V
+  - Attributes: None
+  - Reason: Value present only in quality lines.

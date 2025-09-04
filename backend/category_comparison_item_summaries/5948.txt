@@ -1,0 +1,25 @@
+Key Differences
+• Content
+  - Quality Lines: Attachments: BRLM
+  - Attributes: 4 interchangeable attachments, 1 glove
+  - Reason: Different attachment description; glove mentioned only in attributes, QL uses abbreviation BRLM.
+• Specifications
+  - Quality Lines: Motor BLDC 110 000 rpm, Motor lifetime 1 000 h, Airflow speed 16 m/s
+  - Attributes: Noise level 80dB, Airflow speed 16m/s
+  - Reason: Only airflow speed matches; motor and noise details differ or are missing on each side.
+• Packaging
+  - Quality Lines: None
+  - Attributes: FSC color box
+  - Reason: Packaging information supplied only by attributes.
+• Power
+  - Quality Lines: 1500 W
+  - Attributes: None
+  - Reason: Power rating appears only in Quality Lines.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: Cable length 1.8m
+  - Reason: Only attributes mention cable length.
+• Temperature/Heating
+  - Quality Lines: Max 78–95 ℃
+  - Attributes: None
+  - Reason: Temperature limits stated only in Quality Lines.

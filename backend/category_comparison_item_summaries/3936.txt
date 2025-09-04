@@ -1,0 +1,21 @@
+Key Differences
+• Specifications
+  - Quality Lines: LCD size 43×33 mm, 2×90 groups memory function, blood pressure classification (WHO) indicator
+  - Attributes: 2×99 groups memory function, average calculating for the latest 3 measurement values, blood pressure classification (WHO) indicator, irregular heartbeat (IHB) indicator, year/month/date/time function, accuracy: pressure ±mmHg, pulse: ±5%
+  - Reason: Numeric conflict: memory capacity 2×90 vs 2×99; each side also lists extra specs.
+• Packaging
+  - Quality Lines: None
+  - Attributes: FSC certified packaging
+  - Reason: Packaging detail present only in Attributes.
+• Input
+  - Quality Lines: None
+  - Attributes: DC 5 V
+  - Reason: Input value present only in Attributes.
+• Voltage
+  - Quality Lines: 6V
+  - Attributes: None
+  - Reason: Voltage given only in Quality Lines.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: USB Type-C
+  - Reason: Connector information present only in Attributes.

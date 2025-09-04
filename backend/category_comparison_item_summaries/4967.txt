@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: None
+  - Attributes: Individual tool sizes: tweezer 8.8×0.6 cm, nail cleaner 7.6×0.6×0.07 cm, file 8.3×1×0.05 cm, ear cleaner 7.4×0.15 cm, angled clipper 5.8×1.2 cm, nail clipper 5.8×1.2 cm, scissor 8.2×4.3 cm
+  - Reason: Detailed specifications exist in Attributes but none in Quality Lines.

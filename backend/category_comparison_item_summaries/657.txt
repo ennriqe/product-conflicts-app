@@ -1,0 +1,45 @@
+Key Differences
+• Size
+  - Quality Lines: 18×22×25cm
+  - Attributes: 26×22×17 cm (external)
+  - Reason: Dimensions numerically differ (18×22×25 vs 26×22×17).
+• Weight
+  - Quality Lines: 1400gram (without packaging)
+  - Attributes: Net 1550 g
+  - Reason: Product net weight differs (1.4 kg vs 1.55 kg).
+• Material
+  - Quality Lines: PP
+  - Attributes: None
+  - Reason: Material given in Quality Lines but missing in Attributes.
+• Modes/Settings
+  - Quality Lines: None
+  - Attributes: Heating mode, Cooling mode
+  - Reason: Modes present in Attributes but absent in Quality Lines.
+• Content
+  - Quality Lines: 1x shelf, 1x door rack
+  - Attributes: AC power cord (1.8 m), DC power cord (1.6 m)
+  - Reason: Different contents listed.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Internal size 20×13.5×13.5 cm
+  - Reason: Specification present only in Attributes.
+• Packaging
+  - Quality Lines: full color box, Total weight with packaging: 1800gram
+  - Attributes: Gift box (1.9 kg)
+  - Reason: Box type similar but packaging weight conflicts (1.8 kg vs 1.9 kg).
+• Printing
+  - Quality Lines: custom silk-screen printing logo
+  - Attributes: None
+  - Reason: Printing info only in Quality Lines.
+• Power
+  - Quality Lines: 45–60W
+  - Attributes: Cool 52.6–57.1 W, Hot 41.8–46.8 W
+  - Reason: Ranges overlap but are not identical; numeric conflict.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: AC power cord, DC power cord
+  - Reason: Cable information only present in Attributes.
+• Temperature/Heating
+  - Quality Lines: Max cooling to 5℃
+  - Attributes: Cools down to 9.5 ℃, heats up to 67.6 ℃
+  - Reason: Cooling specs differ (5 ℃ vs 9.5 ℃) and Attributes adds heating value.

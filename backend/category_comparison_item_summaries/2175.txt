@@ -1,0 +1,25 @@
+Key Differences
+• Size
+  - Quality Lines: 14.5 cm
+  - Attributes: None
+  - Reason: Size present in Quality Lines but missing in Attributes.
+• Weight
+  - Quality Lines: approx. 6 g
+  - Attributes: None
+  - Reason: Weight stated in Quality Lines but missing in Attributes.
+• Material
+  - Quality Lines: Bamboo handle, Dupont Nylon 610 bristles
+  - Attributes: Bamboo
+  - Reason: Attributes mention only Bamboo; Quality Lines add Dupont Nylon bristles, so not the same.
+• Specifications
+  - Quality Lines: End-rounded soft bristles, bristle retention force 15 N, color tufting bristles
+  - Attributes: None
+  - Reason: Specifications present in Quality Lines but missing in Attributes.
+• Packaging
+  - Quality Lines: Box packaging with eurolock, adhesive closing, 2 assorted packing
+  - Attributes: None
+  - Reason: Packaging details present in Quality Lines but missing in Attributes.
+• Printing
+  - Quality Lines: Full color print
+  - Attributes: None
+  - Reason: Printing information present in Quality Lines but missing in Attributes.

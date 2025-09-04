@@ -1,0 +1,5 @@
+Key Differences
+• Use Time
+  - Quality Lines: None
+  - Attributes: 40 min continuous working time
+  - Reason: Value is missing in Quality Lines but present in Attributes.

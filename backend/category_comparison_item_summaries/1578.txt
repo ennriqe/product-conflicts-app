@@ -1,0 +1,17 @@
+Key Differences
+• Material
+  - Quality Lines: None
+  - Attributes: ABS757 (handle), ABS920 (front cover), PVC 45 (button)
+  - Reason: Material details are present in Attributes but missing in Quality Lines.
+• Content
+  - Quality Lines: 1 flashing toothbrush, 1 mouth rinse cup
+  - Attributes: None
+  - Reason: Content list present in Quality Lines but missing in Attributes (allowed, does not fail overall).
+• Specifications
+  - Quality Lines: Push button activation
+  - Attributes: Ergonomic design, End rounded bristles, White Herox 610 bristles, Tufts: 22, Bristles/Tuft: 58 (avg), Diameter: 0.152mm
+  - Reason: Different specification details; neither is a subset of the other.
+• Packaging
+  - Quality Lines: None
+  - Attributes: PET blister packaging with 350gsm backing card
+  - Reason: Packaging information present in Attributes but missing in Quality Lines.

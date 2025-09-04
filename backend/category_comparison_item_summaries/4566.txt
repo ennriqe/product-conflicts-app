@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Black, Pink (various finishes)
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Content
+  - Quality Lines: None
+  - Attributes: Tweezer (6.3 g), Nail cleaner (2.6 g), File (2.5 g), Angled clipper (12 g), Nail clipper (11.3 g), Scissor (9.4 g)
+  - Reason: Detailed content provided in Attributes but not in Quality Lines.

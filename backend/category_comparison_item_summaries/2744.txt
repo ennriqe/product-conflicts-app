@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Flavor: Turmeric
+  - Attributes: None
+  - Reason: Flavor information present in quality lines but absent in attributes.
+• Material
+  - Quality Lines: None
+  - Attributes: PP tube
+  - Reason: Material listed in attributes but missing in quality lines.
+• Printing
+  - Quality Lines: None
+  - Attributes: UV
+  - Reason: Printing information present in attributes but missing in quality lines.

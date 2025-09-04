@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: INCI: Sodium Palmate, Sodium Palm Kernelate, Aqua, Talc, Parfum, Glycerin, Palm Acid, Sodium Chloride, Palm Kernel Acid, Tetrasodium EDTA, Tetrasodium Etidronate, Paranum Liquidum, Citric Acid, Sodium Laureth Sulfate, Propylene Glycol, Butylphenyl Methylpropional, Linalool, Amyl Cinnamal, Citronellol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Hexyl Cinnamal, CI 77891
+  - Attributes: None
+  - Reason: Specifications are provided in quality lines but missing in attributes

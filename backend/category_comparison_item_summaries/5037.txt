@@ -1,0 +1,5 @@
+Key Differences
+• Weight
+  - Quality Lines: 1.44 (unit not specified)
+  - Attributes: 434g
+  - Reason: Different numerical values and units; cannot be reconciled.

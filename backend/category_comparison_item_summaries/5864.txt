@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone 7605C (puff), Pantone 3572C (lint)
+  - Reason: Quality Lines gives no color information while Attributes specifies two Pantone colors.
+• Weight
+  - Quality Lines: Puff: 2.6 g; Box: 13.8 g
+  - Attributes: Puff 2.47 g, Box 14 g
+  - Reason: Numerical values do not match (2.6 vs 2.47 g, 13.8 vs 14 g).
+• Content
+  - Quality Lines: None
+  - Attributes: 2 pcs powder puff per plastic storage box
+  - Reason: Content is given in Attributes but missing in Quality Lines.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK printing on packaging, 1-color logo print on lint
+  - Reason: Printing details appear only in Attributes.

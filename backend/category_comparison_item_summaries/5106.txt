@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: White
+  - Attributes: None
+  - Reason: Color information is supplied in Quality Lines but completely absent in Attributes.
+• Content
+  - Quality Lines: None
+  - Attributes: Manual (glossy white paper 80g, CMYK full-color, 17 languages)
+  - Reason: Attributes list a manual, but Quality Lines give no content information.

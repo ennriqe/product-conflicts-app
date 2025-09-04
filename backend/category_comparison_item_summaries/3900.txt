@@ -1,0 +1,5 @@
+Key Differences
+• Size
+  - Quality Lines: Dia 68 mm
+  - Attributes: Dia 58 mm
+  - Reason: Numerical diameter values differ (68 mm vs 58 mm).

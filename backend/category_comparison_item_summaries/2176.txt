@@ -1,0 +1,17 @@
+Key Differences
+• Size
+  - Quality Lines: 10.5cm
+  - Attributes: None
+  - Reason: Size provided in Quality Lines but missing in Attributes.
+• Material
+  - Quality Lines: PP handle, Nylon 610 bristle (6mil)
+  - Attributes: PP, Mix PP, Vistamaxx
+  - Reason: Materials list differs; Attributes omit Nylon 610 while adding Mix PP and Vistamaxx.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Bristle type: Chinese Nylon 610 (6 mil)
+  - Reason: Additional specifications present only in Attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: 4-colour blister card
+  - Reason: Printing details present only in Attributes.

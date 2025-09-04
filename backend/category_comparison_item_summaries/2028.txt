@@ -1,0 +1,25 @@
+Key Differences
+• Capacity
+  - Quality Lines: None
+  - Attributes: 10 ml (acetone reservoir)
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Material
+  - Quality Lines: ABS
+  - Attributes: None
+  - Reason: Material specified in Quality Lines but missing in Attributes.
+• Content
+  - Quality Lines: AC adapter and EU plug, machine, manual (2 pages), 4× silicone protective cap
+  - Attributes: None
+  - Reason: Content listed in Quality Lines but missing in Attributes.
+• Specifications
+  - Quality Lines: Certificates: CE, RoHS, EMC, LVD, REACH
+  - Attributes: Removes gel and acrylic polish within 10 minutes
+  - Reason: Ignoring certificates, Quality Lines provide no usable spec while Attributes include functional specification.
+• Packaging
+  - Quality Lines: Standard factory color box + karsten EAN code sticker
+  - Attributes: None
+  - Reason: Packaging information present in Quality Lines but missing in Attributes.
+• Temperature/Heating
+  - Quality Lines: None
+  - Attributes: Heats up to 52°C
+  - Reason: Temperature specification present in Attributes but missing in Quality Lines.

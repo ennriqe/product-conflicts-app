@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Assorti (3 colours)
+  - Attributes: Yellow, Orange, Green, Blue
+  - Reason: QL states an assorted pack of 3 colours, while Attributes lists 4 specific colours; quantities and listed colours conflict.
+• Specifications
+  - Quality Lines: bristle 0.18 mm, brass anchor of animation available
+  - Attributes: Bristle 0.18 mm, Flat trimming bristles
+  - Reason: Both share bristle diameter 0.18 mm, but each lists additional unique details not present in the other, so information sets differ.

@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Purple Pantone 2066 C, Grey Pantone 406 C
+  - Reason: Color information is provided in Attributes but absent in Quality Lines.
+• Content
+  - Quality Lines: None
+  - Attributes: 1× Tweezer (6.3 g), 1× Nail cleaner (2.6 g), 1× File (2.5 g), 1× Angled clipper (14 g), 1× Nail clipper (11.3 g), 1× Scissor (9.4 g)
+  - Reason: Detailed content list appears only in Attributes.

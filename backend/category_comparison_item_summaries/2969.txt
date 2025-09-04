@@ -1,0 +1,13 @@
+Key Differences
+• Capacity
+  - Quality Lines: 180 kg
+  - Attributes: None
+  - Reason: Capacity value present in Quality Lines but completely missing in Attributes.
+• Modes/Settings
+  - Quality Lines: Auto on, Auto off, Division 0.1 kg, Low-power indication, Over-load indication
+  - Attributes: None
+  - Reason: Modes/Settings present in Quality Lines but absent in Attributes.
+• Specifications
+  - Quality Lines: LCD size 74×28 mm; High-precision strain-gauge sensor system
+  - Attributes: None
+  - Reason: Specifications given in Quality Lines but not in Attributes.

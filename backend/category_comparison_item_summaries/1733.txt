@@ -1,0 +1,37 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Dusty Pink
+  - Reason: Color is provided in Attributes but absent in Quality Lines.
+• Weight
+  - Quality Lines: 592 g
+  - Attributes: None
+  - Reason: Weight given in Quality Lines but missing in Attributes.
+• Material
+  - Quality Lines: ABS, PC, TPE
+  - Attributes: None
+  - Reason: Materials listed only in Quality Lines.
+• Modes/Settings
+  - Quality Lines: Touch ON/OFF switch
+  - Attributes: Adjustable brightness
+  - Reason: Different functions are stated; ON/OFF switching is not the same as brightness adjustment.
+• Content
+  - Quality Lines: None
+  - Attributes: USB cable
+  - Reason: Content is present only in Attributes.
+• Specifications
+  - Quality Lines: Rotatable bracket design (horizontal/vertical mirror position)
+  - Attributes: None
+  - Reason: Specification appears only in Quality Lines.
+• Packaging
+  - Quality Lines: Color box (no FSC)
+  - Attributes: None
+  - Reason: Packaging information provided only in Quality Lines.
+• Power
+  - Quality Lines: 3 W
+  - Attributes: None
+  - Reason: Power rating present only in Quality Lines.
+• Input
+  - Quality Lines: 5 V 1 A
+  - Attributes: None
+  - Reason: Input specification present only in Quality Lines.

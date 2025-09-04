@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: Ingredients: Calcium Carbonate, Glycerin, Aqua, Silica, Sodium Lauryl Sulphate, Sodium Monofluorophosphate, Flavour, Cellulose Gum, Sodium Silicate, Sodium Bicarbonate, Tetrasodium Pyrophosphate, Benzyl Alcohol, Sodium Benzoate, Sodium Saccharin, Sodium Hydroxide, Titanium Dioxide
+  - Attributes: None
+  - Reason: Detailed ingredient list exists in Quality Lines but is completely absent in Attributes.

@@ -1,0 +1,13 @@
+Key Differences
+• Weight
+  - Quality Lines: None
+  - Attributes: 33 g
+  - Reason: Weight is present in Attributes but missing in Quality Lines.
+• Content
+  - Quality Lines: None
+  - Attributes: 1 side soft, 1 side scrub
+  - Reason: Content information exists only in Attributes.
+• Specifications
+  - Quality Lines: 1 side soft, 1 side scrub
+  - Attributes: None
+  - Reason: Specification line exists only in Quality Lines.

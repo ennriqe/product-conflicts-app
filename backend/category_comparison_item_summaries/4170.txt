@@ -1,0 +1,5 @@
+Key Differences
+• Printing
+  - Quality Lines: CMYK, 1 Pantone color
+  - Attributes: CMYK printing cyan, black + 3 Pantones
+  - Reason: Both indicate CMYK printing, but Pantone count differs (1 vs 3) – numerical conflict.

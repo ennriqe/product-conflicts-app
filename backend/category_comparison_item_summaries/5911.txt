@@ -1,0 +1,13 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: Speed: 6000rpm
+  - Attributes: 3 levels
+  - Reason: Different information: one gives rotation speed, the other gives number of levels.
+• Content
+  - Quality Lines: None
+  - Attributes: 2 standard bent nozzles, USB cable 100 cm, manual booklet (9 languages)
+  - Reason: Content list present in Attributes but missing in Quality Lines.
+• Waterproof Rating
+  - Quality Lines: None
+  - Attributes: IPX7
+  - Reason: Rating present in Attributes but missing in Quality Lines.

@@ -1,0 +1,9 @@
+Key Differences
+• Power
+  - Quality Lines: USB charging
+  - Attributes: None
+  - Reason: Power information present in Quality Lines but missing in Attributes.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: USB
+  - Reason: Cable/Connector information present in Attributes but missing in Quality Lines.

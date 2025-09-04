@@ -1,0 +1,21 @@
+Key Differences
+• Size
+  - Quality Lines: None
+  - Attributes: 19,3×5,9 cm
+  - Reason: Size present in Attributes but missing in Quality Lines.
+• Weight
+  - Quality Lines: None
+  - Attributes: 53 g
+  - Reason: Weight present in Attributes but missing in Quality Lines.
+• Material
+  - Quality Lines: None
+  - Attributes: ABS
+  - Reason: Material present in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: 46 comb teeth
+  - Attributes: width of comb teeth 5,2 cm, buzzer sound indication, 50× comb teeth
+  - Reason: Numerical conflict on number of comb teeth (46 vs 50) and additional differing details.
+• Packaging
+  - Quality Lines: Color box, 350 g paperboard
+  - Attributes: None
+  - Reason: Packaging information present in Quality Lines but missing in Attributes.

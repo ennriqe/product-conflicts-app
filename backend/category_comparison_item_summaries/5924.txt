@@ -1,0 +1,13 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: Speed: 6000rpm
+  - Attributes: 3 levels
+  - Reason: Different information supplied (speed vs number of levels).
+• Content
+  - Quality Lines: USB cable (100cm), manual booklet (9 languages)
+  - Attributes: 2pcs standard bent nozzles, USB cable 100cm
+  - Reason: Only the USB cable overlaps; each list has unique additional items.
+• Waterproof Rating
+  - Quality Lines: None
+  - Attributes: IPX7
+  - Reason: Waterproof rating missing in quality lines.

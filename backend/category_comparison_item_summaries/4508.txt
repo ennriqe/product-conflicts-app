@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Color: Charcoal, Flavor: Mint
+  - Attributes: None
+  - Reason: Present in Quality Lines but completely missing in Attributes.
+• Material
+  - Quality Lines: 40% corn starch, 60% PP
+  - Attributes: 40% wheat starch, 60% PP
+  - Reason: Starch type differs (corn vs. wheat) – numerical ratios identical but ingredient conflict.

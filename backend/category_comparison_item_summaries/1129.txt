@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: White
+  - Attributes: None
+  - Reason: Color given in Quality Lines but missing in Attributes.
+• Size
+  - Quality Lines: 300×260×18 mm
+  - Attributes: None
+  - Reason: Size provided in Quality Lines but missing in Attributes.
+• Material
+  - Quality Lines: Tempered glass (6 mm thick)
+  - Attributes: None
+  - Reason: Material stated in Quality Lines but absent in Attributes.
+• Modes/Settings
+  - Quality Lines: Weekly/Monthly/Yearly weight history; Auto-on; Overload/Low-battery indication
+  - Attributes: None
+  - Reason: Modes/Settings listed in Quality Lines but the corresponding field is empty in Attributes.
+• Specifications
+  - Quality Lines: Analyses: Fat Rate, Hydration, Muscle, Bone, Visceral Fat, kcal, BMI; Weight graduation: 0.1 kg/0.2 lb; LCD screen size 74×28 mm; Works with Bluetooth; Free app: Fitdays
+  - Attributes: Free Fitdays app included, supports up to 24 users, LCD display with backlight, weight accuracy 0.1 kg, automatic power-on, low-battery indication, maximum load 180 kg
+  - Reason: Only partial overlap; each side has unique details not present in the other.

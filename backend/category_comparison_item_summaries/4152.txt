@@ -1,0 +1,9 @@
+Key Differences
+• Material
+  - Quality Lines: PE, Fabric
+  - Attributes: None
+  - Reason: Material information is present in Quality Lines but missing in Attributes.
+• Packaging
+  - Quality Lines: None
+  - Attributes: PET box + Paper belt with Euro hole + indents (feet)
+  - Reason: Packaging information is present in Attributes but missing in Quality Lines.

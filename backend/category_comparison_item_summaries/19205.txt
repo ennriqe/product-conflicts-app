@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone pink 176C
+  - Reason: Variant colour supplied in attributes but absent in quality lines.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK printing, 1 Pantone color
+  - Reason: Printing information present only in attributes.

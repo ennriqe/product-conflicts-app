@@ -1,0 +1,13 @@
+Key Differences
+• Size
+  - Quality Lines: None
+  - Attributes: 175×75×55 mm (window box)
+  - Reason: Size value exists only in Attributes, none in Quality Lines.
+• Capacity
+  - Quality Lines: 200 g
+  - Attributes: None
+  - Reason: Capacity provided in Quality Lines but not in Attributes.
+• Weight
+  - Quality Lines: None
+  - Attributes: 200 g (beans)
+  - Reason: Weight provided in Attributes but not in Quality Lines (information moved categories).

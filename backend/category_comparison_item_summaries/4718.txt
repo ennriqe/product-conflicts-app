@@ -1,0 +1,13 @@
+Key Differences
+• Content
+  - Quality Lines: None
+  - Attributes: Sodium Fluoride (Natriumfluorid) 500 ppmF
+  - Reason: Present in attributes but missing in quality lines.
+• Specifications
+  - Quality Lines: Contains Sodium Fluoride 500 ppmF; 0% SLS; suitable for children 0-5 years
+  - Attributes: Age 0-5 years, SLS free (0%)
+  - Reason: Attributes omit Sodium Fluoride detail contained in quality lines; only partial overlap.
+• Packaging
+  - Quality Lines: Plastic barrier laminate tube with white stand-up cap (Dia 35 mm × 94 mm)
+  - Attributes: Inner: SRP packaging
+  - Reason: Different packaging descriptions.

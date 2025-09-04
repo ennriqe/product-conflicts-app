@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Black body, Matte rose gold detail
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Weight
+  - Quality Lines: 380 g
+  - Attributes: 345 g
+  - Reason: Numerical values conflict (380 g vs 345 g).
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: Two-pin plug, 1.8 m 2×0.75 mm² black flat PVC cord
+  - Reason: Value present in Attributes but missing in Quality Lines.

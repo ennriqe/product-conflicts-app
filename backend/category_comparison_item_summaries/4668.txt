@@ -1,0 +1,9 @@
+Key Differences
+• Content
+  - Quality Lines: None
+  - Attributes: 1 handle, 25 blades
+  - Reason: Content information is supplied in Attributes but missing in Quality Lines.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK, 2 Pantone colors
+  - Reason: Printing details exist in Attributes but are absent from Quality Lines.

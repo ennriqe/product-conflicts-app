@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Assorti
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes.
+• Specifications
+  - Quality Lines: Logo on handle brush heads
+  - Attributes: Pulling Force: 10–15N
+  - Reason: Completely different specification details.
+• Printing
+  - Quality Lines: None
+  - Attributes: Logo on handle brush heads
+  - Reason: Information present in Attributes but missing in Quality Lines.
+• Compatibility
+  - Quality Lines: ORAL-B
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes.

@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Color: Blue, Red, Orange, Green
+  - Attributes: Green, Pink
+  - Reason: Color lists do not match; sets are different.
+• Content
+  - Quality Lines: Manual (9 languages)
+  - Attributes: None
+  - Reason: Content present in Quality Lines but missing in Attributes.
+• Specifications
+  - Quality Lines: Each handle has unique print; Backing card same for all colors
+  - Attributes: Tufts retention 20N, bristles end rounded, each variation handle has unique print corresponding to the color
+  - Reason: Only partial overlap; QL mentions backing card sameness which Attributes do not include, so not subset/equal.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK full color backing card
+  - Reason: Printing details only present in Attributes.

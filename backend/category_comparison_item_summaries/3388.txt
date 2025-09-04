@@ -1,0 +1,13 @@
+Key Differences
+• Material
+  - Quality Lines: Viscose 68% (45% backing, 23% wound pillow), Acrylic adhesive (no latex) 10%, Polypropylene 12%, Polyethylene 10%
+  - Attributes: None
+  - Reason: Detailed material composition provided in quality lines but entirely missing in attributes.
+• Specifications
+  - Quality Lines: Water resistance
+  - Attributes: None
+  - Reason: Specification present in quality lines but missing in attributes.
+• Packaging
+  - Quality Lines: Box, 7 × 2.2 × (10.1+2.2) cm, transparent closing sticker
+  - Attributes: None
+  - Reason: Packaging details provided in quality lines but absent in attributes.

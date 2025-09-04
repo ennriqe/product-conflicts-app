@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Green
+  - Attributes: None
+  - Reason: Color given in Quality Lines but missing in Attributes.
+• Specifications
+  - Quality Lines: Type-C port
+  - Attributes: High frequency vibration
+  - Reason: Completely different specification details.
+• Battery
+  - Quality Lines: None
+  - Attributes: 3.7 V 1200 mAh lithium-ion rechargeable (18650)
+  - Reason: Battery details present in Attributes but missing in Quality Lines.

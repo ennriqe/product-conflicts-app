@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Handle: black
+  - Reason: Color information present in Attributes but absent in Quality Lines.
+• Packaging
+  - Quality Lines: None
+  - Attributes: Openwindow Colorbox with eurohole
+  - Reason: Packaging information present only in Attributes.
+• Input
+  - Quality Lines: 5 V/1 A
+  - Attributes: 1A
+  - Reason: Voltage (5 V) missing in Attributes entry.
+• Voltage
+  - Quality Lines: None
+  - Attributes: 5V
+  - Reason: Voltage provided only in Attributes; absent in Quality Lines.
+• Cable/Connector
+  - Quality Lines: data cable
+  - Attributes: USB Type-C
+  - Reason: 'Data cable' is generic, while Attributes specifies 'USB Type-C'; not equivalent.

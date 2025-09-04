@@ -1,0 +1,21 @@
+Key Differences
+• Size
+  - Quality Lines: 130×130 mm
+  - Attributes: None
+  - Reason: Size present in Quality Lines but missing in Attributes.
+• Weight
+  - Quality Lines: None
+  - Attributes: applicator: 16.4 g, mirror box: 49.7 g, 1 lash with magnet strip: 3.6 g
+  - Reason: Weight information present only in Attributes.
+• Material
+  - Quality Lines: None
+  - Attributes: applicator: steel/iron, mirror box: ABS, eyelashes: synthetic fiber
+  - Reason: Material details provided only in Attributes.
+• Content
+  - Quality Lines: 4× magnetic eyelashes, 1× applicator, 1× storage box with mirror
+  - Attributes: 2 magnetic eyelashes, 1 applicator, 1 double layer storage box with mirror
+  - Reason: Different quantities of eyelashes and wording of storage box.
+• Specifications
+  - Quality Lines: Certifications: ISO9001
+  - Attributes: design: B15
+  - Reason: After ignoring certifications, 'design: B15' remains unmatched.

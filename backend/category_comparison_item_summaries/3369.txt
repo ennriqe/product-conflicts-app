@@ -1,0 +1,9 @@
+Key Differences
+• Specifications
+  - Quality Lines: None
+  - Attributes: BPA free
+  - Reason: Specification "BPA free" is present only in attributes.
+• Packaging
+  - Quality Lines: Net bag, hang tag
+  - Attributes: None
+  - Reason: Packaging details present only in quality lines.

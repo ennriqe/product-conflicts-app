@@ -1,0 +1,33 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Main body: Mat Black, Decorative strip and switch ring: Mat Rose gold
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Size
+  - Quality Lines: None
+  - Attributes: 340 × 100 × 77 mm
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Weight
+  - Quality Lines: None
+  - Attributes: 506 g
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: None
+  - Attributes: 360° rotatable power cord
+  - Reason: Information present only in Attributes.
+• Packaging
+  - Quality Lines: mat full color box
+  - Attributes: Non-visible corrugated carton (540 gsm, matte finish)
+  - Reason: Different packaging descriptions.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK + 1 Pantone color + UV spot; logo: silk printing on product
+  - Reason: Information present only in Attributes.
+• Input
+  - Quality Lines: None
+  - Attributes: AC 220–240 V, 50/60 Hz
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Cable/Connector
+  - Quality Lines: 360° rotatable power cord
+  - Attributes: None
+  - Reason: Value present only in Quality Lines.

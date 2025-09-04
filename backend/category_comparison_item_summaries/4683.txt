@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: None
+  - Attributes: Irregular heartbeat detection, Auto-shut off, 2*199 memories, 1.85" large LCD display
+  - Reason: Additional specification details present only in attributes.

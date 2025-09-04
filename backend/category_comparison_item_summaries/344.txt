@@ -1,0 +1,9 @@
+Key Differences
+• Material
+  - Quality Lines: Polypropylene, TPR, Dupont Nylon 610, brass
+  - Attributes: Handle: Polypropylene + TPR, Bristles: Dupont Nylon 610 (medium 0.22mm, end rounding)
+  - Reason: Quality lines include Brass while attributes do not – mismatch
+• Specifications
+  - Quality Lines: Bristle medium 0.22mm end rounding
+  - Attributes: None
+  - Reason: Present in quality lines but missing in attributes

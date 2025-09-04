@@ -1,0 +1,17 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: 4 temperature levels
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes.
+• Charging Time
+  - Quality Lines: None
+  - Attributes: About 5 h
+  - Reason: Value present only in Attributes.
+• Use Time
+  - Quality Lines: None
+  - Attributes: About 30–70 min (depending on level)
+  - Reason: Value present only in Attributes.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: USB cable 48 cm
+  - Reason: Value present only in Attributes.

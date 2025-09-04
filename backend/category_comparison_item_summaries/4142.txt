@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: None
+  - Attributes: No mint flavor
+  - Reason: Attribute side has information while QL is empty, so they differ.

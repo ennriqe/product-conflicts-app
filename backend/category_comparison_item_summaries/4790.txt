@@ -1,0 +1,5 @@
+Key Differences
+• Size
+  - Quality Lines: 13.5×6×1 cm
+  - Attributes: 13.5×5.5×1 cm
+  - Reason: Second dimension differs (6 cm vs 5.5 cm) ‒ numeric conflict.

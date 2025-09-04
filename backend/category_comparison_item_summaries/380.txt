@@ -1,0 +1,13 @@
+Key Differences
+• Material
+  - Quality Lines: Nylon Dupont 610, PP, TPE
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes
+• Specifications
+  - Quality Lines: 2 Components
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes
+• Packaging
+  - Quality Lines: Blister pack
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes

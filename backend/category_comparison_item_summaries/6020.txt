@@ -1,0 +1,5 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Pink, Green
+  - Attributes: Pink (Pantone 9274 C)
+  - Reason: Quality Lines contains two variants (Pink, Green) whereas Attributes contains only Pink; information not the same.

@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: 4 colors
+  - Attributes: None
+  - Reason: Color information is present in Quality Lines but missing in Attributes.
+• Weight
+  - Quality Lines: None
+  - Attributes: Net 80 g
+  - Reason: Weight provided only in Attributes.
+• Content
+  - Quality Lines: 2 figures (Peppa & George)
+  - Attributes: None
+  - Reason: Content listed in Quality Lines but absent in Attributes (does not affect overall_equal per rules).
+• Printing
+  - Quality Lines: None
+  - Attributes: Double sided printing
+  - Reason: Printing details only in Attributes.

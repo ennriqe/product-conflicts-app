@@ -1,0 +1,9 @@
+Key Differences
+• Content
+  - Quality Lines: None
+  - Attributes: 1× Toothbrush, 1× Dental mirror, 1× Dental probe, 3× Floss toothpick, 1× Stain eraser
+  - Reason: Details present in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: Certifications: CE, Reach
+  - Attributes: None
+  - Reason: Quality Lines contains data (certification mention) while Attributes is empty.

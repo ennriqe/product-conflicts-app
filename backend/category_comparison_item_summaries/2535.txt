@@ -1,0 +1,33 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: 4 assorted colours with matching bristels
+  - Reason: Information present in attributes but missing in quality lines.
+• Size
+  - Quality Lines: 24 mm
+  - Attributes: 16.6×2.4×2.4 cm
+  - Reason: Numerical dimensions do not match; 24 mm (2.4 cm) only covers one dimension whereas attributes list 16.6 cm length as well.
+• Weight
+  - Quality Lines: None
+  - Attributes: 20 g
+  - Reason: Weight provided in attributes but missing in quality lines.
+• Content
+  - Quality Lines: Batteries
+  - Attributes: None
+  - Reason: Content listed in quality lines but missing in attributes (flagged as missing but does not alone fail overall equality).
+• Specifications
+  - Quality Lines: Suction cup for hygiene, soft bristles, small head, ergonomic handle
+  - Attributes: None
+  - Reason: Specifications provided in quality lines but absent in attributes.
+• Packaging
+  - Quality Lines: Single blister with eurohole
+  - Attributes: None
+  - Reason: Packaging info present in quality lines but missing in attributes.
+• Battery
+  - Quality Lines: Included (type unspecified)
+  - Attributes: None
+  - Reason: Battery information listed in quality lines but missing in attributes.
+• Power
+  - Quality Lines: None
+  - Attributes: IC, PCB, LED, Batteries
+  - Reason: Power-related components listed in attributes but absent in quality lines.

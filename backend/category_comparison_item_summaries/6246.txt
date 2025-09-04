@@ -1,0 +1,29 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Light pink, Mauve, Deep Taupe, Grey, Gold Glitter, Pastel Purple, Red, Army green, Burgundy Red (No. 263), Rose Glitter
+  - Reason: Variants listed in Attributes but entirely absent in Quality Lines.
+• Size
+  - Quality Lines: None
+  - Attributes: UV LED Lamp: 19×13.5×8 cm, Nail file: 17.8 cm
+  - Reason: Size information is only provided in Attributes.
+• Capacity
+  - Quality Lines: Topcoat 10ml; Basecoat 10ml; Gel nail polish 10×10ml
+  - Attributes: Top coat 10 ml, Gel polish 10 ml
+  - Reason: Quality Lines include base-coat capacity and ‘10 × 10 ml’ count; Attributes omit base-coat volume and the 10-piece count.
+• Specifications
+  - Quality Lines: None
+  - Attributes: 12 LED beads
+  - Reason: LED-bead specification appears only in Attributes.
+• Packaging
+  - Quality Lines: None
+  - Attributes: Non visible corrugated FSC color box 350 gsm + PP bags, manual with 11 languages
+  - Reason: Packaging details appear only in Attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: Color box CMYK, Manual CMYK
+  - Reason: Printing information appears only in Attributes.
+• Power
+  - Quality Lines: None
+  - Attributes: 10 W
+  - Reason: Power rating provided only in Attributes.

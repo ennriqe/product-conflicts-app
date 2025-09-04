@@ -1,0 +1,5 @@
+Key Differences
+• Packaging
+  - Quality Lines: None
+  - Attributes: FSC color box
+  - Reason: Packaging info provided only in Attributes.

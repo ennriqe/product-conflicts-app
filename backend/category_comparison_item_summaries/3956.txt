@@ -1,0 +1,5 @@
+Key Differences
+• Compatibility
+  - Quality Lines: ORAL-B Classic
+  - Attributes: None
+  - Reason: Value present in quality lines but missing in attributes.

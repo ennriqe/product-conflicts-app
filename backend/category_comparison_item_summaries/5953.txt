@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Violet
+  - Reason: Value present in attributes but missing in quality lines.
+• Content
+  - Quality Lines: 50ml
+  - Attributes: Violet color corrector foam
+  - Reason: Conflicting information: one lists quantity, the other gives product description.

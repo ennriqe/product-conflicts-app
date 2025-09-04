@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Color: Transparent (bottle), White (lid), Flavor: Cool Mint
+  - Attributes: Bottle (transparent), Lid (white)
+  - Reason: Attributes include the same color details but omit the Flavor "Cool Mint" present in Quality Lines.
+• Specifications
+  - Quality Lines: Formula code WAC20231127-1
+  - Attributes: None
+  - Reason: Specifications value present in Quality Lines but missing from Attributes.

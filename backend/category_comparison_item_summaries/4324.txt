@@ -1,0 +1,9 @@
+Key Differences
+• Specifications
+  - Quality Lines: Model: DT005 (X-active)
+  - Attributes: Model: DT005 body + new small disc
+  - Reason: Both mention model DT005, but the additional descriptors differ ("X-active" vs "body + new small disc"), so details are not the same.
+• Packaging
+  - Quality Lines: None
+  - Attributes: FSC color box
+  - Reason: Packaging detail exists in attributes but is missing in quality lines.

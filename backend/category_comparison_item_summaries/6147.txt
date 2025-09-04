@@ -1,0 +1,13 @@
+Key Differences
+• Specifications
+  - Quality Lines: None
+  - Attributes: Bristle diameter 0.15mm
+  - Reason: Attribute list includes bristle diameter not present in Quality Lines.
+• Packaging
+  - Quality Lines: PET blister + FSC backing card; inner (tray) and outer FSC carton
+  - Attributes: PET blister, FSC backing card, inner tray and outer (2-color mixed)
+  - Reason: Both mention PET blister, FSC backing card and inner tray, but Quality Lines specifies outer FSC carton while Attributes only states outer (2-color mixed).
+• Printing
+  - Quality Lines: One silver Derlon logo on handle
+  - Attributes: None
+  - Reason: Printing detail present in Quality Lines but missing in Attributes.

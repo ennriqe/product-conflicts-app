@@ -1,0 +1,9 @@
+Key Differences
+• Size
+  - Quality Lines: Shell: 7.5×7.8 cm, Heart: 8×8 cm
+  - Attributes: Shell 7.5×8 cm, Heart 7.8×8 cm
+  - Reason: Dimension values differ (7.8 cm vs 8 cm for Shell and 8 cm vs 7.8 cm for Heart).
+• Specifications
+  - Quality Lines: None
+  - Attributes: Thickness PP teeth 1.86, Thickness brush tip 2.03
+  - Reason: Specifications listed only in Attributes.

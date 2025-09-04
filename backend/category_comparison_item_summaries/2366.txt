@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Rose gold
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Size
+  - Quality Lines: 15.5×5.5 cm
+  - Attributes: 15.2×5.7 cm
+  - Reason: Numerical dimensions differ (15.5×5.5 cm vs 15.2×5.7 cm).
+• Weight
+  - Quality Lines: None
+  - Attributes: 80 g
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Non-removable rating label sticker
+  - Reason: Value present in Attributes but missing in Quality Lines.

@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Brown panther (Pantone 474C), Dark pink panther (Pantone 2450C)
+  - Reason: Value present in Attributes but missing in Quality Lines.
+• Weight
+  - Quality Lines: None
+  - Attributes: 90g
+  - Reason: Weight provided only in Attributes.
+• Printing
+  - Quality Lines: Full color printing
+  - Attributes: CMYK + 1 Pantone
+  - Reason: Full-color (CMYK) versus CMYK plus an additional Pantone spot color; not equivalent.

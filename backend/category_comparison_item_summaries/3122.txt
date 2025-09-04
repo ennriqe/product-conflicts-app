@@ -1,0 +1,25 @@
+Key Differences
+• Size
+  - Quality Lines: 8.8×8.8×17 cm
+  - Attributes: None
+  - Reason: Size given in Quality Lines but absent in Attributes.
+• Weight
+  - Quality Lines: 668 g
+  - Attributes: None
+  - Reason: Weight provided only in Quality Lines.
+• Packaging
+  - Quality Lines: Colourbox with closing sticker
+  - Attributes: None
+  - Reason: Packaging details present only in Quality Lines.
+• Printing
+  - Quality Lines: CMYK
+  - Attributes: None
+  - Reason: Printing information present only in Quality Lines.
+• Charging Time
+  - Quality Lines: None
+  - Attributes: 3–4 h
+  - Reason: Charging time provided only in Attributes.
+• Use Time
+  - Quality Lines: None
+  - Attributes: 100–240 min (depending on intensity)
+  - Reason: Use time present only in Attributes.

@@ -1,0 +1,5 @@
+Key Differences
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK + 2 Pantone colors
+  - Reason: Printing details are provided in attributes but completely absent in quality lines.

@@ -1,0 +1,33 @@
+Key Differences
+• Size
+  - Quality Lines: 158×98.5×41 mm, 159×87.5×45.5 mm
+  - Attributes: 158 × 98 × 46 mm
+  - Reason: Different dimension sets (two variants vs one; thickness 41/45.5 mm vs 46 mm)
+• Light Color
+  - Quality Lines: None
+  - Attributes: Green, Orange, Red
+  - Reason: Light-color information present in attributes but missing in QL
+• Modes/Settings
+  - Quality Lines: ℃/℉ switchable
+  - Attributes: None
+  - Reason: Switch-mode noted in QL but not listed in attribute field
+• Content
+  - Quality Lines: None
+  - Attributes: Booklet manual (9 languages)
+  - Reason: Content only provided in attributes
+• Specifications
+  - Quality Lines: Measurement ranges: Forehead 32–42.9 ℃, Object 0–100 ℃, 34–42.2 ℃; Memory: store 40 recordings, store 30 recordings
+  - Attributes: Segment LCD display, measuring distance 3–5 cm, automatic shutdown 13 s, C/ F switchable, stores 40 recent recordings, low battery indicator
+  - Reason: Only partial overlap (40-record memory); other details do not match or are missing
+• Printing
+  - Quality Lines: None
+  - Attributes: Logo printing included
+  - Reason: Printing info only in attributes
+• Voltage
+  - Quality Lines: None
+  - Attributes: DC 3 V
+  - Reason: Voltage listed only in attributes
+• Temperature/Heating
+  - Quality Lines: None
+  - Attributes: Measurement range: forehead 32–42.9 °C; object 0–100 °C
+  - Reason: Range present in attributes but absent in this category on QL (appears under specifications instead)

@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone 4169 C, Warm Gray 2 C, 2337 C
+  - Reason: Quality Lines lacks the color variants listed in Attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK
+  - Reason: Printing method provided in Attributes but absent in Quality Lines.

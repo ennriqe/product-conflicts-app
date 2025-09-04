@@ -1,0 +1,13 @@
+Key Differences
+• Specifications
+  - Quality Lines: Dotting tool length 13 cm, Storage box diameter 6 cm, Nail sticker 5×6.5 cm
+  - Attributes: None
+  - Reason: Specifications present in Quality Lines but completely absent in Attributes.
+• Packaging
+  - Quality Lines: PET window box with PET inner tray, euro hang lock
+  - Attributes: None
+  - Reason: Packaging information missing in Attributes.
+• Printing
+  - Quality Lines: CMYK color
+  - Attributes: None
+  - Reason: Printing specification present in Quality Lines but missing in Attributes.

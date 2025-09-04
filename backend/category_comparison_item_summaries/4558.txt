@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: Heat pipe 19×68mm; 2-colour LED indicator; fast heating in 2min
+  - Attributes: 2-color LED indicator
+  - Reason: Attributes omits heat-pipe size and fast-heating detail found in Quality Lines.

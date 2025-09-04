@@ -1,0 +1,17 @@
+Key Differences
+• Size
+  - Quality Lines: 50ml
+  - Attributes: None
+  - Reason: Size value present in quality lines but absent in attributes (information stored under Capacity instead).
+• Capacity
+  - Quality Lines: None
+  - Attributes: 50 ml
+  - Reason: Capacity value present in attributes but missing in quality lines (information stored under Size instead).
+• Packaging
+  - Quality Lines: FSC color box with PET window, sticker for tamper-evidence
+  - Attributes: FSC Colour box + transparent closing sticker
+  - Reason: Both mention FSC colour box and a sticker, but PET window is mentioned only in quality lines; therefore details do not fully match.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK+UV printing, silk printing on the bottle
+  - Reason: Printing information supplied only in attributes.

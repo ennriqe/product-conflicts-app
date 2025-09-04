@@ -1,0 +1,17 @@
+Key Differences
+• Light Color
+  - Quality Lines: UV
+  - Attributes: None
+  - Reason: Value present in quality lines but missing in attributes.
+• Content
+  - Quality Lines: 5 toothbrush holders
+  - Attributes: None
+  - Reason: Content specified in quality lines but absent in attributes (allowed but flagged).
+• Specifications
+  - Quality Lines: Disinfection rate 99.9%, lamp life span >25000 hrs
+  - Attributes: None
+  - Reason: Specifications present in quality lines but missing in attributes.
+• Packaging
+  - Quality Lines: Color box
+  - Attributes: None
+  - Reason: Packaging information missing on the attributes side.

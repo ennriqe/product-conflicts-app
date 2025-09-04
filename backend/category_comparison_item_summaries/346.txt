@@ -1,0 +1,5 @@
+Key Differences
+• Material
+  - Quality Lines: DuPont Tynex 612 bristles, Brass anchor
+  - Attributes: DuPont Tynex 612 (0.15mm)
+  - Reason: Attributes omit "Brass anchor" that is present in Quality Lines.

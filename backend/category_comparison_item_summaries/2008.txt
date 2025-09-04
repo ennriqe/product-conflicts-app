@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Light pink (Pantone 5025C), black, Burgundy (Pantone D7645C)
+  - Reason: Color information is present in Attributes but completely absent in Quality Lines.
+• Size
+  - Quality Lines: 10.8×6.8×1.8 cm
+  - Attributes: 10.9 × 6.8 × 1.8 cm
+  - Reason: Length differs (10.8 cm vs 10.9 cm); other dimensions match.
+• Weight
+  - Quality Lines: None
+  - Attributes: Angled nail clippers 14,1g, Regular nail clippers 11,3g, Scissors 7g, Tweezer 6,3g, Nail cleaner 2,6g, Nail file 2,8g
+  - Reason: Detailed weight data exist only in Attributes; missing in Quality Lines.
+• Material
+  - Quality Lines: None
+  - Attributes: PU leather case
+  - Reason: Material is specified only in Attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Angled nail clippers 5,9 × 1,2 cm, Regular nail clippers 5,2 × 12,04 cm, Scissors 9 × 3,9 cm, Tweezer 8,6 × 7,06 cm, Nail cleaner 7,6 × 6,2 cm, Nail file 9 × 1,146 cm
+  - Reason: Detailed per-tool dimensions appear only in Attributes.

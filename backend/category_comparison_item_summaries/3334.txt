@@ -1,0 +1,5 @@
+Key Differences
+• Packaging
+  - Quality Lines: Container: BFC-024
+  - Attributes: Container DFC-024 (transparent), PET blister (30% recyclable plastic), 350gsm backing card (75% recyclable carton)
+  - Reason: Container code differs (BFC-024 vs DFC-024) and Attributes include extra packaging elements.

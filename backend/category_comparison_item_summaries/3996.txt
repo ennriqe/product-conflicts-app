@@ -1,0 +1,5 @@
+Key Differences
+• Printing
+  - Quality Lines: Logo
+  - Attributes: None
+  - Reason: Printing info present in Quality Lines but absent in Attributes.

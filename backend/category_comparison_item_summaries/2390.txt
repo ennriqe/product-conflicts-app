@@ -1,0 +1,17 @@
+Key Differences
+• Size
+  - Quality Lines: 10.3×4.6 cm
+  - Attributes: 10.3×4.1 cm
+  - Reason: Numerical conflict: width 4.6 cm vs 4.1 cm.
+• Content
+  - Quality Lines: None
+  - Attributes: 1× razor, 10× blades
+  - Reason: Present in attributes but absent in quality lines.
+• Specifications
+  - Quality Lines: Electroplated coating
+  - Attributes: None
+  - Reason: Present in quality lines but absent in attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK
+  - Reason: Printing info present in attributes but missing in quality lines.

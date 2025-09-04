@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: Length: 50 m
+  - Attributes: None
+  - Reason: Specifications detail (Length: 50 m) is present in Quality Lines but missing in Attributes.

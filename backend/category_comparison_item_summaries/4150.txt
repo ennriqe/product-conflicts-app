@@ -1,0 +1,13 @@
+Key Differences
+• Size
+  - Quality Lines: Pad: Dia 8cm, Bag: 15×18cm
+  - Attributes: Pad: Dia 8.5cm, Bag: 15×18cm
+  - Reason: Numeric conflict on pad diameter (8 cm vs 8.5 cm).
+• Weight
+  - Quality Lines: None
+  - Attributes: Pad: 2g (per piece)
+  - Reason: Weight present in attributes but missing in quality lines.
+• Specifications
+  - Quality Lines: Pad layers: 2
+  - Attributes: None
+  - Reason: Specification present in quality lines but missing in attributes.

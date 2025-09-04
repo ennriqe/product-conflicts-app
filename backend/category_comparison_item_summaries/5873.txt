@@ -1,0 +1,5 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone 2071C, 183C, 2975C, Pastel O131C
+  - Reason: Attributes list specific Pantone colors while Quality Lines contains no color information.

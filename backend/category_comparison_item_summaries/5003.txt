@@ -1,0 +1,5 @@
+Key Differences
+• Content
+  - Quality Lines: None
+  - Attributes: Make up blender with storage case
+  - Reason: Content description exists in Attributes but is missing from Quality Lines.

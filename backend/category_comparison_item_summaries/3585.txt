@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pink (Pantone 210C), Blue Mint (Pantone 628C), Purple (Pantone 2572C)
+  - Reason: Variants present in Attributes but missing in Quality Lines.
+• Size
+  - Quality Lines: 153×40 mm
+  - Attributes: 16 × 4.2 × 2.2 cm
+  - Reason: Dimensions differ (15.3×4 cm versus 16×4.2×2.2 cm) and one set lacks the third measurement.
+• Specifications
+  - Quality Lines: None
+  - Attributes: 4-in-1 (3 cleaning brushes and 1 spatula)
+  - Reason: Specification present in Attributes but missing in Quality Lines.
+• Packaging
+  - Quality Lines: PET box
+  - Attributes: FSC color box (matte white, 350 gsm)
+  - Reason: Different packaging materials/types.

@@ -1,0 +1,9 @@
+Key Differences
+• Material
+  - Quality Lines: DuPont 610 (bristles)
+  - Attributes: Anti-slip grip, Flexible neck
+  - Reason: Different content: bristle material vs grip/neck features.
+• Specifications
+  - Quality Lines: 2 components construction, anti-slip grip, flexible neck
+  - Attributes: None
+  - Reason: Specifications present in QL but missing in Attributes.

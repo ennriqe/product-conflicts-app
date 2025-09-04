@@ -1,0 +1,29 @@
+Key Differences
+• Content
+  - Quality Lines: Manual book
+  - Attributes: USB-C cable (205 mm), manual (14 languages)
+  - Reason: Attributes include an extra USB-C cable not mentioned in Quality Lines.
+• Battery
+  - Quality Lines: Li-ion 230 mAh (battery weight 5.6 g)
+  - Attributes: Li-ion battery, 250 mAh (230–300 mAh), weight 5.3 g
+  - Reason: Different stated capacity (230 mAh vs 250 mAh) and weight (5.6 g vs 5.3 g); numeric conflict.
+• Output
+  - Quality Lines: None
+  - Attributes: 3.7 V
+  - Reason: Value provided only in Attributes.
+• Charging Time
+  - Quality Lines: None
+  - Attributes: 40 mins
+  - Reason: Charging time appears only in Attributes.
+• Use Time
+  - Quality Lines: None
+  - Attributes: 65–70 mins
+  - Reason: Use-time present only in Attributes.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: USB-C cable (205 mm)
+  - Reason: Connector information present only in Attributes.
+• Temperature/Heating
+  - Quality Lines: None
+  - Attributes: 65 ± 20 %, 85 °C ± 20 %
+  - Reason: Data present only in Attributes.

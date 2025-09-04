@@ -1,0 +1,21 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: None
+  - Attributes: Program time 10 mins
+  - Reason: Present in attributes but missing in quality lines.
+• Specifications
+  - Quality Lines: None
+  - Attributes: NTC added
+  - Reason: Specification given in attributes but absent in quality lines.
+• Voltage
+  - Quality Lines: None
+  - Attributes: 7.4 V
+  - Reason: Operating voltage present only in attributes.
+• Use Time
+  - Quality Lines: None
+  - Attributes: 90 mins
+  - Reason: Use time specified only in attributes.
+• Temperature/Heating
+  - Quality Lines: None
+  - Attributes: Heating function
+  - Reason: Heating feature present only in attributes.

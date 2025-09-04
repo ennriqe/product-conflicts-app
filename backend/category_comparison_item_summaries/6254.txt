@@ -1,0 +1,5 @@
+Key Differences
+• Content
+  - Quality Lines: None
+  - Attributes: 8 razor blades
+  - Reason: Content data is present in Attributes but missing from Quality Lines.

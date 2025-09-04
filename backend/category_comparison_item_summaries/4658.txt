@@ -1,0 +1,17 @@
+Key Differences
+• Content
+  - Quality Lines: Manual (9 languages)
+  - Attributes: None
+  - Reason: Content listed in Quality Lines but missing from Attributes (allowed difference, does not fail overall).
+• Specifications
+  - Quality Lines: None
+  - Attributes: Tufts retention 20N, bristles end rounded, each variation handle has unique print corresponding to the color
+  - Reason: Specifications provided in Attributes but not in Quality Lines.
+• Packaging
+  - Quality Lines: PET blister/backing card
+  - Attributes: PET blister
+  - Reason: Quality Lines add 'backing card' which Attributes omit.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK full color backing card
+  - Reason: Printing details exist only in Attributes.

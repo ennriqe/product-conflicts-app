@@ -1,0 +1,21 @@
+Key Differences
+• Material
+  - Quality Lines: None
+  - Attributes: ABS
+  - Reason: Material present in attributes but missing in quality lines.
+• Content
+  - Quality Lines: USB-C cable (50cm), 4 massage heads
+  - Attributes: 4 massage heads, 8-language manual, pulp tray
+  - Reason: Different item lists (cable only in QL, manual & pulp tray only in attributes).
+• Packaging
+  - Quality Lines: None
+  - Attributes: Color box (UV spot varnish, 2 Pantone colors)
+  - Reason: Packaging information present in attributes but missing in quality lines.
+• Printing
+  - Quality Lines: None
+  - Attributes: UV spot varnish, 2 Pantone colors
+  - Reason: Printing details only in attributes.
+• Charging Time
+  - Quality Lines: 3-4 h
+  - Attributes: 1.9–2.2 h
+  - Reason: Numeric ranges conflict (3–4 h vs 1.9–2.2 h).

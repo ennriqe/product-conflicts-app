@@ -1,0 +1,5 @@
+Key Differences
+• Packaging
+  - Quality Lines: PET box, inner: 6 x Green (Pantone 13-5409 TCX) + 6 x Pink (Pantone 17-1937 TCX), outer: 72 pcs
+  - Attributes: PET box
+  - Reason: Attributes omit inner/outer quantity details included in quality lines.

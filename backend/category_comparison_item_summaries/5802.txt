@@ -1,0 +1,9 @@
+Key Differences
+• Size
+  - Quality Lines: 179×75×224 mm
+  - Attributes: 179×75×244 mm
+  - Reason: Conflicting length: 224 mm vs 244 mm.
+• Power
+  - Quality Lines: None
+  - Attributes: 200 W
+  - Reason: Value present in Attributes but missing in Quality Lines.

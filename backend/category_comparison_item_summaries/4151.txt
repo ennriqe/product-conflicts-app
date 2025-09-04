@@ -1,0 +1,13 @@
+Key Differences
+• Material
+  - Quality Lines: Gel
+  - Attributes: None
+  - Reason: Material stated in Quality Lines but absent in Attributes.
+• Specifications
+  - Quality Lines: Non sterile
+  - Attributes: None
+  - Reason: Specification appears only in Quality Lines.
+• Packaging
+  - Quality Lines: Pack of 8 plasters without paper bag
+  - Attributes: None
+  - Reason: Packaging information only given in Quality Lines.

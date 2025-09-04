@@ -1,0 +1,17 @@
+Key Differences
+• Size
+  - Quality Lines: Dia 35 mm × 94 mm
+  - Attributes: Dia35×H124 mm
+  - Reason: Diameter matches (35 mm) but height differs (94 mm vs 124 mm).
+• Material
+  - Quality Lines: Plastic barrier laminate tube
+  - Attributes: None
+  - Reason: Material listed in quality lines but missing in attributes.
+• Content
+  - Quality Lines: None
+  - Attributes: Contains Sodium Fluoride (Natriumfluorid) 995 ppmF
+  - Reason: Content data present in attributes but absent in quality lines.
+• Specifications
+  - Quality Lines: SLS free; sodium fluoride 500 ppm (for kids 0–5 years)
+  - Attributes: Age: 3+ years
+  - Reason: Different specification details provided.

@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Pantone 544C, Pantone 9121C, Pantone 2577C
+  - Attributes: 263C purple, 169C salmon, 544C light blue
+  - Reason: Only Pantone 544C overlaps; the other two colors do not match.
+• Packaging
+  - Quality Lines: PP shrink wrap, EAN sticker
+  - Attributes: EAN sticker
+  - Reason: Attributes omit the PP shrink-wrap mentioned in QL.

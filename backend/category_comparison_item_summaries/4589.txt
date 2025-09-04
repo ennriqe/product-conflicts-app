@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Silver (metal tools)
+  - Reason: Color specified in attributes but absent in quality lines.
+• Size
+  - Quality Lines: 14.8×2.9×1 cm (plastic storage box)
+  - Attributes: 20.2 × 9.8 cm (plastic storage box)
+  - Reason: Dimensions do not match (14.8×2.9×1 cm vs 20.2×9.8 cm).
+• Weight
+  - Quality Lines: 32–33 g
+  - Attributes: 31.4 g
+  - Reason: Numerical weight values conflict.

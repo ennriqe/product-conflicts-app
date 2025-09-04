@@ -1,0 +1,13 @@
+Key Differences
+• Content
+  - Quality Lines: None
+  - Attributes: Contains Sodium Fluoride (Natriumfluorid) 500 ppmF
+  - Reason: Attributes list active ingredient content that is completely absent in quality lines.
+• Specifications
+  - Quality Lines: SLS free; Sodium Fluoride 500 ppm (suitable for kids 0–5 years)
+  - Attributes: Age 0-5 years, Languages 9 (EN/NL/FR/DE/SE/DK/NO/FI/ES/PT)
+  - Reason: Only partial overlap (age). QL includes SLS-free and fluoride info; attributes list languages instead.
+• Packaging
+  - Quality Lines: Plastic tube with top seal and white stand-up cap
+  - Attributes: Inner SRP packaging
+  - Reason: QL describes product tube; attributes describe inner shelf-ready packaging. Information differs.

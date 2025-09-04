@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: White, Pink
+  - Reason: Attributes list colors (White, Pink) while Quality Lines has no information.
+• Content
+  - Quality Lines: None
+  - Attributes: Handle, cleaning brush, bottle oil, storage bag, protective cover, USB-C cable, 2 attachments
+  - Reason: Detailed content list present in Attributes but missing in Quality Lines.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: USB-C
+  - Reason: Connector type specified in Attributes but missing in Quality Lines.

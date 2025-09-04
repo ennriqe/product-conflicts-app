@@ -1,0 +1,5 @@
+Key Differences
+• Material
+  - Quality Lines: PET
+  - Attributes: None
+  - Reason: Quality Lines specify "PET" while Attributes are missing this information.

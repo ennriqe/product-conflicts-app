@@ -1,0 +1,17 @@
+Key Differences
+• Size
+  - Quality Lines: 7.5 × 5 × 8 cm
+  - Attributes: 6.7×4.8×5.9 cm (machine)
+  - Reason: Numerical dimensions differ.
+• Weight
+  - Quality Lines: Grinder 73 g, grinder head 4 g
+  - Attributes: Grinder 73 g, grinder head 4.3 g, USB cable 8 g, brush 1 g, bag 5 g, total 96 g
+  - Reason: Grinder-head weight differs (4 g vs 4.3 g) and additional item weights only appear in attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Grinder head Ø3.8 cm; brush 5.6×1.37 cm
+  - Reason: Details provided only in attributes.
+• Charging Time
+  - Quality Lines: None
+  - Attributes: 60–70 min
+  - Reason: Present only in attributes.

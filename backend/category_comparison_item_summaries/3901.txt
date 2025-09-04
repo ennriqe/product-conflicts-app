@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Fragrance: Daily Renewal 828, Lime, Eucalyptus, Lemongrass
+  - Attributes: Color: Green, Blue, Orange, Fragrance: Lime, Eucalyptus, Lemongrass
+  - Reason: Attribute list adds colors and omits fragrance “Daily Renewal 828”, so sets are not identical and QL is not a subset.
+• Size
+  - Quality Lines: Dia 68 mm
+  - Attributes: Dia 58 mm
+  - Reason: Numerical conflict: 68 mm vs 58 mm.

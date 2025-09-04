@@ -1,0 +1,41 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: White, Pantone 11C warm grey
+  - Reason: Variant information present in Attributes but not in Quality Lines.
+• Material
+  - Quality Lines: None
+  - Attributes: Teflon
+  - Reason: Material listed only in Attributes.
+• Modes/Settings
+  - Quality Lines: None
+  - Attributes: 1 temperature setting
+  - Reason: Modes/Settings supplied only in Attributes.
+• Content
+  - Quality Lines: 1 counting cup, 1 spice box
+  - Attributes: 1 counting cup (60 ml), manual
+  - Reason: Lists differ: QL mentions spice box; Attributes mention manual and capacity note.
+• Packaging
+  - Quality Lines: None
+  - Attributes: Color box carton (1 corrugated layer pressed flat + matte white paper inside and white paper outside) with transparent closing sticker and white foam protection
+  - Reason: Packaging details provided only in Attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK + spot varnish printing, 1 color logo printing
+  - Reason: Printing details present only in Attributes.
+• Input
+  - Quality Lines: 110–240V 50Hz
+  - Attributes: 220-240V 50Hz
+  - Reason: Voltage ranges are different (QL includes 110V, Attributes start at 220V).
+• Use Time
+  - Quality Lines: None
+  - Attributes: 15 minutes
+  - Reason: Use Time only provided in Attributes.
+• Cable/Connector
+  - Quality Lines: 1.8m flat VDE cord
+  - Attributes: 1.4m flat VDE cord
+  - Reason: Different cable lengths (1.8 m vs 1.4 m).
+• Temperature/Heating
+  - Quality Lines: None
+  - Attributes: PTC fast heater (boiling within 3 mins)
+  - Reason: Heating detail only in Attributes.

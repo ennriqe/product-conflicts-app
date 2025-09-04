@@ -1,0 +1,13 @@
+Key Differences
+• Material
+  - Quality Lines: Wax, PP, Cellulose, PS, Paper
+  - Attributes: None
+  - Reason: Material list present in quality lines but missing in attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Sealed paper pouch for wax removal wipes
+  - Reason: Specifications detail present in attributes but absent in quality lines.
+• Packaging
+  - Quality Lines: FSC open window color box, sealed paper pouch for wipes, FSC paper manual
+  - Attributes: FSC open window color box
+  - Reason: Attributes only mention the color box; other packaging components listed in quality lines are absent.

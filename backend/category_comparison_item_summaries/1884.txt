@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Pantone 544C, Pantone 9121C, Pantone 2577C
+  - Attributes: 263C purple, 472C salmon, 544C light blue
+  - Reason: Only Pantone 544C matches; the other listed colors differ.
+• Size
+  - Quality Lines: 5.3×1.1×1.4cm
+  - Attributes: 5.3×1×1.4 cm
+  - Reason: Middle dimension is 1.1 cm vs 1 cm – numerical mismatch.
+• Packaging
+  - Quality Lines: PP shrink + EAN sticker
+  - Attributes: None
+  - Reason: Packaging data present in quality lines but missing in attributes.

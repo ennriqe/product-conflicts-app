@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Handle/Bristle Pantone: 2253 C/359 C, 7422 C/189 C, 2066 C/2068 C, 283 C/2707 C
+  - Reason: Missing in Quality Lines while present in Attributes.
+• Material
+  - Quality Lines: Handle: PP, Bristle: pbr bristle
+  - Attributes: Handle: PP; Bristle: PBT
+  - Reason: Handle material matches, but bristle material differs ("pbr bristle" vs "PBT").
+• Packaging
+  - Quality Lines: 300g paper+PET blister
+  - Attributes: None
+  - Reason: Packaging details present in Quality Lines but missing in Attributes.

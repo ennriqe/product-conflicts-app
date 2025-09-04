@@ -1,0 +1,5 @@
+Key Differences
+• Weight
+  - Quality Lines: 15.7 g
+  - Attributes: 14.8 g
+  - Reason: Numeric values differ (15.7 g vs 14.8 g).

@@ -1,0 +1,9 @@
+Key Differences
+• Specifications
+  - Quality Lines: Charging base size 12.5×5.5 cm
+  - Attributes: None
+  - Reason: Information present in Quality Lines but missing from Attributes.
+• Cable/Connector
+  - Quality Lines: USB-C cable 77 cm
+  - Attributes: USB Type-A cable, length 77 cm
+  - Reason: Connector type differs (USB-C vs USB-A) although length matches, creating a real conflict.

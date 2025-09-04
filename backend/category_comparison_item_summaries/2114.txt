@@ -1,0 +1,29 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Black
+  - Reason: Color given in attributes but not in quality lines.
+• Content
+  - Quality Lines: 4 massage heads
+  - Attributes: Luxury carrying case
+  - Reason: Each side lists different included items.
+• Specifications
+  - Quality Lines: Brushless motor
+  - Attributes: Silent motor, LCD screen, 4 massage heads
+  - Reason: Different specification details; not simple re-phrasing.
+• Power
+  - Quality Lines: 25 W
+  - Attributes: None
+  - Reason: Power stated in quality lines but absent from attributes.
+• Input
+  - Quality Lines: 5V/1A–2A
+  - Attributes: None
+  - Reason: Input specs present only in quality lines.
+• Charging Time
+  - Quality Lines: 3–6.5 h
+  - Attributes: 5–6.5 h
+  - Reason: Different minimum charge time (3 h vs 5 h).
+• Use Time
+  - Quality Lines: 2–4 h
+  - Attributes: 40 h
+  - Reason: Run-time values conflict.

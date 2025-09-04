@@ -1,0 +1,5 @@
+Key Differences
+• Specifications
+  - Quality Lines: None
+  - Attributes: Mixed inner: 6×GREENPINK + 6×YELLOWPURP = 12 pcs
+  - Reason: Information exists in Attributes but is completely missing in Quality Lines.

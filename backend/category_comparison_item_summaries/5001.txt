@@ -1,0 +1,13 @@
+Key Differences
+• Size
+  - Quality Lines: 19×56mm, 19×72mm
+  - Attributes: None
+  - Reason: Size details are provided in quality lines but completely missing in attributes.
+• Weight
+  - Quality Lines: 16g
+  - Attributes: None
+  - Reason: Weight value present in quality lines, missing in attributes.
+• Packaging
+  - Quality Lines: Box packaging (L7×W2.2×H10.1+2.2cm header), transparent closing sticker, Eurohole
+  - Attributes: Box (L7 cm, W2.2 cm, H10.1+2.2 cm header), transparent closing sticker
+  - Reason: Core box dimensions/sticker match, but quality lines add 'Eurohole' which is missing in attributes.

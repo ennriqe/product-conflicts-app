@@ -1,0 +1,5 @@
+Key Differences
+• Battery
+  - Quality Lines: None
+  - Attributes: 2x AAA (not included)
+  - Reason: Battery requirement present in attributes but missing in quality lines.

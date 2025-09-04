@@ -1,0 +1,33 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Mat Black
+  - Attributes: Mat White
+  - Reason: Color stated as Mat Black in QL but Mat White in Attributes – conflicting information.
+• Specifications
+  - Quality Lines: Battery weight: 5.6g
+  - Attributes: None
+  - Reason: Specifications line present in QL but missing in Attributes.
+• Battery
+  - Quality Lines: Li-ion battery, 230mAh (weight 5.6g)
+  - Attributes: Li-ion, 250mAh (230-300mAh), 5.3g
+  - Reason: Different stated capacities (230 mAh vs 250 mAh range) and weights (5.6 g vs 5.3 g).
+• Output
+  - Quality Lines: None
+  - Attributes: 3.7V
+  - Reason: Output voltage present only in Attributes.
+• Charging Time
+  - Quality Lines: None
+  - Attributes: 40 mins
+  - Reason: Charging time stated only in Attributes.
+• Use Time
+  - Quality Lines: None
+  - Attributes: 65-70 mins
+  - Reason: Runtime listed only in Attributes.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: USB-C cable 205mm
+  - Reason: Cable/connector information only in Attributes.
+• Temperature/Heating
+  - Quality Lines: None
+  - Attributes: 65°C ±20%, 85°C ±20%
+  - Reason: Heating temperatures specified only in Attributes.

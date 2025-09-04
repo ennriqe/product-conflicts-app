@@ -1,0 +1,5 @@
+Key Differences
+• Size
+  - Quality Lines: L 4.9 cm, 6.5 mm
+  - Attributes: None
+  - Reason: Size value is missing in Attributes.

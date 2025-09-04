@@ -1,0 +1,45 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Grey, White
+  - Attributes: White
+  - Reason: Quality Lines lists Grey in addition to White whereas Attributes only lists White.
+• Capacity
+  - Quality Lines: None
+  - Attributes: 6 L
+  - Reason: Capacity present in Attributes but missing in Quality Lines.
+• Weight
+  - Quality Lines: None
+  - Attributes: 1780 g
+  - Reason: Weight provided in Attributes but missing in Quality Lines.
+• Modes/Settings
+  - Quality Lines: Warming, Bubble Massage, Vibrating
+  - Attributes: None
+  - Reason: Modes listed in Quality Lines but absent from Attributes.
+• Content
+  - Quality Lines: White legs (both sides), 1.8 m power cord
+  - Attributes: None
+  - Reason: Content present in Quality Lines but missing in Attributes.
+• Packaging
+  - Quality Lines: None
+  - Attributes: Colorbox
+  - Reason: Packaging defined in Attributes but not in Quality Lines.
+• Printing
+  - Quality Lines: 1 color silk print
+  - Attributes: None
+  - Reason: Printing info present in Quality Lines but missing in Attributes.
+• Power
+  - Quality Lines: 500 W
+  - Attributes: 450 W
+  - Reason: Numeric conflict: 500 W vs 450 W.
+• Cable/Connector
+  - Quality Lines: 1.8 m power cord
+  - Attributes: 1.6 m cord
+  - Reason: Cord lengths differ: 1.8 m vs 1.6 m.
+• Waterproof Rating
+  - Quality Lines: IPX
+  - Attributes: None
+  - Reason: Water-resistance referenced in Quality Lines but absent in Attributes.
+• Temperature/Heating
+  - Quality Lines: None
+  - Attributes: 30–48 °C water temperature after heating
+  - Reason: Heating information present in Attributes but missing in Quality Lines.

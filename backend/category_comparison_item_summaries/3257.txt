@@ -1,0 +1,37 @@
+Key Differences
+• Capacity
+  - Quality Lines: None
+  - Attributes: 175ml (water reservoir)
+  - Reason: Value present in Attributes but absent in Quality Lines.
+• Material
+  - Quality Lines: None
+  - Attributes: ABS, PCS color
+  - Reason: Material stated only in Attributes.
+• Modes/Settings
+  - Quality Lines: 3 levels (pulse); speed 6000 rpm
+  - Attributes: 3 levels, 2 min auto turn off timer
+  - Reason: Overlap on "3 levels" but each side contains unique extra data, so not a pure subset.
+• Content
+  - Quality Lines: 2pcs standard bent nozzles, 9 languages manual booklet
+  - Attributes: 2pcs standard bent nozzles, USB cable (100cm)
+  - Reason: Different included items (manual booklet vs USB cable).
+• Battery
+  - Quality Lines: rechargeable battery 1400mAh 3.7V
+  - Attributes: 1500mAh rechargeable
+  - Reason: Numeric conflict: 1400 mAh vs 1500 mAh.
+• Voltage
+  - Quality Lines: None
+  - Attributes: DC 3.7V
+  - Reason: Voltage provided only in Attributes.
+• Charging Time
+  - Quality Lines: None
+  - Attributes: 2–4h
+  - Reason: Charging time present only in Attributes.
+• Use Time
+  - Quality Lines: None
+  - Attributes: 40–60 times per fill
+  - Reason: Use time present only in Attributes.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: USB cable (100cm)
+  - Reason: Cable included only in Attributes.

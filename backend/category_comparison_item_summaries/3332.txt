@@ -1,0 +1,9 @@
+Key Differences
+• Specifications
+  - Quality Lines: None
+  - Attributes: Ingredients: pure water, ACACIA 381I, mint aroma, sodium fluoride
+  - Reason: Quality Lines is empty while Attributes lists ingredients, so information is missing on the QL side.
+• Packaging
+  - Quality Lines: Container (BFC-026)
+  - Attributes: Container DFC-026 (color: transparent, rubber side Pantone 286C), PET blister (30% recyclable plastic), 350gsm backing card (75% recyclable carton)
+  - Reason: Container code differs (BFC-026 vs DFC-026) and Attributes provide extra packaging components.

@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Handle 337 C + Bristle 3538 C, Handle 2635 C + Bristle 211 C, Handle 212 C + Bristle 297 C, Handle 283 C + Bristle 359 C, customizable bristle color
+  - Reason: Present in Attributes only; missing in Quality Lines.
+• Material
+  - Quality Lines: Handle: PP, Bristle: pbr bristle
+  - Attributes: Handle: PP; Bristle: PBT
+  - Reason: Handle material matches but bristle materials differ (pbr vs PBT).
+• Content
+  - Quality Lines: None
+  - Attributes: 8 toothbrushes
+  - Reason: Present in Attributes only.
+• Packaging
+  - Quality Lines: 300g paper+PET blister
+  - Attributes: None
+  - Reason: Present in Quality Lines only.

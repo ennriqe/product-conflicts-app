@@ -1,0 +1,9 @@
+Key Differences
+• Content
+  - Quality Lines: Peppa Pig Toothpaste (1x), Cup (1x), Toothbrush with cap (1x), Storage Zip Bag (1x)
+  - Attributes: 1x kid toothbrush, 1x toothbrush, 1 storage zip bag, 1x toothpaste, 1 cap
+  - Reason: Cup present only in Quality Lines; cap listed separately and second toothbrush listed only in Attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Toothpaste: Sodium Fluoride 1000ppm, without Titanium dioxide, mica, azo dye, microplastic, vegan
+  - Reason: Information present in Attributes but absent in Quality Lines.

@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Assorti
+  - Attributes: Pantone 9284C, Pantone 9285C
+  - Reason: Different colour information: assorted vs specific Pantone shades.
+• Size
+  - Quality Lines: 17.5×19 cm
+  - Attributes: 17.5 × 18 cm
+  - Reason: Numeric conflict – one side gives 19 cm, the other 18 cm.
+• Weight
+  - Quality Lines: 68 g
+  - Attributes: 49 g
+  - Reason: Numeric conflict – 68 g vs 49 g.

@@ -1,0 +1,13 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: Body Balance, Heart Rate Function, 15 body index analyses, Low Power, Auto On/Auto Off
+  - Attributes: None
+  - Reason: Modes listed in quality lines are completely missing in attributes.
+• Specifications
+  - Quality Lines: VA size 62×109 mm, 4 electrodes, Capacity 180 kg/400 lb, Weight graduation 0.1 kg/0.2 lb
+  - Attributes: Maximum load: 180 kg/400 lb, LCD screen: Yes, Weight unit options: kg/lb
+  - Reason: Overlap on max load but each side contains extra specs the other lacks; not a simple subset, so treated as different.
+• Compatibility
+  - Quality Lines: Fitdays app
+  - Attributes: None
+  - Reason: Compatibility information present only in quality lines.

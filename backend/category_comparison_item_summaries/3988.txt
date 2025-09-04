@@ -1,0 +1,5 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Green
+  - Attributes: None
+  - Reason: Value present in quality lines but absent in attributes.

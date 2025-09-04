@@ -1,0 +1,37 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Roze
+  - Reason: Value present only in attributes.
+• Size
+  - Quality Lines: LED ring Ø16cm, Mirror Ø10cm, Bottom storage base Ø16×3.5cm, Working height 31–58cm
+  - Attributes: 172×172×70 mm
+  - Reason: Different dimensions given; values conflict.
+• Material
+  - Quality Lines: ABS, Aluminum Alloy, Glass
+  - Attributes: None
+  - Reason: Value present only in quality lines.
+• Content
+  - Quality Lines: USB cable (170cm)
+  - Attributes: None
+  - Reason: Missing in attributes (allowed but marked as not equal).
+• Specifications
+  - Quality Lines: 64 LEDs
+  - Attributes: None
+  - Reason: Value present only in quality lines.
+• Packaging
+  - Quality Lines: Color box
+  - Attributes: None
+  - Reason: Value present only in quality lines.
+• Battery
+  - Quality Lines: None
+  - Attributes: Werkt met stroomsnoer
+  - Reason: Value present only in attributes.
+• Power
+  - Quality Lines: None
+  - Attributes: 6–12 W
+  - Reason: Value present only in attributes.
+• Cable/Connector
+  - Quality Lines: USB cable 170cm
+  - Attributes: None
+  - Reason: Value present only in quality lines.

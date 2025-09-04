@@ -1,0 +1,13 @@
+Key Differences
+• Material
+  - Quality Lines: None
+  - Attributes: Handle: ABS, Tip: TPE or Silicone (100% LFGB)
+  - Reason: Material details present in Attributes but completely missing in Quality Lines.
+• Content
+  - Quality Lines: Interdental Brushes, Travel Case
+  - Attributes: None
+  - Reason: Content listed in Quality Lines is missing from Attributes.
+• Packaging
+  - Quality Lines: None
+  - Attributes: Blistercard with PET blister (incl. Euro hole)
+  - Reason: Packaging information provided in Attributes but missing in Quality Lines.

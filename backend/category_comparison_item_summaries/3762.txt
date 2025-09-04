@@ -1,0 +1,9 @@
+Key Differences
+• Material
+  - Quality Lines: Bristles: DuPont nylon 610 (0.18 mm), brass anchored
+  - Attributes: Dupont nylon 610 (0.15mm end rounded), brass anchored
+  - Reason: Numeric conflict: 0.18 mm vs 0.15 mm
+• Specifications
+  - Quality Lines: Suction cup base
+  - Attributes: None
+  - Reason: Present in quality lines but missing in attributes

@@ -1,0 +1,13 @@
+Key Differences
+• Material
+  - Quality Lines: PETG+TPR (handle), PBT (tapered bristles), brass anchor
+  - Attributes: Dupont Herox 610, PETG (handle), TPR (handle), PBT (tapered bristles)
+  - Reason: Attribute list lacks "brass anchor" while adding "Dupont Herox 610"; therefore information is not identical.
+• Specifications
+  - Quality Lines: Dupont Herox 610, 2 components
+  - Attributes: None
+  - Reason: Present in quality lines but missing in attributes.
+• Packaging
+  - Quality Lines: PET blister + FSC carton, shelf ready tray
+  - Attributes: Single PET blister, FSC backing card 350gsm
+  - Reason: Different secondary components stated (carton & shelf-ready tray vs backing card).

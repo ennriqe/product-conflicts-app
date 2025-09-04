@@ -1,0 +1,9 @@
+Key Differences
+• Weight
+  - Quality Lines: None
+  - Attributes: 177 g
+  - Reason: Weight is supplied in Attributes but missing in Quality Lines.
+• Packaging
+  - Quality Lines: None
+  - Attributes: Color box (450gsm non-corrugated)
+  - Reason: Packaging details exist in Attributes but are absent in Quality Lines.

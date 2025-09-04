@@ -1,0 +1,33 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Black with white printing
+  - Reason: Value supplied in Attributes but missing in Quality Lines.
+• Size
+  - Quality Lines: None
+  - Attributes: Wax heater 18×13 cm, Wooden sticks 15×1.5 cm, Inner pot 10.5×6.5 cm, Cup heart 7×6.8×2.4 cm
+  - Reason: Size data present only in Attributes.
+• Weight
+  - Quality Lines: None
+  - Attributes: Heater 460 g, Wooden sticks 2.5 g, Inner pot 51 g, Cup heart 1 g
+  - Reason: Weight information present only in Attributes.
+• Modes/Settings
+  - Quality Lines: Temperature controller
+  - Attributes: None
+  - Reason: Modes detail provided in QL but missing in Attributes field.
+• Content
+  - Quality Lines: 1× Heater (ABS), 1× Cover, 1× Pot, 1× Bowl, 1× Rosin Resin Wax Beans 100 g, 10× Wooden Sticks, 1× Manual
+  - Attributes: 1× Heater ABS, 1× Cover, 1× Pot, 1× Bowl, 1× Rosin Resin Wax Beans 100 g, 10× Wooden sticks
+  - Reason: Attributes list lacks the manual present in QL.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Max temperature 100 °C, Temperature controller, EU plug
+  - Reason: Specifications present only in Attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK printing on zip bag, CMYK plus 1 Pantone color on color box
+  - Reason: Printing details present only in Attributes.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: Cable length 90 cm
+  - Reason: Cable information present only in Attributes.

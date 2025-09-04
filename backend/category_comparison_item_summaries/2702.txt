@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Black
+  - Reason: Attribute lists a color (Black) while Quality Lines provide none.
+• Content
+  - Quality Lines: None
+  - Attributes: 10 replacement threads, glossy paper book manual (9 languages)
+  - Reason: Attribute lists included items; Quality Lines have none.
+• Printing
+  - Quality Lines: Full color logo printing on device
+  - Attributes: CMYK + 3 Pantone colors on box, 1-color silk printing (white logo)
+  - Reason: Different printing details and different print locations (device vs. box).

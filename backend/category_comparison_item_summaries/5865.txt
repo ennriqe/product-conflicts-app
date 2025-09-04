@@ -1,0 +1,13 @@
+Key Differences
+• Size
+  - Quality Lines: Heart 89.35×72.75×66.2 mm; Butterfly 89.17×64.86×68.97 mm
+  - Attributes: Heart: 85×70×65 mm, Butterfly: 87×65×75 mm
+  - Reason: Dimension figures differ for both shapes (numerical conflict).
+• Weight
+  - Quality Lines: Heart 56 g; Butterfly 57 g
+  - Attributes: Heart: 47 g, Butterfly: 47 g
+  - Reason: Weights do not match (56/57 g vs 47 g).
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK, 1 Pantone color per artwork
+  - Reason: Printing details provided only in Attributes.

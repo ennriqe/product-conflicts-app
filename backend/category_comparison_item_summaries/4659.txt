@@ -1,0 +1,13 @@
+Key Differences
+• Content
+  - Quality Lines: manual (9 languages)
+  - Attributes: None
+  - Reason: Present in Quality Lines but missing in Attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Tufts retention 20N, bristles end rounded, each variation handle has unique print corresponding to the color
+  - Reason: Present in Attributes but missing in Quality Lines.
+• Printing
+  - Quality Lines: None
+  - Attributes: CYMK full color
+  - Reason: Present in Attributes but missing in Quality Lines.

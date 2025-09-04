@@ -1,0 +1,41 @@
+Key Differences
+• Size
+  - Quality Lines: 30×26×1.8 cm
+  - Attributes: 30×26×2.4 cm (platform thickness 6 mm)
+  - Reason: Numeric conflict: thickness 1.8 cm vs 2.4 cm.
+• Weight
+  - Quality Lines: 1400 g
+  - Attributes: 1360 g
+  - Reason: Numeric conflict: 1400 g vs 1360 g.
+• Material
+  - Quality Lines: None
+  - Attributes: Paper, PE, tempered glass
+  - Reason: Materials supplied only in Attributes list.
+• Modes/Settings
+  - Quality Lines: None
+  - Attributes: kg/lb/st, 30 s automatic OFF & ON
+  - Reason: Present in Attributes but missing in Quality Lines.
+• Content
+  - Quality Lines: None
+  - Attributes: Customized manual, rating label
+  - Reason: Present only in Attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Weight graduation: 0.1 kg/0.2 lb, Weight range: 0–180 kg/6.6–400 lb, LCD screen size: 74×28 mm (with backlight), Overload & Low Battery indication, Weight history: weekly, monthly & yearly overview, App: Tuya Smartlife for iOS & Android, Operating humidity: 20–90%
+  - Reason: Detailed specs only in Attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK, 2 Pantone colors, UV spot varnish
+  - Reason: Data exists only in Attributes.
+• Battery
+  - Quality Lines: None
+  - Attributes: 2×1.5V AAA batteries (not included)
+  - Reason: Battery information only in Attributes.
+• Compatibility
+  - Quality Lines: None
+  - Attributes: Bluetooth
+  - Reason: Compatibility stated only in Attributes.
+• Temperature/Heating
+  - Quality Lines: None
+  - Attributes: Operating temperature: 10–40°C
+  - Reason: Temperature range only in Attributes.

@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Bottle: Transparent, Lid: White
+  - Attributes: None
+  - Reason: Value present in quality lines but missing in attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Mouthwash formula code WAC20231127-2
+  - Reason: Value present in attributes but missing in quality lines.

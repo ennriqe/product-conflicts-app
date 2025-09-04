@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Black, clear band
+  - Reason: Color information present in attributes but missing in quality lines.
+• Content
+  - Quality Lines: None
+  - Attributes: False eyelash x1, white glue x1, private logo color box
+  - Reason: Content list present in attributes but absent in quality lines.

@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: WT101, GN703
+  - Attributes: None
+  - Reason: Variant details appear in Quality Lines but are absent in Attributes.
+• Material
+  - Quality Lines: Dupont Tynex 612
+  - Attributes: None
+  - Reason: Material is specified in Quality Lines but missing in Attributes.
+• Packaging
+  - Quality Lines: clamshell blister
+  - Attributes: None
+  - Reason: Packaging type given in Quality Lines but missing in Attributes.
+• Compatibility
+  - Quality Lines: ORAL-B
+  - Attributes: None
+  - Reason: Compatibility stated in Quality Lines but absent in Attributes.

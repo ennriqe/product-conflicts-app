@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Violet
+  - Reason: Color present in Attributes only; missing in Quality Lines.
+• Capacity
+  - Quality Lines: None
+  - Attributes: 30ml
+  - Reason: Capacity value present only in Attributes.
+• Material
+  - Quality Lines: AS
+  - Attributes: None
+  - Reason: Material given in Quality Lines but missing from Attributes.
+• Printing
+  - Quality Lines: with printing
+  - Attributes: None
+  - Reason: Printing information present in Quality Lines but absent in Attributes.

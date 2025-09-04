@@ -1,0 +1,13 @@
+Key Differences
+• Content
+  - Quality Lines: 5-bulb mini LED light, 3 × 3 ml whitening syringe (0.01% peroxide), mouth tray, shade guide, manual, mouth-tray storage case
+  - Attributes: mouth tray, storage case, silk printed rating label, shade guide, manual, 3 × 3 ml teeth whitening syringes (0.01% peroxide)
+  - Reason: Quality Lines include the LED light and omit the rating label; Attributes include the rating label and omit the LED light.
+• Packaging
+  - Quality Lines: Box packaging with open window
+  - Attributes: CMYK color box, shrink wrap
+  - Reason: Different packaging descriptions: open-window box vs. CMYK color box with shrink wrap.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK, silk print
+  - Reason: Printing details provided in Attributes but absent in Quality Lines.

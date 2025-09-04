@@ -1,0 +1,29 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: White, Green, Pink
+  - Attributes: None
+  - Reason: Color information present in quality lines but missing in attributes.
+• Size
+  - Quality Lines: 72×7×7 mm
+  - Attributes: None
+  - Reason: Size present in quality lines but missing in attributes.
+• Weight
+  - Quality Lines: 21 g
+  - Attributes: None
+  - Reason: Weight present in quality lines but missing in attributes.
+• Material
+  - Quality Lines: ABS, PC, Silicone
+  - Attributes: None
+  - Reason: Material listed in quality lines but absent in attributes.
+• Content
+  - Quality Lines: Storage box
+  - Attributes: None
+  - Reason: Content missing in attributes; flagged as missing but does not alone fail overall.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Sustainable (Duurzaam): Yes
+  - Reason: Specifications present in attributes but absent in quality lines.
+• Packaging
+  - Quality Lines: Color box (97×30×15 mm)
+  - Attributes: None
+  - Reason: Packaging details present in quality lines but missing in attributes.

@@ -1,0 +1,5 @@
+Key Differences
+• Packaging
+  - Quality Lines: PET blister
+  - Attributes: None
+  - Reason: Packaging data present in Quality Lines but missing in Attributes.

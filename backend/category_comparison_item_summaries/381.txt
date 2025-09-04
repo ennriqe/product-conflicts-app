@@ -1,0 +1,13 @@
+Key Differences
+• Material
+  - Quality Lines: DuPont 610
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes.
+• Specifications
+  - Quality Lines: 2 Components, Anti-slip grip, Flexible neck
+  - Attributes: Prijsfilter: €0,00 - €0,99
+  - Reason: Values differ; they describe different specifications.
+• Packaging
+  - Quality Lines: Blister pack (PET), SRP display box
+  - Attributes: None
+  - Reason: Value present in Quality Lines but missing in Attributes.

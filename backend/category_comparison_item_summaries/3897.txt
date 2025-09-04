@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Fragrance: botanical water 992, Bergamot, Ginger, Lemon
+  - Attributes: Color: Dark Orange; Fragrance: Bergamot, Ginger, Lemon
+  - Reason: Both list Bergamot, Ginger, Lemon, but attributes add a color (Dark Orange) not in QL, while QL adds botanical water 992 not in attributes; information not identical.
+• Size
+  - Quality Lines: Dia 68 mm
+  - Attributes: Dia 58 mm
+  - Reason: Numeric conflict: 68 mm vs 58 mm.

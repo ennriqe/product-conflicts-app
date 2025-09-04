@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Pantone 544C, Pantone 9121C, Pantone 2577C
+  - Attributes: 263C purple, 169C salmon, 544C light blue
+  - Reason: Colour lists are not the same; only Pantone 544C overlaps, others differ.
+• Weight
+  - Quality Lines: None
+  - Attributes: 11 g
+  - Reason: Weight present in attributes but missing in quality lines.
+• Packaging
+  - Quality Lines: OPP sleeve, EAN code sticker
+  - Attributes: Transparent PVC sleeve + EAN code sticker
+  - Reason: Sleeve materials differ (OPP vs Transparent PVC).

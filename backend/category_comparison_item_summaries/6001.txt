@@ -1,0 +1,5 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Light Pink (Pantone 9284 C)
+  - Reason: Value is present in attributes but missing in quality lines.

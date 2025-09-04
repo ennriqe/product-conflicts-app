@@ -1,0 +1,29 @@
+Key Differences
+• Size
+  - Quality Lines: 44×3.8 cm
+  - Attributes: 44 cm
+  - Reason: Width 3.8 cm is present only in Quality Lines; Attributes list length only, so the data are not identical.
+• Modes/Settings
+  - Quality Lines: None
+  - Attributes: Slow flashing, Fast flashing, Constant
+  - Reason: Operating modes are provided only in Attributes.
+• Content
+  - Quality Lines: 2 LED reflective bands
+  - Attributes: None
+  - Reason: Content is present in Quality Lines but missing from Attributes (allowed exception, but marked as not equal here).
+• Specifications
+  - Quality Lines: None
+  - Attributes: 1 LED optic fiber sticks per band
+  - Reason: Specification text exists only in Attributes.
+• Charging Time
+  - Quality Lines: 30 min
+  - Attributes: 45 minutes
+  - Reason: Numerical conflict: 30 min vs 45 min.
+• Use Time
+  - Quality Lines: 2–3 h
+  - Attributes: Approx. 4 hours
+  - Reason: Numerical conflict: 2–3 h vs ~4 h.
+• Waterproof Rating
+  - Quality Lines: None
+  - Attributes: IPX4
+  - Reason: Water-resistance level provided only in Attributes.

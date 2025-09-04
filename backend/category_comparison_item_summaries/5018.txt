@@ -1,0 +1,13 @@
+Key Differences
+• Size
+  - Quality Lines: 60 g
+  - Attributes: None
+  - Reason: Size value present in Quality Lines but missing in Attributes.
+• Weight
+  - Quality Lines: None
+  - Attributes: 60 g
+  - Reason: Weight value present in Attributes but missing in Quality Lines (information placed under Size in QL).
+• Packaging
+  - Quality Lines: Matte tube with foldable label, without color box, without display box, inner pack of 12 (minimum 4 pcs per flavor)
+  - Attributes: Mat tube with foldable label without color box without display box
+  - Reason: Attributes text omits the 'inner pack of 12 (minimum 4 pcs per flavor)' detail found in Quality Lines.

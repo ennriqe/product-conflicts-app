@@ -1,0 +1,21 @@
+Key Differences
+• Size
+  - Quality Lines: 150×17×1 mm (wooden spatula)
+  - Attributes: 175×75×55 mm (window box)
+  - Reason: Different measurements and different objects (spatula vs. box).
+• Capacity
+  - Quality Lines: 200 g (wax beans)
+  - Attributes: None
+  - Reason: Capacity listed in Quality Lines is missing in Attributes.
+• Weight
+  - Quality Lines: None
+  - Attributes: 200 g (beans)
+  - Reason: Weight value appears only in Attributes.
+• Material
+  - Quality Lines: Wax; Wood (spatula)
+  - Attributes: None
+  - Reason: Material information supplied only in Quality Lines.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Ingredients: Glyceryl Rosinate, Stearic Acid, Paraffin, Ethylene/VA Copolymer, Naphtenic Oil, Benzyl Salicylate, Parfum, Dipropylene Glycol, Aluminum Hydroxide, Dimethicone, Coumarin, D-Limonene, Linalool, Hexyl Cinnamal, Citronellol, CI 61565, CI 77891
+  - Reason: Detailed ingredient list present only in Attributes.

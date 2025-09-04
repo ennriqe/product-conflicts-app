@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone 9284 C
+  - Reason: Color present in attributes but missing in quality lines.
+• Battery
+  - Quality Lines: None
+  - Attributes: 3×AAA batteries (not included, 1200 mAh, 1.5 V)
+  - Reason: Battery details provided in attributes but absent from quality lines.
+• Power
+  - Quality Lines: None
+  - Attributes: 1.8 W
+  - Reason: Power rating present in attributes but missing in quality lines.

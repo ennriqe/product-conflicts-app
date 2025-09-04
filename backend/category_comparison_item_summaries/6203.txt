@@ -1,0 +1,5 @@
+Key Differences
+• Content
+  - Quality Lines: None
+  - Attributes: 2× gloves
+  - Reason: Missing in Quality Lines but present in Attributes.

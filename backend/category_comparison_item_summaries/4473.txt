@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: White
+  - Reason: Color value "White" appears in attributes but is absent in quality lines.
+• Light Color
+  - Quality Lines: White
+  - Attributes: None
+  - Reason: "White" provided in quality lines but missing in attributes.

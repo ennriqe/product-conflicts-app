@@ -1,0 +1,13 @@
+Key Differences
+• Content
+  - Quality Lines: Electric toothbrush, water flosser, rotating toothbrush heads, wireless inductive charger
+  - Attributes: None
+  - Reason: Present in QL but missing in Attributes (allowed but marked not equal)
+• Cable/Connector
+  - Quality Lines: Wireless inductive charger
+  - Attributes: None
+  - Reason: Missing in Attributes
+• Compatibility
+  - Quality Lines: Oral-B
+  - Attributes: None
+  - Reason: Present in QL but missing in Attributes

@@ -1,0 +1,9 @@
+Key Differences
+• Content
+  - Quality Lines: None
+  - Attributes: Handle, charging base, 2× brush head
+  - Reason: Quality Lines is missing this information while Attributes provides it.
+• Compatibility
+  - Quality Lines: Philips
+  - Attributes: None
+  - Reason: Compatibility noted in Quality Lines but omitted in Attributes.

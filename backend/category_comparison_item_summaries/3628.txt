@@ -1,0 +1,21 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Tiger, Colorful, Grey
+  - Reason: Variants present in Attributes but completely missing in Quality Lines.
+• Size
+  - Quality Lines: None
+  - Attributes: 16 × 5.7 × 2.3 cm
+  - Reason: Size provided in Attributes but absent in Quality Lines.
+• Material
+  - Quality Lines: DuPont Herox bristles
+  - Attributes: ABS, TPE
+  - Reason: Different materials are listed (bristle material vs. handle materials).
+• Content
+  - Quality Lines: 2 replaceable heads, 1 × AAA battery (not included)
+  - Attributes: Handle with brush head, 1 additional brush head (polybag)
+  - Reason: Item lists differ (battery only in QL; handle only in Attributes; different count of brush heads).
+• Specifications
+  - Quality Lines: None
+  - Attributes: Bristles diameter 0.15 mm, Tufts 22, Bristles per tuft Yellow 22±2; Green/Black 33±3, Bristles height 8±0.5 mm, Bristles Dupont Nylon 610 end rounded
+  - Reason: Detailed specifications exist only in Attributes.

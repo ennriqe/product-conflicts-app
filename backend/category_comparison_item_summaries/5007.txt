@@ -1,0 +1,5 @@
+Key Differences
+• Content
+  - Quality Lines: 2 emergency blankets
+  - Attributes: None
+  - Reason: Information present only in Quality Lines; missing in Attributes.

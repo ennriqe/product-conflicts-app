@@ -1,0 +1,29 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Matte White
+  - Reason: Color is provided in Attributes but absent in Quality Lines.
+• Size
+  - Quality Lines: 17.5×2.4×2.4 cm
+  - Attributes: 18.4×2.6×2.6cm
+  - Reason: Numeric dimensions differ.
+• Modes/Settings
+  - Quality Lines: 3 modes; 30 s timer; 2 min timer; strokes/min: 4500 (m1), 6500 (m2), 8800 (m3)
+  - Attributes: 3 modes, 30 s timer, 2 min timer, speeds: 5200/4700/4300 times-min, ON & Next Mode short press, shut off 0.05 s press
+  - Reason: Number of modes and timers match, but the stroke-per-minute values conflict.
+• Content
+  - Quality Lines: None
+  - Attributes: 1 handle, 2 brush heads, 1 travel case, 1 m USB cable, manual booklet (15 languages)
+  - Reason: Content list present only in Attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: PCB board with lithium battery protection circuit (BMS + NTC)
+  - Reason: Specifications provided only in Attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK printing
+  - Reason: Printing details exist only in Attributes.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: USB cable 1 m
+  - Reason: Cable information only provided in Attributes.

@@ -1,0 +1,9 @@
+Key Differences
+• Material
+  - Quality Lines: PP, TPR, Nylon 610 (bristles)
+  - Attributes: PP, TPR, Nylon 610, Aluminum (anchor)
+  - Reason: Attributes add Aluminum (anchor) which is missing in Quality Lines.
+• Specifications
+  - Quality Lines: Flat trimming bristles (0.18 mm); 23 tufting holes; ~44 hairs per tuft; aluminum anchor; retention force ~18 N
+  - Attributes: 23 tufts, ±44 hairs per tuft, flat trimming bristles (0.18 mm round ended), retention force ±18 N
+  - Reason: Quality Lines include 'aluminum anchor' which is not mentioned in Attributes; otherwise data matches.

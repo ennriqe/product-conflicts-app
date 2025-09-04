@@ -1,0 +1,13 @@
+Key Differences
+• Specifications
+  - Quality Lines: Brushless motor
+  - Attributes: None
+  - Reason: Specification present in quality lines but missing in attributes.
+• Input
+  - Quality Lines: None
+  - Attributes: 5 V/2 A
+  - Reason: Input specification present only in attributes.
+• Temperature/Heating
+  - Quality Lines: None
+  - Attributes: Cooling reduces 10 °C; heating up to 50 °C
+  - Reason: Temperature/heating details present only in attributes.

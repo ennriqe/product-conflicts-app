@@ -1,0 +1,25 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Color: White
+  - Attributes: None
+  - Reason: Color is given as White in Quality Lines but is missing in Attributes.
+• Size
+  - Quality Lines: 30×30×2.6 cm
+  - Attributes: 300×300×27.4 mm
+  - Reason: 30×30 cm equals 300×300 mm so length/width match, but height differs (26 mm vs 27.4 mm).
+• Capacity
+  - Quality Lines: None
+  - Attributes: 180kg/400lb/28 persons
+  - Reason: Capacity present in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: LED display size 87×37 mm, full body analysis with app (Silvergear Fit), 15 body index data, Low power indication, Overload indication, Auto on/off
+  - Attributes: Division: 0.1kg/0.2lb, 8 high-precision sensors for professional hand-to-foot measurement, With 15 body index data, With Free App: Silvergear Fit, Low power/Over load indication, Auto on/Auto off, Weight units: Kg/lb/st:lb, Maximum weight: 180 kg/400 lb/28 st:lb, LED display: 83×35 mm
+  - Reason: Most points match but LED-display size differs (87×37 mm vs 83×35 mm); extra details in Attributes don't cause inequality, but size conflict does.
+• Printing
+  - Quality Lines: 2 Pantone
+  - Attributes: None
+  - Reason: Printing information only in Quality Lines.
+• Compatibility
+  - Quality Lines: None
+  - Attributes: iOS 8.0 or higher, Android 6.0 or higher
+  - Reason: Compatibility info only appears in Attributes.

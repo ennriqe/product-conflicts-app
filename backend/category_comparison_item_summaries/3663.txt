@@ -1,0 +1,9 @@
+Key Differences
+• Specifications
+  - Quality Lines: End-rounded soft bristles, bristle retention force 15 N
+  - Attributes: Color tufting bristles minimum 6 g, bristle retention force 15 N
+  - Reason: Each side contains unique specification details not present in the other, so information is missing in both directions.
+• Printing
+  - Quality Lines: Full color print
+  - Attributes: Thermal transfer
+  - Reason: Different printing information (color vs printing method) and neither is a subset of the other.

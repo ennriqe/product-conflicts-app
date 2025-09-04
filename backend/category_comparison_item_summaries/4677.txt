@@ -1,0 +1,25 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: White (customizable)
+  - Reason: Color given in Attributes but absent in Quality Lines.
+• Light Color
+  - Quality Lines: None
+  - Attributes: Green
+  - Reason: Light color appears only in Attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Noise level <64dB, battery requirement BMS + NTC
+  - Reason: Specifications appear only in Attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: Shiny printing
+  - Reason: Printing details only in Attributes.
+• Waterproof Rating
+  - Quality Lines: None
+  - Attributes: IPX7
+  - Reason: Waterproof rating only in Attributes.
+• Compatibility
+  - Quality Lines: Oral-B
+  - Attributes: None
+  - Reason: Compatibility field present only in Quality Lines.

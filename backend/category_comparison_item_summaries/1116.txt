@@ -1,0 +1,5 @@
+Key Differences
+• Material
+  - Quality Lines: PP (handle, storage case), TPE (tip)
+  - Attributes: PP (handle), TPE (tip)
+  - Reason: Quality Lines also lists PP for storage case; this information is missing in Attributes.

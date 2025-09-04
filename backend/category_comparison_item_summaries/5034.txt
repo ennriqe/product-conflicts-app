@@ -1,0 +1,25 @@
+Key Differences
+• Size
+  - Quality Lines: Waist 80–130 cm, Length 44–60 cm
+  - Attributes: Waist 60–100 cm, Length 30–47 cm
+  - Reason: Numeric waist and length ranges do not match.
+• Modes/Settings
+  - Quality Lines: None
+  - Attributes: Slow flashing, fast flashing, constant
+  - Reason: Present only in attributes; missing in quality-lines.
+• Content
+  - Quality Lines: 2 LED optic fiber sticks
+  - Attributes: None
+  - Reason: Present only in quality-lines; missing in attributes.
+• Specifications
+  - Quality Lines: None
+  - Attributes: 2 LED optic fiber sticks
+  - Reason: Present only in attributes; missing in quality-lines.
+• Use Time
+  - Quality Lines: 5–7 hours
+  - Attributes: Approx. 4 hours
+  - Reason: Runtime values conflict (5–7 h vs 4 h).
+• Waterproof Rating
+  - Quality Lines: None
+  - Attributes: IPX4
+  - Reason: Waterproof rating specified only in attributes.

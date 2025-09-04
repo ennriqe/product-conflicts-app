@@ -1,0 +1,17 @@
+Key Differences
+• Content
+  - Quality Lines: None
+  - Attributes: Manual, measurement tape (1m, cm scale)
+  - Reason: Content present in Attributes but missing from Quality Lines.
+• Specifications
+  - Quality Lines: Analyses: fat rate, hydration, muscle, bone, visceral fat, kcal, BMI, weight graduation 0.1 kg/0.2 lb, auto-on, overload/low-battery indication, LCD with backlight, LCD screen size 72×26 mm, save weight history (weekly, monthly, yearly overview)
+  - Attributes: LCD screen 74×28mm with backlight, analysis of fat rate hydration muscle bone visceral fat kcal BMI, save weight history weekly monthly yearly, auto-on overload and low-battery indication, weight accuracy 0.1kg
+  - Reason: Most functions match, but LCD screen size differs (72×26 mm vs 74×28 mm) – numeric conflict.
+• Packaging
+  - Quality Lines: None
+  - Attributes: Silvergear color box with 2 Pantone colors, silver foil logo, varnish printing on front, 1× transparent round closing sticker
+  - Reason: Packaging details exist only in Attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: Silver foil logo, varnish printing
+  - Reason: Printing information exists only in Attributes.

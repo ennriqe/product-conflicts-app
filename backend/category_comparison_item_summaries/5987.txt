@@ -1,0 +1,17 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: White, Pink (Pantone 9284 C)
+  - Reason: Color information present in Attributes but missing in Quality Lines.
+• Battery
+  - Quality Lines: None
+  - Attributes: 2×AA 1.5 V (2300 mAh) (not included)
+  - Reason: Battery details present in Attributes but missing in Quality Lines.
+• Power
+  - Quality Lines: None
+  - Attributes: 3.45 W
+  - Reason: Power information present in Attributes but missing in Quality Lines.
+• Voltage
+  - Quality Lines: None
+  - Attributes: 1.5 V
+  - Reason: Voltage present in Attributes but missing in Quality Lines.

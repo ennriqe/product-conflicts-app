@@ -1,0 +1,5 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Pantone 9226C, Pantone 9401C
+  - Reason: Missing in quality lines while supplied in attributes.

@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Fragrance: Superhero 320, Watery, Cucumber, Watermelon
+  - Attributes: Color: Red (Pantone), Fragrance: Watery, Cucumber, Watermelon
+  - Reason: Attribute line adds a color (Red) and omits the fragrance variant “Superhero 320”; lists are not identical or subsets.
+• Size
+  - Quality Lines: Dia 68mm
+  - Attributes: Dia 58 mm
+  - Reason: Numeric conflict: 68 mm vs 58 mm.

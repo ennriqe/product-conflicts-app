@@ -1,0 +1,17 @@
+Key Differences
+• Size
+  - Quality Lines: 19.0×1.4×0.6 cm
+  - Attributes: L 17.6 cm
+  - Reason: Dimensions conflict (19×1.4×0.6 cm vs length 17.6 cm)
+• Content
+  - Quality Lines: 4 bamboo toothbrushes
+  - Attributes: None
+  - Reason: Content present in QL but missing in Attributes
+• Specifications
+  - Quality Lines: Bristle retention force 18 N; Bristle length 18 mm; Soft bristles
+  - Attributes: Bristle retention force 18 N
+  - Reason: Attributes lack bristle length and softness listed in QL
+• Printing
+  - Quality Lines: Logo on handle
+  - Attributes: None
+  - Reason: Printing info absent in Attributes

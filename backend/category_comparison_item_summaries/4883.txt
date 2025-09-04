@@ -1,0 +1,9 @@
+Key Differences
+• Packaging
+  - Quality Lines: Colour box with window + plastic film or trapped blister (standable)
+  - Attributes: Colour box with window
+  - Reason: Attributes lack additional packaging details provided in quality lines.
+• Compatibility
+  - Quality Lines: Hryfine app
+  - Attributes: None
+  - Reason: Compatibility information present in quality lines but missing in attributes.

@@ -1,0 +1,5 @@
+Key Differences
+• Printing
+  - Quality Lines: CMYK, 1 Pantone color
+  - Attributes: CMYK printing + 2 Pantones
+  - Reason: Numerical conflict: 1 Pantone vs 2 Pantones.

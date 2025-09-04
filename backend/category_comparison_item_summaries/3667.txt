@@ -1,0 +1,9 @@
+Key Differences
+• Content
+  - Quality Lines: Manual (9 languages)
+  - Attributes: None
+  - Reason: Content is present in quality lines but missing from attributes.
+• Specifications
+  - Quality Lines: Certifications: CE, EMC, RoHS
+  - Attributes: Tuft retention 20N, end rounded bristles
+  - Reason: After ignoring certifications, quality lines have no remaining specification data, whereas attributes list specific tuft-retention and bristle details.

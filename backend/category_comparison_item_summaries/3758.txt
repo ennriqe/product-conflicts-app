@@ -1,0 +1,9 @@
+Key Differences
+• Specifications
+  - Quality Lines: None
+  - Attributes: 0.15 mm end-rounded bristles, brass anchored
+  - Reason: Information present in Attributes but completely missing in Quality Lines.
+• Packaging
+  - Quality Lines: Colorbox
+  - Attributes: Blister
+  - Reason: Different packaging types are stated.

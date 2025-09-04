@@ -1,0 +1,13 @@
+Key Differences
+• Size
+  - Quality Lines: None
+  - Attributes: 150×18×1 mm (spatula)
+  - Reason: Size is provided in attributes but missing in quality lines.
+• Material
+  - Quality Lines: Wax; Wood (spatulas)
+  - Attributes: Wood (spatulas)
+  - Reason: Quality lines list both Wax and Wood, attributes list only Wood (missing Wax).
+• Specifications
+  - Quality Lines: Wooden spatula size 150×18×1 mm
+  - Attributes: Ingredients: Glyceryl Rosinate, Naphthenic oils, Ethylene/VA Copolymer, Paraffin, Stearic acid, CI 77891, CI61565, Parfum, Benzyl salicylate, Coumarin
+  - Reason: Each source gives different, non-overlapping specification details.

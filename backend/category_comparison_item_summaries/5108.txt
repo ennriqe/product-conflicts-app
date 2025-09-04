@@ -1,0 +1,9 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Color: Pink
+  - Attributes: None
+  - Reason: Color specified in Quality Lines but missing in Attributes.
+• Content
+  - Quality Lines: None
+  - Attributes: Manual (glossy white paper 80g, CMYK full color, 17 languages)
+  - Reason: Content listed in Attributes but absent in Quality Lines.

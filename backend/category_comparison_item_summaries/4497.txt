@@ -1,0 +1,5 @@
+Key Differences
+• Material
+  - Quality Lines: Dupont nylon 610 bristles (0.18 mm), brass anchored
+  - Attributes: Dupont nylon 610 (0.15mm end rounded), brass anchored
+  - Reason: Numeric conflict: 0.18 mm vs 0.15 mm

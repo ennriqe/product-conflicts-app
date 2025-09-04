@@ -1,0 +1,13 @@
+Key Differences
+• Content
+  - Quality Lines: None
+  - Attributes: USB cord
+  - Reason: Attribute list specifies a USB cord while the quality lines have no entry.
+• Voltage
+  - Quality Lines: DC 5 V
+  - Attributes: None
+  - Reason: Voltage defined only in quality lines.
+• Cable/Connector
+  - Quality Lines: None
+  - Attributes: USB cable
+  - Reason: Only attribute list mentions a USB cable.

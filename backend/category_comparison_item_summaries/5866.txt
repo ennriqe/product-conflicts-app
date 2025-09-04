@@ -1,0 +1,5 @@
+Key Differences
+• Size
+  - Quality Lines: 18×2×1.5 cm
+  - Attributes: None
+  - Reason: Size is specified in Quality Lines but entirely absent in Attributes.

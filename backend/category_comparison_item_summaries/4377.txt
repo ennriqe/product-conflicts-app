@@ -1,0 +1,5 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Mat mint (Pantone 572C), Mat peach (Pantone 2337C)
+  - Reason: Information present in Attributes but missing in Quality Lines.

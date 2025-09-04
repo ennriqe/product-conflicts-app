@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Light Pink (Pantone 705C), Light Green/Blue (Pantone 628C)
+  - Reason: Variant colours are provided in Attributes but completely absent in Quality Lines.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Blush brush 128 mm/12 g, Eyelash/brow brush 128 mm/2 g, Eye liner/brow brush oblique 120 mm/3 g, Eye shadow brush 120 mm/3 g, Lip brush 120 mm/2 g, PS storage tube 128 mm/23 g
+  - Reason: Detailed item specifications exist only in Attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK + 2 Pantone (inner side of PET box)
+  - Reason: Printing details present in Attributes but missing in Quality Lines.

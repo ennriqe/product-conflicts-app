@@ -1,0 +1,17 @@
+Key Differences
+• Modes/Settings
+  - Quality Lines: Magnification 1x, 2x, 3x
+  - Attributes: 3-way LED lighting, smart touch sensor switch
+  - Reason: Different functions are listed in each source.
+• Content
+  - Quality Lines: None
+  - Attributes: storage box on base for accessory collection
+  - Reason: Information present in attributes but missing in quality lines.
+• Specifications
+  - Quality Lines: None
+  - Attributes: magnification 1x/2x/3x, middle and left side with regular mirror, right side with 2x and 3x mirror, foldable mirror for convenient carrying
+  - Reason: Detailed specifications appear only in attributes.
+• Battery
+  - Quality Lines: 4 × AAA batteries (not included)
+  - Attributes: 4x AAA batteries (not included) or USB charging
+  - Reason: Attributes add USB-charging option not mentioned in quality lines.

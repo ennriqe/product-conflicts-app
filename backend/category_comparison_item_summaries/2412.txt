@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Different designs
+  - Reason: Value present in attributes but missing in quality lines.
+• Content
+  - Quality Lines: None
+  - Attributes: 2 pieces
+  - Reason: Content quantity listed in attributes but missing in quality lines.
+• Packaging
+  - Quality Lines: Single blister
+  - Attributes: PET blister, backing card
+  - Reason: Both mention blister but differ in details (single vs PET, backing card).

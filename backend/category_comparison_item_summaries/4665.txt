@@ -1,0 +1,29 @@
+Key Differences
+• Capacity
+  - Quality Lines: None
+  - Attributes: 220ml
+  - Reason: Present in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Leak free, Waterpressure: 90–120psi
+  - Reason: Data present in Attributes but absent in Quality Lines.
+• Printing
+  - Quality Lines: None
+  - Attributes: CMYK, 2 pantone colors
+  - Reason: Printing details only appear in Attributes.
+• Power
+  - Quality Lines: None
+  - Attributes: 4W
+  - Reason: Power value present only in Attributes.
+• Input
+  - Quality Lines: None
+  - Attributes: DC 5V 1A
+  - Reason: Input specification present only in Attributes.
+• Voltage
+  - Quality Lines: None
+  - Attributes: 3.7V
+  - Reason: Voltage listed only in Attributes.
+• Waterproof Rating
+  - Quality Lines: IPX6
+  - Attributes: IPX7
+  - Reason: Numerically different waterproof ratings—conflict.

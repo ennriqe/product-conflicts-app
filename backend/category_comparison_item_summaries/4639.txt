@@ -1,0 +1,13 @@
+Key Differences
+• Content
+  - Quality Lines: None
+  - Attributes: 1× handle, 3× brush heads
+  - Reason: Present in Attributes but missing in Quality Lines.
+• Battery
+  - Quality Lines: None
+  - Attributes: 1× AA battery (not included)
+  - Reason: Battery information present in Attributes but absent in Quality Lines.
+• Waterproof Rating
+  - Quality Lines: IPXS
+  - Attributes: IPX5
+  - Reason: Different rating codes: 'S' vs '5' indicates conflict.

@@ -1,0 +1,5 @@
+Key Differences
+• Size
+  - Quality Lines: 6×10 cm
+  - Attributes: None
+  - Reason: Size value is missing in Attributes while present in Quality Lines.

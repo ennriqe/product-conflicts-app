@@ -1,0 +1,5 @@
+Key Differences
+• Size
+  - Quality Lines: 2mm
+  - Attributes: None
+  - Reason: Size provided in Quality Lines but not in Attributes.

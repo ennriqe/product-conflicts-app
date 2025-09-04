@@ -1,0 +1,41 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Light pink, Mauve, Deep Taupe, Grey, Gold Glitter, Pastel Purple, Red, Army green, Sea Blue, Rose Glitter
+  - Reason: Variants given in Attributes but completely missing in Quality Lines.
+• Size
+  - Quality Lines: None
+  - Attributes: UV LED lamp 19×12×7.5 cm, Nail file 17.8 cm
+  - Reason: Dimensions supplied in Attributes but absent in Quality Lines.
+• Capacity
+  - Quality Lines: 10ml (topcoat), 10ml (basecoat), 10ml (each gel nail polish)
+  - Attributes: Top coat 10 ml, Gel polish 10 ml (each)
+  - Reason: Base-coat capacity (10 ml) present in Quality Lines but omitted in Attributes.
+• Material
+  - Quality Lines: Metal (cuticle pusher)
+  - Attributes: None
+  - Reason: Material for the cuticle pusher listed in Quality Lines but not in Attributes.
+• Light Color
+  - Quality Lines: UV
+  - Attributes: None
+  - Reason: UV light colour stated in Quality Lines but missing in Attributes.
+• Content
+  - Quality Lines: 1x UV lamp with DC charging port, 1x USB to DC cable (no adapter), 1x topcoat 10ml, 1x basecoat 10ml, 10x gel nail polish 10ml, 1x nail clipper, 1x metal cuticle pusher, 1x nail cleaning brush, 1x nail tweezer (bended), 1x nail cuticle trimmer, 4x nail files, 1x nail block file, 1x glue fake nails, 1x palette, 1x nail art tool, 1x nail cuticle oil, 2x toe spreaders, 20x nail polish remover wipes, 3x gold nail tape, 2x silver nail tape
+  - Attributes: 1 × nail tweezer bended, 1 × nail cuticle trimmer, 4 × nail files, 1 × nail block 4-in-1 polisher, 1 × nail cuticle oil, 2 × toe spreaders, 20 × nail polish remover wipes, 1 × double-sided nail art tool, 1 × large nail clipper, 1 × metal cuticle pusher, 1 × nail cleaning brush, 1 × UV LED lamp with DC charging port, 1 × USB to DC cable (no adapter), 1 × top coat 10 ml, 1 × base coat, 10 × gel polish 10 ml, 3 × white sticker, 3 × colored stickers, 3 × nail tapes gold, 2 × nail tapes silver
+  - Reason: Most items match, but Quality Lines include ‘glue fake nails’ and ‘palette’ not found in Attributes, while Attributes add white/coloured stickers; therefore the lists are not identical.
+• Specifications
+  - Quality Lines: None
+  - Attributes: 12 LED beads
+  - Reason: LED-bead specification present only in Attributes.
+• Packaging
+  - Quality Lines: None
+  - Attributes: Non visible corrugated FSC color box 350 gsm, PP bags, Manual with 11 languages
+  - Reason: Packaging details included only in Attributes.
+• Printing
+  - Quality Lines: None
+  - Attributes: Color box CMYK, Manual CMYK
+  - Reason: Printing information available in Attributes but absent in Quality Lines.
+• Power
+  - Quality Lines: None
+  - Attributes: 10 W
+  - Reason: Power rating provided only in Attributes.

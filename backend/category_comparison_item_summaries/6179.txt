@@ -1,0 +1,5 @@
+Key Differences
+• Printing
+  - Quality Lines: None
+  - Attributes: Paper sleeve CMYK + 1 Pantone, Peach logo on etui and brush handles
+  - Reason: Printing details are provided in Attributes but absent in Quality Lines.

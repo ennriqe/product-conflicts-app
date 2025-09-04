@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: Flavor: Mint
+  - Attributes: Color: transparent (Pantone 3125C), Flavor: no taste
+  - Reason: Flavor differs: Mint vs no taste (and extra color data in Attributes).
+• Material
+  - Quality Lines: None
+  - Attributes: PP
+  - Reason: Material present in Attributes but missing in Quality Lines.
+• Packaging
+  - Quality Lines: Container: BFC-026
+  - Attributes: Container DFC-026 (transparent, rubber side Pantone 3125C), PET blister (30% recyclable plastic), 350gsm backing card (75% recyclable carton)
+  - Reason: Container code differs (BFC-026 vs DFC-026) and Attributes include additional packaging details.

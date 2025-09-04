@@ -1,0 +1,13 @@
+Key Differences
+• Color/Scent/Flavor or any form of variant/assortis
+  - Quality Lines: None
+  - Attributes: Dark cream white (Pantone 9224)
+  - Reason: Color value exists only in Attributes, none in Quality Lines.
+• Size
+  - Quality Lines: None
+  - Attributes: Razor handle: 13×0.8 cm, Razor head: 4×1.2 cm, Shaving brush: 10×3.3 cm, Soap bowl: 8.7×4 cm, Stand: 12×10.5 cm
+  - Reason: Size details are given in Attributes but missing in Quality Lines.
+• Specifications
+  - Quality Lines: None
+  - Attributes: Blade hardness 580, sharpness 10
+  - Reason: Specifications exist only in Attributes.
