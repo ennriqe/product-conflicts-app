@@ -282,7 +282,7 @@ app.get('/api/export-excel', authenticateToken, async (req, res) => {
         r.selected_value as resolved_value,
         r.comment,
         r.resolved_by,
-        r.resolved_at
+        r.created_at as resolved_at
       FROM products p
       LEFT JOIN conflicts c ON p.id = c.product_id
       LEFT JOIN resolutions r ON c.id = r.conflict_id
