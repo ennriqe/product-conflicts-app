@@ -3,6 +3,7 @@ const cors = require('cors');
 const { Pool } = require('pg');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
+const XLSX = require('xlsx');
 require('dotenv').config();
 
 const app = express();
@@ -374,7 +375,6 @@ app.get('/api/export-excel', authenticateToken, async (req, res) => {
     });
     
     // Create Excel workbook
-    const XLSX = require('xlsx');
     const worksheet = XLSX.utils.aoa_to_sheet(excelData);
     const workbook = XLSX.utils.book_new();
     XLSX.utils.book_append_sheet(workbook, worksheet, 'Resolved Conflicts');
