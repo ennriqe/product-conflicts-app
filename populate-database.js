@@ -3,7 +3,7 @@ const XLSX = require('xlsx');
 const fs = require('fs');
 
 // Database connection - you'll need to replace this with your actual database URL
-const DATABASE_URL = process.env.DATABASE_URL || 'postgresql://product_conflicts_db_user:password@dpg-d2ssre95pdvs738vdm0g-a:5432/product_conflicts_db';
+const DATABASE_URL = process.env.DATABASE_URL || 'postgresql://product_conflicts_db_user:password@dpg-d2ssre95pdvs738vdm0g-a.oregon-postgres.render.com:5432/product_conflicts_db?sslmode=require';
 
 const pool = new Pool({
   connectionString: DATABASE_URL,

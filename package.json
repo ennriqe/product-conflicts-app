@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Product Conflicts Resolution App",
   "scripts": {
+    "setup-db": "node setup-database.js",
     "populate-db": "node populate-database.js",
     "install-backend": "cd backend && npm install",
     "install-frontend": "cd frontend && npm install",
