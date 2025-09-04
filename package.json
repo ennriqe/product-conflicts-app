@@ -1,0 +1,18 @@
+{
+  "name": "product-conflicts-app",
+  "version": "1.0.0",
+  "description": "Product Conflicts Resolution App",
+  "scripts": {
+    "populate-db": "node populate-database.js",
+    "install-backend": "cd backend && npm install",
+    "install-frontend": "cd frontend && npm install",
+    "install-all": "npm run install-backend && npm run install-frontend",
+    "start-backend": "cd backend && npm start",
+    "start-frontend": "cd frontend && npm start",
+    "build-frontend": "cd frontend && npm run build"
+  },
+  "dependencies": {
+    "pg": "^8.11.3",
+    "xlsx": "^0.18.5"
+  }
+}
