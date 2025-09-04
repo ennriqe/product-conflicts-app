@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Package, RefreshCw, CheckCircle, AlertTriangle, BarChart3, Target } from 'lucide-react';
+import { Package, RefreshCw, CheckCircle, AlertTriangle, AlertCircle, BarChart3, Target } from 'lucide-react';
 import ProductCard from './ProductCard';
 import { productsAPI } from '../services/api';
 
