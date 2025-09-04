@@ -8,6 +8,7 @@
     "cleanup-db": "node cleanup-database.js",
     "cleanup-db-direct": "node cleanup-db-direct.js",
     "advanced-cleanup": "node advanced-cleanup.js",
+    "cleanup-resolved": "node cleanup-resolved.js",
     "install-backend": "cd backend && npm install",
     "install-frontend": "cd frontend && npm install",
     "install-all": "npm run install-backend && npm run install-frontend",

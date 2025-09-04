@@ -191,6 +191,28 @@ app.post('/api/resolve-conflict', authenticateToken, async (req, res) => {
   }
 });
 
+// Delete a conflict
+app.delete('/api/conflicts/:conflictId', authenticateToken, async (req, res) => {
+  try {
+    const { conflictId } = req.params;
+    
+    // Delete resolution records first
+    await pool.query('DELETE FROM resolutions WHERE conflict_id = $1', [conflictId]);
+    
+    // Delete the conflict
+    const result = await pool.query('DELETE FROM conflicts WHERE id = $1', [conflictId]);
+    
+    if (result.rowCount === 0) {
+      return res.status(404).json({ error: 'Conflict not found' });
+    }
+    
+    res.json({ message: 'Conflict deleted successfully' });
+  } catch (error) {
+    console.error('Error deleting conflict:', error);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
 // Upload and process Excel file
 app.post('/api/upload-excel', authenticateToken, multer({ dest: 'uploads/' }).single('file'), async (req, res) => {
   try {
